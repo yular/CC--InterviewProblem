@@ -1,5 +1,11 @@
+/*
+* Tag: Math
+* Time: O(lgn) where n is the given num
+* Space: O(1)
+*
+*/
 class Solution {
-public:
+public
     bool isUgly(int num) {
         if(num <= 0)
             return false;
