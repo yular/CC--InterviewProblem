@@ -27,7 +27,7 @@ int main() {
         scanf("%d%d",&v_stat[i].pet,&v_stat[i].dist);
         v_stat[i].idx = i;        
     }
-    int tot_pet = 0, tot_dist = 0;
+    long long tot_pet = 0, tot_dist = 0;
     int idx = 0;
     while(q.size() < n){
         tot_pet += v_stat[idx].pet;
