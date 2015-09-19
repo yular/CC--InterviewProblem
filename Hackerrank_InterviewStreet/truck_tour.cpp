@@ -32,10 +32,8 @@ int main() {
     while(q.size() < n){
         tot_pet += v_stat[idx].pet;
         tot_dist += v_stat[idx].dist;
-        if(tot_pet >= tot_dist){
-            q.push(v_stat[idx]);
-        }else{
-            q.push(v_stat[idx]);
+        q.push(v_stat[idx]);
+        if(tot_pet < tot_dist){
             while(!q.empty()){
                 station tmp = q.front();
                 q.pop();
