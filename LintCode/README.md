@@ -1,1 +1,1 @@
-LintCode OJ
+#LintCode
