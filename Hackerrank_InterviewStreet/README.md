@@ -30,4 +30,5 @@
 
 
 ### Data Structure
-* Poisonous Plants: [problem](https://www.hackerrank.com/challenges/poisonous-plants);    [code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/poisonous-plants.cpp).
+* Arrays- DS: [Problem](https://www.hackerrank.com/challenges/arrays-dsdfdf);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/arrays_ds.cpp).
+* Poisonous Plants: [Problem](https://www.hackerrank.com/challenges/poisonous-plants);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/poisonous-plants.cpp).
