@@ -26,8 +26,7 @@
 
 ### Code Golf
 
-### Data Structure
-* Poisonous Plants: [code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/poisonous-plants.cpp)
-
 ### Multiple Choice
 
+### Data Structure
+* Poisonous Plants: [code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/poisonous-plants.cpp).
