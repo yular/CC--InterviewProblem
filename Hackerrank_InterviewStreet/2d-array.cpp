@@ -1,3 +1,9 @@
+/*
+*
+* Tag: Brute Force
+* Time: O(n^2)
+* Space: O(1)
+*/
 #include <cmath>
 #include <cstdio>
 #include <climits>
