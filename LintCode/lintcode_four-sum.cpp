@@ -1,7 +1,7 @@
 /*
 *
 * Tag: Brute Force + Sort
-* Time: O(n^2)
+* Time: O(n^3)
 * Space: O(1)
 */
 class Solution {
