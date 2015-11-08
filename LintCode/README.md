@@ -14,3 +14,4 @@
 * Maximum Subarray Difference: [Problem](http://www.lintcode.com/en/problem/maximum-subarray-difference/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximum-subarray-difference.cpp).
 * Majority Number: [Problem](http://www.lintcode.com/en/problem/majority-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_majority-number.cpp).
 * Majority Number II: [Problem](http://www.lintcode.com/en/problem/majority-number-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_majority-number-ii.cpp).
+* Add and Search World: [Problem](http://www.lintcode.com/en/problem/add-and-search-word/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_add-and-search-word.cpp).
