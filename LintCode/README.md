@@ -51,4 +51,10 @@
 * Single Number: [Problem](http://www.lintcode.com/en/problem/single-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_single-number.cpp).
 * Single Number II: [Problem](http://www.lintcode.com/en/problem/single-number-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_single-number-ii.cpp).
 * Single Number III: [Problem](http://www.lintcode.com/en/problem/single-number-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_single-number-iii.cpp).
+* Insert a Node in a Binary Search Tree: [Problem](http://www.lintcode.com/en/problem/insert-node-in-a-binary-search-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_insert-node-in-a-binary-search-tree.cpp).
+* Binary Search Tree Iterator: [Problem](http://www.lintcode.com/en/problem/binary-search-tree-iterator/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_binary-search-tree-iterator.cpp).
+* Remove Node in Binary Search Tree: [Problem](http://www.lintcode.com/en/problem/remove-node-in-binary-search-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_remove-node-in-binary-search-tree.cpp).
+* Lowest Common Ancestor: [Problem](http://www.lintcode.com/en/problem/lowest-common-ancestor/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_lowest-common-ancestor.cpp).
+* k Sum: [Problem](http://www.lintcode.com/en/problem/k-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_k-sum.cpp).
+* K Sum II: [Problem](http://www.lintcode.com/en/problem/k-sum-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_k-sum-ii.cpp).
 * Add and Search World: [Problem](http://www.lintcode.com/en/problem/add-and-search-word/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_add-and-search-word.cpp).
