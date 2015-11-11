@@ -57,4 +57,13 @@
 * Lowest Common Ancestor: [Problem](http://www.lintcode.com/en/problem/lowest-common-ancestor/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_lowest-common-ancestor.cpp).
 * k Sum: [Problem](http://www.lintcode.com/en/problem/k-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_k-sum.cpp).
 * K Sum II: [Problem](http://www.lintcode.com/en/problem/k-sum-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_k-sum-ii.cpp).
+* Minimum Adjustment Cost: [Problem](http://www.lintcode.com/en/problem/minimum-adjustment-cost/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_minimum-adjustment-cost.java).
+* Backpack: [Problem](http://www.lintcode.com/en/problem/backpack/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_backpack.cpp).
+* Balanced Binary Tree: [Problem] (http://www.lintcode.com/en/problem/balanced-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_balanced-binary-tree.cpp).
+* Binary Tree Maximum Path Sum: [Problem](http://www.lintcode.com/en/problem/binary-tree-maximum-path-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_binary-tree-maximum-path-sum.cpp).
+* Validate Binary Search Tree: [Problem](http://www.lintcode.com/en/problem/validate-binary-search-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_validate-binary-search-tree.cpp).
+* Partition List: [Problem](http://www.lintcode.com/en/problem/partition-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_partition-list.cpp).
+* Maximum Depth of Binary Tree: [Problem](http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximum-depth-of-binary-tree.cpp).
+* Sort List: [Problem](http://www.lintcode.com/en/problem/sort-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sort-list.cpp).
+* Reorder List: [Problem](http://www.lintcode.com/en/problem/reorder-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reorder-list.cpp).
 * Add and Search World: [Problem](http://www.lintcode.com/en/problem/add-and-search-word/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_add-and-search-word.cpp).
