@@ -88,4 +88,25 @@
 * Edit Distance: [Problem](http://www.lintcode.com/en/problem/edit-distance/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_edit-distance.cpp).
 * Word Ladder: [Problem](http://www.lintcode.com/en/problem/word-ladder/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_word-ladder.cpp).
 * Word Ladder II: [Problem](http://www.lintcode.com/en/problem/word-ladder-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_word-ladder-ii.cpp).
+* Largest Rectangle in Histogram: [Problem](http://www.lintcode.com/en/problem/largest-rectangle-in-histogram/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_largest-rectangle-in-histogram.cpp).
+* Word Search: [Problem](http://www.lintcode.com/en/problem/word-search/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_word-search.cpp).
+* Longest Consecutive Sequence: [Problem](http://www.lintcode.com/en/problem/longest-consecutive-sequence/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_longest-consecutive-sequence.cpp).
+* Backpack II: [Problem](http://www.lintcode.com/en/problem/backpack-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_backpack-ii.cpp).
+* Max Tree: [Problem](http://www.lintcode.com/en/problem/max-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_max-tree.java).
+* Topological Sort: [Problem](http://www.lintcode.com/en/problem/topological-sorting/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_topological-sorting.cpp).
+* Hash Function: [Problem](http://www.lintcode.com/en/problem/hash-function/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_hash-function.cpp).
+* Rehashing: [Problem](http://www.lintcode.com/en/problem/rehashing/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_rehashing.cpp).
+* Heapify: [Problem](http://www.lintcode.com/en/problem/heapify/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_heapify.java).
+* Word Search II: [Problem](http://www.lintcode.com/en/problem/word-search-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_word-search-ii.cpp).
+* LRU Cache: [Problem](http://www.lintcode.com/en/problem/lru-cache/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_lru-cache.cpp).
+* Combination Sum: [Problem](http://www.lintcode.com/en/problem/combination-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_combination-sum.cpp).
+* Clone Graph: [Problem](http://www.lintcode.com/en/problem/clone-graph/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_clone-graph.cpp).
+* Subarray Sum: [Problem](http://www.lintcode.com/en/problem/subarray-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_subarray-sum.cpp).
+* Subarray Sum Cloest: [Problem](http://www.lintcode.com/en/problem/subarray-sum-closest/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_subarray-sum-closest.cpp).
+* Fast Power: [Problem](http://www.lintcode.com/en/problem/fast-power/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_fast-power.cpp).
+* Sqrt(x): [Problem](http://www.lintcode.com/en/problem/sqrtx/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sqrtx.cpp).
+* O(1) Check Power of 2: [Problem](http://www.lintcode.com/en/problem/o1-check-power-of-2/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_o1-check-power-of-2.cpp).
+* Sort Colors II: [Problem](http://www.lintcode.com/en/problem/sort-colors-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sort-colors-ii.cpp).
+* Interleaving Positive and Negative Numbers: [Problem](http://www.lintcode.com/en/problem/interleaving-positive-and-negative-numbers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_interleaving-positive-and-negative-numbers.cpp).
+* Sort Colors: [Problem](http://www.lintcode.com/en/problem/sort-colors/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sort-colors.cpp).
 * Add and Search World: [Problem](http://www.lintcode.com/en/problem/add-and-search-word/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_add-and-search-word.cpp).
