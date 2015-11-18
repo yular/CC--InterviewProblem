@@ -132,5 +132,26 @@
 * Insertion Sort List: [Problem](http://www.lintcode.com/en/problem/insertion-sort-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_insertion-sort-list.cpp).
 * Remove Nth Node from the End of List: [Problem](http://www.lintcode.com/en/problem/remove-nth-node-from-end-of-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_remove-nth-node-from-end-of-list.cpp).
 * Route Between Two Nodes in Graph: [Problem](http://www.lintcode.com/en/problem/route-between-two-nodes-in-graph/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_route-between-two-nodes-in-graph.cpp).
+* Update Bits: [Problem](http://www.lintcode.com/en/problem/update-bits/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_update-bits.cpp).
+* Binary Representation: [Problem](http://www.lintcode.com/en/problem/binary-representation/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_binary-representation.java).
+* Flip Bits: [Problem](http://www.lintcode.com/en/problem/flip-bits/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_flip-bits.cpp).
+* Delete Digits: [Problem](http://www.lintcode.com/en/problem/delete-digits/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_delete-digits.java).
+* Wood Cut: [Problem](http://www.lintcode.com/en/problem/wood-cut/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_wood-cut.cpp).
+* Largest Number: [Problem](http://www.lintcode.com/en/problem/largest-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_largest-number.cpp).
+* Matrix Zigzag Traversal: [Problem](http://www.lintcode.com/en/problem/matrix-zigzag-traversal/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_matrix-zigzag-traversal.cpp).
+* Gas Station: [Problem](http://www.lintcode.com/en/problem/gas-station/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_gas-station.cpp).
+* Maximum Product Subarray: [Problem](http://www.lintcode.com/en/problem/maximum-product-subarray/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximum-product-subarray.cpp).
+* Wildcard Matching: [Problem](http://www.lintcode.com/en/problem/wildcard-matching/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_wildcard-matching.cpp).
+* Permutation Index: [Problem](http://www.lintcode.com/en/problem/permutation-index/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_permutation-index.cpp).
+* Permutation Index II: [Problem]: (http://www.lintcode.com/en/problem/permutation-index-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_permutation-index-ii.cpp).
+* Segment Tree Build: [Problem](http://www.lintcode.com/en/problem/segment-tree-build/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_segment-tree-build.cpp).
+* Segment Tree Query: [Problem](http://www.lintcode.com/en/problem/segment-tree-query/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_segment-tree-query.cpp).
+* Segment Tree Modify: [Problem](http://www.lintcode.com/en/problem/segment-tree-modify/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_segment-tree-modify.cpp).
+* Singleton : [Problem](http://www.lintcode.com/en/problem/singleton/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_singleton.java).
+* Interval Minimum Number: [Problem](http://www.lintcode.com/en/problem/interval-minimum-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_interval-minimum-number.cpp).
+* Interval Sum: [Problem](http://www.lintcode.com/en/problem/interval-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_interval-sum.cpp).
+* Interval Sum II: [Problem](http://www.lintcode.com/en/problem/interval-sum-ii/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_interval-sum-ii.cpp).
+* Segment Tree Query II: [Problem](http://www.lintcode.com/en/problem/segment-tree-query-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_segment-tree-query-ii.cpp).
+* First Missing Positive: [Problem](http://www.lintcode.com/en/problem/first-missing-positive/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_first-missing-positive.cpp).
 * Add and Search World: [Problem](http://www.lintcode.com/en/problem/add-and-search-word/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_add-and-search-word.cpp).
 * Convert Binary Search Tree to Doubly Linked List: [Problem](http://www.lintcode.com/en/problem/convert-binary-search-tree-to-doubly-linked-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_convert-binary-search-tree-to-doubly-linked-list.cpp).
