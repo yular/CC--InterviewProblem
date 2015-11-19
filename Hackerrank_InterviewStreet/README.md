@@ -5,6 +5,7 @@
 ### Implementation
 
 ### Strings
+* Sherlock and Valid String: [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-valid-string.cpp).
 
 ### Sorting
 
