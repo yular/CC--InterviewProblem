@@ -176,5 +176,10 @@
 * Add Binary: [Problem](http://www.lintcode.com/en/problem/add-binary/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_add-binary.cpp).
 * Convert Sorted Array to Binary Tree with Minimum Height: [Problem](http://www.lintcode.com/en/problem/convert-sorted-array-to-binary-search-tree-with-minimal-height/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_convert-sorted-array-to-binary-search-tree-with-minimal-height.cpp).
 * Plus One: [Problem](http://www.lintcode.com/en/problem/plus-one/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_plus-one.cpp).
+* Divide Two Integers: [Problem](http://www.lintcode.com/en/problem/divide-two-integers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_divide-two-integers.cpp).
+* Gray Code: [Problem](http://www.lintcode.com/en/problem/gray-code/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_gray-code.cpp).
+* Reverse Integer: [Problem](http://www.lintcode.com/en/problem/reverse-integer/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-integer.cpp).
+* Candy: [Problem](http://www.lintcode.com/en/problem/candy/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_candy.cpp).
+* House Rubber: [Problem](http://www.lintcode.com/en/problem/house-robber/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_house-robber.cpp).
 * Add and Search Word: [Problem](http://www.lintcode.com/en/problem/add-and-search-word/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_add-and-search-word.cpp).
 * Convert Binary Search Tree to Doubly Linked List: [Problem](http://www.lintcode.com/en/problem/convert-binary-search-tree-to-doubly-linked-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_convert-binary-search-tree-to-doubly-linked-list.cpp).
