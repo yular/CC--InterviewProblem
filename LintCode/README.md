@@ -219,5 +219,7 @@
 * Maximal Square: [Problem](http://www.lintcode.com/en/problem/maximal-square/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximal-square.cpp).
 * Copy Books: [Problem](http://www.lintcode.com/en/problem/copy-books/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_copy-books.cpp).
 * Longest Words: [Problem](http://www.lintcode.com/en/problem/longest-words/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_longest-words.cpp).
+* Segment Tree Build II: [Problem](http://www.lintcode.com/en/problem/segmemt-tree-build-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_segmemt-tree-build-ii.cpp).
+* Space Replacement: [Problem](http://www.lintcode.com/en/problem/space-replacement/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_space-replacement.cpp).
 * Add and Search Word: [Problem](http://www.lintcode.com/en/problem/add-and-search-word/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_add-and-search-word.cpp).
 * Convert Binary Search Tree to Doubly Linked List: [Problem](http://www.lintcode.com/en/problem/convert-binary-search-tree-to-doubly-linked-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_convert-binary-search-tree-to-doubly-linked-list.cpp).
