@@ -143,7 +143,7 @@
 * Maximum Product Subarray: [Problem](http://www.lintcode.com/en/problem/maximum-product-subarray/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximum-product-subarray.cpp).
 * Wildcard Matching: [Problem](http://www.lintcode.com/en/problem/wildcard-matching/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_wildcard-matching.cpp).
 * Permutation Index: [Problem](http://www.lintcode.com/en/problem/permutation-index/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_permutation-index.cpp).
-* Permutation Index II: [Problem]: (http://www.lintcode.com/en/problem/permutation-index-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_permutation-index-ii.cpp).
+* Permutation Index II: [Problem](http://www.lintcode.com/en/problem/permutation-index-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_permutation-index-ii.cpp).
 * Segment Tree Build: [Problem](http://www.lintcode.com/en/problem/segment-tree-build/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_segment-tree-build.cpp).
 * Segment Tree Query: [Problem](http://www.lintcode.com/en/problem/segment-tree-query/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_segment-tree-query.cpp).
 * Segment Tree Modify: [Problem](http://www.lintcode.com/en/problem/segment-tree-modify/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_segment-tree-modify.cpp).
