@@ -241,3 +241,4 @@
 * Spiral Matrix II: [Problem](http://www.lintcode.com/en/problem/spiral-matrix-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_spiral-matrix-ii.cpp).
 * Graph Valid Tree: [Problem](http://www.lintcode.com/en/problem/graph-valid-tree/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_graph-valid-tree.cpp).
 * Generate Parentheses: [Problem](http://www.lintcode.com/en/problem/generate-parentheses/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_generate-parentheses.cpp).
+* Binary Tree Path Sum: [Problem](http://www.lintcode.com/en/problem/binary-tree-path-sum/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_binary-tree-path-sum.cpp).
