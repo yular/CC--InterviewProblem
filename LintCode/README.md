@@ -137,6 +137,7 @@
 * Flip Bits: [Problem](http://www.lintcode.com/en/problem/flip-bits/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_flip-bits.cpp).
 * Delete Digits: [Problem](http://www.lintcode.com/en/problem/delete-digits/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_delete-digits.java).
 * Wood Cut: [Problem](http://www.lintcode.com/en/problem/wood-cut/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_wood-cut.cpp).
+* Pow(x, n): [Problem](http://www.lintcode.com/en/problem/powx-n/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_powx-n.cpp).
 * Largest Number: [Problem](http://www.lintcode.com/en/problem/largest-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_largest-number.cpp).
 * Matrix Zigzag Traversal: [Problem](http://www.lintcode.com/en/problem/matrix-zigzag-traversal/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_matrix-zigzag-traversal.cpp).
 * Gas Station: [Problem](http://www.lintcode.com/en/problem/gas-station/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_gas-station.cpp).
