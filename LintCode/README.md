@@ -2,7 +2,10 @@
 * A + B Problem: [Problem](http://www.lintcode.com/en/problem/a-b-problem/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_a%2Bb.cpp).
 * Trailing Zeros: [Problem](http://www.lintcode.com/en/problem/trailing-zeros/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_trailing-zeros.cpp).
 * Digits Count: [Problem](http://www.lintcode.com/en/problem/digit-counts/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_digit-counts.cpp).
-* Ugly Number: [Problem](http://www.lintcode.com/en/problem/ugly-number/);   [Code](http://www.lintcode.com/en/problem/ugly-number/).
+* Ugly Number: [Problem](http://www.lintcode.com/en/problem/ugly-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_ugly-number.cpp/).
+* K th Largest Number: [Problem](http://www.lintcode.com/en/problem/kth-largest-element/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_kth-largest-element.cpp).
+* Binary Tree Serialization: [Problem](http://www.lintcode.com/en/problem/binary-tree-serialization/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_binary-tree-serialization.cpp).
+* Merge Sorted Array II: [Prolem](http://www.lintcode.com/en/problem/merge-sorted-array-ii/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_merge-sorted-array-ii.cpp).
 * Minimum Window Substring: [Problem](http://www.lintcode.com/en/problem/minimum-window-substring/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_minimum_window_substring.cpp).
 * Reverse Linked List: [Problem](http://www.lintcode.com/en/problem/reverse-linked-list/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-linked-list.cpp).
 * Reverse Linked List II: [Problem](http://www.lintcode.com/en/problem/reverse-linked-list-ii/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-linked-list-ii.cpp).
