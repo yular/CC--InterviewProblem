@@ -6,6 +6,8 @@
 * K th Largest Number: [Problem](http://www.lintcode.com/en/problem/kth-largest-element/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_kth-largest-element.cpp).
 * Binary Tree Serialization: [Problem](http://www.lintcode.com/en/problem/binary-tree-serialization/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_binary-tree-serialization.cpp).
 * Merge Sorted Array II: [Prolem](http://www.lintcode.com/en/problem/merge-sorted-array-ii/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_merge-sorted-array-ii.cpp).
+* Rotate String: [Problem](http://www.lintcode.com/en/problem/rotate-string/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_rotate-string.cpp).
+* Fizz Buzz: [Problem](http://www.lintcode.com/en/problem/fizz-buzz/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_fizz-buzz.cpp).
 * Minimum Window Substring: [Problem](http://www.lintcode.com/en/problem/minimum-window-substring/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_minimum_window_substring.cpp).
 * Reverse Linked List: [Problem](http://www.lintcode.com/en/problem/reverse-linked-list/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-linked-list.cpp).
 * Reverse Linked List II: [Problem](http://www.lintcode.com/en/problem/reverse-linked-list-ii/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-linked-list-ii.cpp).
