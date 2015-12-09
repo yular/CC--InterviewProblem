@@ -11,6 +11,10 @@
 * Search Range in Binary Search Tree: [Problem](http://www.lintcode.com/en/problem/search-range-in-binary-search-tree/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_search-range-in-binary-search-tree.cpp).
 * Min Stack: [Problem](http://www.lintcode.com/en/problem/min-stack/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_min-stack.cpp).
 * StrStr: [Problem](http://www.lintcode.com/en/problem/strstr/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_strstr.cpp).
+* First Position of target: [Problem](http://www.lintcode.com/en/problem/first-position-of-target/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_first-position-of-target.cpp).
+* Permutation: [Problem](http://www.lintcode.com/en/problem/permutations/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_permutations.cpp).
+* Subsets: [Problem](http://www.lintcode.com/en/problem/subsets/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_subsets.cpp).
+* Subsets II: [Problem](http://www.lintcode.com/en/problem/subsets-ii/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_subsets-ii.cpp).
 * Minimum Window Substring: [Problem](http://www.lintcode.com/en/problem/minimum-window-substring/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_minimum_window_substring.cpp).
 * Reverse Linked List: [Problem](http://www.lintcode.com/en/problem/reverse-linked-list/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-linked-list.cpp).
 * Reverse Linked List II: [Problem](http://www.lintcode.com/en/problem/reverse-linked-list-ii/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-linked-list-ii.cpp).
