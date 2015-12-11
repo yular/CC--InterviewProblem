@@ -15,6 +15,10 @@
 * Permutation: [Problem](http://www.lintcode.com/en/problem/permutations/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_permutations.cpp).
 * Subsets: [Problem](http://www.lintcode.com/en/problem/subsets/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_subsets.cpp).
 * Subsets II: [Problem](http://www.lintcode.com/en/problem/subsets-ii/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_subsets-ii.cpp).
+* Search A 2D Matrix: [Problem](http://www.lintcode.com/en/problem/search-a-2d-matrix/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_search-a-2d-matrix.cpp).
+* Interleaving String: [Problem](http://www.lintcode.com/en/problem/interleaving-string/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_interleaving-string.cpp).
+* Insert Interval: [Problem](http://www.lintcode.com/en/problem/insert-interval/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_insert-interval.cpp).
+* Partition Array: [Problem](http://www.lintcode.com/en/problem/partition-array/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_partition-array.cpp).
 * Minimum Window Substring: [Problem](http://www.lintcode.com/en/problem/minimum-window-substring/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_minimum_window_substring.cpp).
 * Reverse Linked List: [Problem](http://www.lintcode.com/en/problem/reverse-linked-list/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-linked-list.cpp).
 * Reverse Linked List II: [Problem](http://www.lintcode.com/en/problem/reverse-linked-list-ii/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-linked-list-ii.cpp).
