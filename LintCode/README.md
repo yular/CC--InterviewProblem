@@ -80,6 +80,7 @@
 * Balanced Binary Tree: [Problem] (http://www.lintcode.com/en/problem/balanced-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_balanced-binary-tree.cpp).
 * Binary Tree Maximum Path Sum: [Problem](http://www.lintcode.com/en/problem/binary-tree-maximum-path-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_binary-tree-maximum-path-sum.cpp).
 * Validate Binary Search Tree: [Problem](http://www.lintcode.com/en/problem/validate-binary-search-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_validate-binary-search-tree.cpp).
+* Identical Binary Tree: [Problem](http://www.lintcode.com/en/problem/identical-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_identical-binary-tree.cpp).
 * Partition List: [Problem](http://www.lintcode.com/en/problem/partition-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_partition-list.cpp).
 * Maximum Depth of Binary Tree: [Problem](http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximum-depth-of-binary-tree.cpp).
 * Sort List: [Problem](http://www.lintcode.com/en/problem/sort-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sort-list.cpp).
