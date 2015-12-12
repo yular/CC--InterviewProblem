@@ -260,3 +260,4 @@
 * Graph Valid Tree: [Problem](http://www.lintcode.com/en/problem/graph-valid-tree/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_graph-valid-tree.cpp).
 * Generate Parentheses: [Problem](http://www.lintcode.com/en/problem/generate-parentheses/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_generate-parentheses.cpp).
 * Binary Tree Path Sum: [Problem](http://www.lintcode.com/en/problem/binary-tree-path-sum/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_binary-tree-path-sum.cpp).
+* Happy Number: [Problem](http://www.lintcode.com/en/problem/happy-number/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_happy-number.cpp).
