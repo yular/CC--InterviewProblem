@@ -265,3 +265,4 @@
 * Generate Parentheses: [Problem](http://www.lintcode.com/en/problem/generate-parentheses/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_generate-parentheses.cpp).
 * Binary Tree Path Sum: [Problem](http://www.lintcode.com/en/problem/binary-tree-path-sum/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_binary-tree-path-sum.cpp).
 * Happy Number: [Problem](http://www.lintcode.com/en/problem/happy-number/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_happy-number.cpp).
+* String Permutation: [Problem](http://www.lintcode.com/en/problem/string-permutation/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_string-permutation.cpp).
