@@ -16,7 +16,7 @@
 ### Greedy
 
 ### Dynamic Programming
-
+* Dorsey Thief: [Problem](https://www.hackerrank.com/challenges/dorsey-thief);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/dorsey-thief.cpp).
 ### Bit Manipulation
 
 ### Regex
