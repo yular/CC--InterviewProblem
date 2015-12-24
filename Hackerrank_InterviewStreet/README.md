@@ -37,4 +37,4 @@
 * Print the elements of a linked list: [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/2d-array.cpp).
 * Poisonous Plants: [Problem](https://www.hackerrank.com/challenges/poisonous-plants);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/poisonous-plants.cpp).
 * Maximum Element: [Problem](https://www.hackerrank.com/challenges/maximum-element);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/maximum-element.cpp).
-* [Problem](https://www.hackerrank.com/challenges/balanced-parentheses);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/balanced-parentheses.cpp).
+* Balanced Parentheses: [Problem](https://www.hackerrank.com/challenges/balanced-parentheses);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/balanced-parentheses.cpp).
