@@ -39,3 +39,4 @@
 * Maximum Element: [Problem](https://www.hackerrank.com/challenges/maximum-element);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/maximum-element.cpp).
 * Balanced Parentheses: [Problem](https://www.hackerrank.com/challenges/balanced-parentheses);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/balanced-parentheses.cpp).
 * Dynamic Array: [Problem](https://www.hackerrank.com/challenges/dynamic-array);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/dynamic-array.cpp).
+* QHEAP1: [Problem](https://www.hackerrank.com/challenges/qheap1);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/qheap1.cpp).
