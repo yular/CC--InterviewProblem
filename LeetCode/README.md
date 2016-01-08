@@ -7,4 +7,5 @@
 * Maximum Product of Word Lengths: [Problem](https://leetcode.com/problems/maximum-product-of-word-lengths/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-product-of-word-lengths.cpp).
 * Bulb Switcher: [Problem](https://leetcode.com/problems/bulb-switcher/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_bulb-switcher.cpp).
 * Coin Change: [Problem](https://leetcode.com/problems/coin-change/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_coin-change.cpp).
+* Power of Three: [Problem](https://leetcode.com/problems/power-of-three/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_power-of-three.cpp).
 
