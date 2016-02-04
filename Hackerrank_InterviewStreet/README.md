@@ -6,6 +6,7 @@
 
 ### Strings
 * Sherlock and Valid String: [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-valid-string.cpp).
+* String Similarity: [Problem](https://www.hackerrank.com/challenges/string-similarity);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/string-similarity.cpp).
 
 ### Sorting
 
