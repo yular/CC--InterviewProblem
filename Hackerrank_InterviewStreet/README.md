@@ -6,6 +6,10 @@ For details of explanation of solution, check this website: http://yular.github.
 * Solve Me First: [Problem](https://www.hackerrank.com/challenges/solve-me-first);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/solve-me-first.cpp).
 * Simple Array Sum: [Problem](https://www.hackerrank.com/challenges/simple-array-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/simple-array-sum.cpp).
 * A Very Big Sume: [Problem](https://www.hackerrank.com/challenges/a-very-big-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/a-very-big-sum.cpp).
+* Diagonal Difference: [Problem](https://www.hackerrank.com/challenges/diagonal-difference);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/diagonal-difference.cpp).
+* Plus Minus: [Problem](https://www.hackerrank.com/challenges/plus-minus);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/plus-minus.cpp).
+* Staircase: [Problem](https://www.hackerrank.com/challenges/staircase);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/staircase.cpp).
+* Time Conversion: [Problem](https://www.hackerrank.com/challenges/time-conversion);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/time-conversion.cpp).
 
 ### Implementation
 
