@@ -54,3 +54,4 @@ For details of explanation of solution, check this website: http://yular.github.
 * Simple Text Editor: [Problem](https://www.hackerrank.com/challenges/simple-text-editor);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/simple-text-editor.cpp).
 * Down To Zero II: [Problem](https://www.hackerrank.com/challenges/down-to-zero-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/down-to-zero-ii.cpp).
 * Jesse and Cookies: [Problem](https://www.hackerrank.com/challenges/jesse-and-cookies);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/jesse-and-cookies.cpp).
+* Waiter: [Problem](https://www.hackerrank.com/challenges/waiter);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/waiter.cpp).
