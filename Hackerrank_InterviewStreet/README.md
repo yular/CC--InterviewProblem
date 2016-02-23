@@ -51,3 +51,4 @@ For details of explanation of solution, check this website: http://yular.github.
 * Balanced Parentheses: [Problem](https://www.hackerrank.com/challenges/balanced-parentheses);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/balanced-parentheses.cpp).
 * Dynamic Array: [Problem](https://www.hackerrank.com/challenges/dynamic-array);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/dynamic-array.cpp).
 * QHEAP1: [Problem](https://www.hackerrank.com/challenges/qheap1);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/qheap1.cpp).
+* Simple Text Editor: [Problem](https://www.hackerrank.com/challenges/simple-text-editor);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/simple-text-editor.cpp).
