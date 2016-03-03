@@ -267,3 +267,5 @@
 * Happy Number: [Problem](http://www.lintcode.com/en/problem/happy-number/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_happy-number.cpp).
 * String Permutation: [Problem](http://www.lintcode.com/en/problem/string-permutation/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_string-permutation.cpp).
 * Restore IP Address: [Problem](http://www.lintcode.com/en/problem/restore-ip-addresses/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_restore-ip-addresses.cpp).
+* Wiggle Sort: [Problem](http://www.lintcode.com/en/problem/wiggle-sort/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_wiggle-sort.cpp).
+* Wiggle Sort II: [Problem](http://www.lintcode.com/en/problem/wiggle-sort-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_wiggle-sort-ii.cpp).
