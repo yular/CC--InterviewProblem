@@ -270,3 +270,4 @@
 * Wiggle Sort: [Problem](http://www.lintcode.com/en/problem/wiggle-sort/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_wiggle-sort.cpp).
 * Wiggle Sort II: [Problem](http://www.lintcode.com/en/problem/wiggle-sort-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_wiggle-sort-ii.cpp).
 * Maximal Rectangle: [Problem](http://www.lintcode.com/en/problem/maximal-rectangle/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximal-rectangle.cpp).
+* Swap Two Nodes in Linked List: [Problem](http://www.lintcode.com/en/problem/swap-two-nodes-in-linked-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_swap-two-nodes-in-linked-list.cpp).
