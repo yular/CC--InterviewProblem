@@ -56,3 +56,4 @@ For details of explanation of solution, check this website: http://yular.github.
 * Jesse and Cookies: [Problem](https://www.hackerrank.com/challenges/jesse-and-cookies);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/jesse-and-cookies.cpp).
 * Waiter: [Problem](https://www.hackerrank.com/challenges/waiter);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/waiter.cpp).
 * Contact: [Problem](https://www.hackerrank.com/challenges/contacts);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/contacts.cpp).
+* Sparse Array: [Problem](https://www.hackerrank.com/challenges/sparse-arrays);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sparse-arrays.cpp).
