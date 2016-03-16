@@ -58,3 +58,4 @@ For details of explanation of solution, check this website: http://yular.github.
 * Contact: [Problem](https://www.hackerrank.com/challenges/contacts);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/contacts.cpp).
 * Sparse Array: [Problem](https://www.hackerrank.com/challenges/sparse-arrays);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sparse-arrays.cpp).
 * Castle on the Grid: [Problem](https://www.hackerrank.com/challenges/castle-on-the-grid);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/castle-on-the-grid.cpp).
+* Queries with Fixed Length: [Problem](https://www.hackerrank.com/challenges/queries-with-fixed-length);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/queries-with-fixed-length.cpp). 
