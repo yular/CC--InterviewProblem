@@ -12,6 +12,10 @@
 * Min Stack: [Problem](http://www.lintcode.com/en/problem/min-stack/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_min-stack.cpp).
 * StrStr: [Problem](http://www.lintcode.com/en/problem/strstr/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_strstr.cpp).
 * First Position of target: [Problem](http://www.lintcode.com/en/problem/first-position-of-target/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_first-position-of-target.cpp).
+* Perfect Squares: [Problem](http://www.lintcode.com/en/problem/perfect-squares/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_perfect-squares.cpp).
+* Paint Fence: [Problem](http://www.lintcode.com/en/problem/paint-fence/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_paint-fence.cpp).
+* Paint House: [Problem](http://www.lintcode.com/en/problem/paint-house/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_paint-house.cpp).
+* Paint House II: [Problem](http://www.lintcode.com/en/problem/paint-house-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_paint-house-ii.cpp).
 * Permutation: [Problem](http://www.lintcode.com/en/problem/permutations/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_permutations.cpp).
 * Permutation II: [Problem](http://www.lintcode.com/en/problem/permutations-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_permutations-ii.cpp).
 * Subsets: [Problem](http://www.lintcode.com/en/problem/subsets/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_subsets.cpp).
