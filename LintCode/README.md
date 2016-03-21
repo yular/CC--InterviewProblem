@@ -277,3 +277,5 @@
 * Maximal Rectangle: [Problem](http://www.lintcode.com/en/problem/maximal-rectangle/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximal-rectangle.cpp).
 * Swap Two Nodes in Linked List: [Problem](http://www.lintcode.com/en/problem/swap-two-nodes-in-linked-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_swap-two-nodes-in-linked-list.cpp).
 * Decode Ways: [Problem](http://www.lintcode.com/en/problem/decode-ways/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_decode-ways.cpp).
+* Burst Ballons: [Problem](http://www.lintcode.com/en/problem/burst-balloons/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_burst-balloons.cpp).
+* Super Ugly Number: [Problem](http://www.lintcode.com/en/problem/super-ugly-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_super-ugly-number.cpp).
