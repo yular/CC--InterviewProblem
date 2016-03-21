@@ -12,7 +12,7 @@
 * Min Stack: [Problem](http://www.lintcode.com/en/problem/min-stack/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_min-stack.cpp).
 * StrStr: [Problem](http://www.lintcode.com/en/problem/strstr/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_strstr.cpp).
 * First Position of target: [Problem](http://www.lintcode.com/en/problem/first-position-of-target/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_first-position-of-target.cpp).
-* Ugly Number: [Problem](http://www.lintcode.com/en/problem/ugly-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_ugly-number.cpp).
+* Ugly Number: [Problem](http://www.lintcode.com/en/problem/ugly-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_Ugly-number.cpp).
 * Perfect Squares: [Problem](http://www.lintcode.com/en/problem/perfect-squares/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_perfect-squares.cpp).
 * Paint Fence: [Problem](http://www.lintcode.com/en/problem/paint-fence/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_paint-fence.cpp).
 * Paint House: [Problem](http://www.lintcode.com/en/problem/paint-house/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_paint-house.cpp).
