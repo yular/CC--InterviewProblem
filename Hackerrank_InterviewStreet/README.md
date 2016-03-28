@@ -45,7 +45,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Data Structure
 * Arrays- DS: [Problem](https://www.hackerrank.com/challenges/arrays-dsdfdf);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/arrays_ds.cpp).
 * 2D Array - DS: [Problem](https://www.hackerrank.com/challenges/2d-array);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/2d-array.cpp).
-* Print the elements of a linked list: [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/2d-array.cpp).
+* Print the elements of a linked list: [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/print-the-elements-of-a-linked-list.cpp).
 * Poisonous Plants: [Problem](https://www.hackerrank.com/challenges/poisonous-plants);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/poisonous-plants.cpp).
 * Maximum Element: [Problem](https://www.hackerrank.com/challenges/maximum-element);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/maximum-element.cpp).
 * Balanced Parentheses: [Problem](https://www.hackerrank.com/challenges/balanced-parentheses);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/balanced-parentheses.cpp).
