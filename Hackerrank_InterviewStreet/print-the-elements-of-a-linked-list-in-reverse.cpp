@@ -2,7 +2,7 @@
 *
 * Tag: Linked List
 * Time: O(n)
-* Space: O(1)
+* Space: O(n)
 */
 /*
   Print elements of a linked list in reverse order as standard output
