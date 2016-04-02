@@ -81,6 +81,10 @@ For details of explanation of solution, check this website: http://yular.github.
 * Down To Zero II: [Problem](https://www.hackerrank.com/challenges/down-to-zero-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/down-to-zero-ii.cpp).
 * Jesse and Cookies: [Problem](https://www.hackerrank.com/challenges/jesse-and-cookies);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/jesse-and-cookies.cpp).
 * Waiter: [Problem](https://www.hackerrank.com/challenges/waiter);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/waiter.cpp).
+* Castle on the Grid: [Problem](https://www.hackerrank.com/challenges/castle-on-the-grid);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/castle-on-the-grid.cpp).
+* Truck Tour: [Problem](https://www.hackerrank.com/challenges/truck-tour);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/truck-tour.cpp).
+* Find Median: [Problem](https://www.hackerrank.com/challenges/find-median-1);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/find-median-1.cpp).
+* Minimum Average Waiting Time: [Problem](https://www.hackerrank.com/challenges/minimum-average-waiting-time);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/minimum-average-waiting-time.cpp).
 * Contact: [Problem](https://www.hackerrank.com/challenges/contacts);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/contacts.cpp).
 * Sparse Array: [Problem](https://www.hackerrank.com/challenges/sparse-arrays);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sparse-arrays.cpp).
 * Castle on the Grid: [Problem](https://www.hackerrank.com/challenges/castle-on-the-grid);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/castle-on-the-grid.cpp).
