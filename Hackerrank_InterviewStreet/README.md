@@ -88,6 +88,9 @@ For details of explanation of solution, check this website: http://yular.github.
 * Contact: [Problem](https://www.hackerrank.com/challenges/contacts);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/contacts.cpp).
 * Sparse Array: [Problem](https://www.hackerrank.com/challenges/sparse-arrays);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sparse-arrays.cpp).
 * Castle on the Grid: [Problem](https://www.hackerrank.com/challenges/castle-on-the-grid);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/castle-on-the-grid.cpp).
-* Queries with Fixed Length: [Problem](https://www.hackerrank.com/challenges/queries-with-fixed-length);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/queries-with-fixed-length.cpp). 
+* Queries with Fixed Length: [Problem](https://www.hackerrank.com/challenges/queries-with-fixed-length);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/queries-with-fixed-length.cpp).
+* Merging communities: [Problem](https://www.hackerrank.com/challenges/merging-communities);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/merging-communities.cpp).
+* Components in a graph: [Problem](https://www.hackerrank.com/challenges/components-in-graph);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/components-in-graph.cpp).
+* No Prefix Set: [Problem](https://www.hackerrank.com/challenges/no-prefix-set);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/no-prefix-set.cpp).
 * Dynamic Array: [Problem](https://www.hackerrank.com/challenges/dynamic-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/dynamic-array.cpp).
 * Sparse Array: [Problem](https://www.hackerrank.com/challenges/sparse-arrays);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sparse-arrays.cpp).
