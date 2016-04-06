@@ -94,3 +94,4 @@ For details of explanation of solution, check this website: http://yular.github.
 * No Prefix Set: [Problem](https://www.hackerrank.com/challenges/no-prefix-set);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/no-prefix-set.cpp).
 * Dynamic Array: [Problem](https://www.hackerrank.com/challenges/dynamic-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/dynamic-array.cpp).
 * Sparse Array: [Problem](https://www.hackerrank.com/challenges/sparse-arrays);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sparse-arrays.cpp).
+* Cube Summation: [Problem](https://www.hackerrank.com/challenges/cube-summation);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/cube-summation.cpp).
