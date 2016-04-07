@@ -12,6 +12,8 @@ For details of explanation of solution, check this website: http://yular.github.
 * Time Conversion: [Problem](https://www.hackerrank.com/challenges/time-conversion);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/time-conversion.cpp).
 
 ### Implementation
+* Angry Professor: [Problem](https://www.hackerrank.com/challenges/angry-professor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/angry-professor.cpp).
+* Sherlock and The Beast: [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-the-beast.cpp).
 
 ### Strings
 * Sherlock and Valid String: [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-valid-string.cpp).
