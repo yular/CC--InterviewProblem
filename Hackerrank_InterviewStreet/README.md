@@ -14,6 +14,8 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Implementation
 * Angry Professor: [Problem](https://www.hackerrank.com/challenges/angry-professor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/angry-professor.cpp).
 * Sherlock and The Beast: [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-the-beast.cpp).
+* Lisa's Workbook: [Problem](https://www.hackerrank.com/challenges/bear-and-workbook);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bear-and-workbook.cpp).
+* Larry's Array: [Problem](https://www.hackerrank.com/challenges/larrys-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/larrys-array.cpp).
 
 ### Strings
 * Sherlock and Valid String: [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-valid-string.cpp).
@@ -26,6 +28,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Graph Theory
 
 ### Greedy
+* Beautiful Pairs: [Problem](https://www.hackerrank.com/challenges/beautiful-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-pairs.cpp).
 
 ### Dynamic Programming
 * Hexagonal Grid: [Problem](https://www.hackerrank.com/challenges/hexagonal-grid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hexagonal-grid.cpp).
