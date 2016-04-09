@@ -1,7 +1,7 @@
 /*
 *
 * Tag: DFS
-* Time: O(Cn) where C=2048
+* Time: O(C(n+m)) where C=2048
 * Space: O(n)
 */
 #include <cmath>
