@@ -26,6 +26,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Search
 
 ### Graph Theory
+* Minimum Penalty Path: [Problem](https://www.hackerrank.com/challenges/beautiful-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-path.cpp).
 
 ### Greedy
 * Beautiful Pairs: [Problem](https://www.hackerrank.com/challenges/beautiful-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-pairs.cpp).
