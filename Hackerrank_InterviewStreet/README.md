@@ -14,6 +14,24 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Implementation
 * Angry Professor: [Problem](https://www.hackerrank.com/challenges/angry-professor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/angry-professor.cpp).
 * Sherlock and The Beast: [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-the-beast.cpp).
+* Utopian Tree: [Problem](https://www.hackerrank.com/challenges/utopian-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/utopian-tree.cpp).
+* Find Digits: [Problem](https://www.hackerrank.com/challenges/find-digits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/find-digits.cpp).
+* Sherlock and Squares: [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-squares.cpp).
+* Service Lane: [Problem](https://www.hackerrank.com/challenges/service-lane);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/service-lane.cpp).
+* Cut the sticks: [Problem](https://www.hackerrank.com/challenges/cut-the-sticks);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/cut-the-sticks.cpp).
+* The Grid Search: [Problem](https://www.hackerrank.com/challenges/the-grid-search);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-grid-search.cpp).
+* Chocolate Feast: [Problem](https://www.hackerrank.com/challenges/chocolate-feast);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/chocolate-feast.cpp).
+* Cavity Map: [Problem](https://www.hackerrank.com/challenges/cavity-map);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/cavity-map.cpp).
+* Caesar Cipher: [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/caesar-cipher-1.cpp).
+* Library Fine: [Problem](https://www.hackerrank.com/challenges/library-fine);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/library-fine.cpp).
+* Manasa and Stones: [Problem](https://www.hackerrank.com/challenges/manasa-and-stones);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/manasa-and-stones.cpp).
+* ACM ICPC Team: [Problem](https://www.hackerrank.com/challenges/acm-icpc-team);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/acm-icpc-team.cpp).
+* Extra Long Factorials: [Problem](https://www.hackerrank.com/challenges/extra-long-factorials);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/extra-long-factorials.java).
+* Taum and B'day: [Problem](https://www.hackerrank.com/challenges/taum-and-bday);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/taum-and-bday.cpp).
+* The Time in Words: [Problem](https://www.hackerrank.com/challenges/the-time-in-words);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-time-in-words.cpp).
+* Modified Kaprekar Numbers: [Problem](https://www.hackerrank.com/challenges/kaprekar-numbers);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/kaprekar-numbers.cpp).
+* Encryption: [Problem](https://www.hackerrank.com/challenges/encryption);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/encryption.cpp).
+* Matrix Rotation: [Problem](https://www.hackerrank.com/challenges/matrix-rotation-algo);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/matrix-rotation-algo.cpp).
 * Lisa's Workbook: [Problem](https://www.hackerrank.com/challenges/bear-and-workbook);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bear-and-workbook.cpp).
 * Larry's Array: [Problem](https://www.hackerrank.com/challenges/larrys-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/larrys-array.cpp).
 
