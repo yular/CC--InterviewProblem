@@ -40,6 +40,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * String Similarity: [Problem](https://www.hackerrank.com/challenges/string-similarity);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/string-similarity.cpp).
 
 ### Sorting
+* Intro to Tutorial Challenges: [Problem](https://www.hackerrank.com/challenges/tutorial-intro);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/tutorial-intro.cpp).
 
 ### Search
 
