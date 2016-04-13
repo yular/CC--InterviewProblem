@@ -41,6 +41,11 @@ For details of explanation of solution, check this website: http://yular.github.
 
 ### Sorting
 * Intro to Tutorial Challenges: [Problem](https://www.hackerrank.com/challenges/tutorial-intro);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/tutorial-intro.cpp).
+* Insertion Sort - Part 1: [Problem](https://www.hackerrank.com/challenges/insertionsort1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/insertionsort1.cpp).
+* Insertion Sort - Part 2: [Problem](https://www.hackerrank.com/challenges/insertionsort2);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/insertionsort2.cpp).
+* Correctness and the Loop Invariant: [Problem](https://www.hackerrank.com/challenges/correctness-invariant);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/correctness-invariant.cpp).
+* Running Time of Algorithms: [Problem](https://www.hackerrank.com/challenges/runningtime);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/runningtime.cpp).
+* Quicksort 1 - Partition: [Problem](https://www.hackerrank.com/challenges/quicksort1);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/quicksort1.cpp).
 
 ### Search
 
