@@ -49,6 +49,7 @@ For details of explanation of solution, check this website: http://yular.github.
 
 ### Search
 * Sherlock and Array: [Problem](https://www.hackerrank.com/challenges/sherlock-and-array);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-array.cpp).
+* Ice Cream Parlor: [Problem](https://www.hackerrank.com/challenges/icecream-parlor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/icecream-parlor.cpp).
 
 ### Graph Theory
 * Minimum Penalty Path: [Problem](https://www.hackerrank.com/challenges/beautiful-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-path.cpp).
