@@ -15,3 +15,4 @@
 *  Longest Substring with At Most K Distinct Characters: [Problem](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-substring-with-at-most-k-distinct-characters.cpp).
 * Nested List Weight Sum: [Problem](https://leetcode.com/problems/nested-list-weight-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_nested-list-weight-sum.cpp).
 * Flatten Nested List Iterator: [Problem](https://leetcode.com/problems/flatten-nested-list-iterator/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flatten-nested-list-iterator.cpp).
+* Power of Four: [Problem](https://leetcode.com/problems/power-of-four/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_power-of-four.cpp).
