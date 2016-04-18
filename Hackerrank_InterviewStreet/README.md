@@ -50,6 +50,16 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Search
 * Sherlock and Array: [Problem](https://www.hackerrank.com/challenges/sherlock-and-array);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-array.cpp).
 * Ice Cream Parlor: [Problem](https://www.hackerrank.com/challenges/icecream-parlor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/icecream-parlor.cpp).
+* Maximise Sum: [Problem](https://www.hackerrank.com/challenges/maximise-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/maximise-sum.cpp).
+* Missing Numbers: [Problem](https://www.hackerrank.com/challenges/missing-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/missing-numbers.cpp).
+* Connected Cell in a Grid: [Problem](https://www.hackerrank.com/challenges/connected-cell-in-a-grid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/connected-cell-in-a-grid.cpp).
+* Count Luck: [Problem](https://www.hackerrank.com/challenges/count-luck);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/count-luck.cpp).
+* Cut the tree: [Problem](https://www.hackerrank.com/challenges/cut-the-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/cut-the-tree.cpp).
+* Pairs: [Problem](https://www.hackerrank.com/challenges/pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/pairs.cpp).
+* Similar Pair: [Problem](https://www.hackerrank.com/challenges/similarpair);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/similarpair.cpp).
+* Bike Racers: [Problem](https://www.hackerrank.com/challenges/bike-racers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bike-racers.cpp).
+* Task Scheduling: [Problem](https://www.hackerrank.com/challenges/task-scheduling);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/task-scheduling.cpp).
+* Playing with numbers: [Problem](https://www.hackerrank.com/challenges/playing-with-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/playing_with_number.cpp).
 
 ### Graph Theory
 * Minimum Penalty Path: [Problem](https://www.hackerrank.com/challenges/beautiful-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-path.cpp).
