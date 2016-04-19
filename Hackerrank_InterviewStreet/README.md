@@ -46,6 +46,20 @@ For details of explanation of solution, check this website: http://yular.github.
 * Correctness and the Loop Invariant: [Problem](https://www.hackerrank.com/challenges/correctness-invariant);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/correctness-invariant.cpp).
 * Running Time of Algorithms: [Problem](https://www.hackerrank.com/challenges/runningtime);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/runningtime.cpp).
 * Quicksort 1 - Partition: [Problem](https://www.hackerrank.com/challenges/quicksort1);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/quicksort1.cpp).
+* Quicksort 2 - Sorting: [Problem](https://www.hackerrank.com/challenges/quicksort2);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/quicksort2.cpp).
+* Quicksort In-Place: [Problem](https://www.hackerrank.com/challenges/quicksort3);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/quicksort3.cpp).
+* Bigger is Greater: [Problem](https://www.hackerrank.com/challenges/bigger-is-greater);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bigger-is-greater.cpp).
+* Running Time of Quicksort: [Problem](https://www.hackerrank.com/challenges/quicksort4);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/quicksort4.cpp).
+* Counting Sort 1: [Problem](https://www.hackerrank.com/challenges/countingsort1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/countingsort1.cpp).
+* Counting Sort 2: [Problem](https://www.hackerrank.com/challenges/countingsort2);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/countingsort2.cpp).
+* Counting Sort 3: [Problem](https://www.hackerrank.com/challenges/countingsort3);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/countingsort3.cpp).
+* The Full Counting Sort: [Problem](https://www.hackerrank.com/challenges/countingsort4);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/countingsort4.cpp).
+* Closest Numbers: [Problem](https://www.hackerrank.com/challenges/closest-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/closest-numbers.cpp).
+* Find the Median: [Problem](https://www.hackerrank.com/challenges/find-median);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/find-median.cpp).
+* Sherlock and Watson: [Problem](https://www.hackerrank.com/challenges/sherlock-and-watson);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-watson.cpp).
+* Almost Sorted: [Problem](https://www.hackerrank.com/challenges/almost-sorted);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/almost-sorted.cpp).
+* Sherlock and Pairs: [Problem](https://www.hackerrank.com/challenges/sherlock-and-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-pairs.cpp).
+* Insertion Sort Advanced Analysis: [Problem](https://www.hackerrank.com/challenges/insertion-sort);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/insertion-sort.cpp).
 
 ### Search
 * Sherlock and Array: [Problem](https://www.hackerrank.com/challenges/sherlock-and-array);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-array.cpp).
