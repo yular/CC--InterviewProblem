@@ -280,4 +280,5 @@
 * Burst Ballons: [Problem](http://www.lintcode.com/en/problem/burst-balloons/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_burst-balloons.cpp).
 * Super Ugly Number: [Problem](http://www.lintcode.com/en/problem/super-ugly-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_super-ugly-number.cpp).
 * Left Pad: [Problem](http://www.lintcode.com/en/problem/left-pad/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_left-pad.cpp).
-* Flatten Nested List Iterator: [Problem](http://www.lintcode.com/en/problem/flatten-nested-list-iterator/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/flatten-nested-list-iterator.cpp).
+* Flatten Nested List Iterator: [Problem](http://www.lintcode.com/en/problem/flatten-nested-list-iterator/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_flatten-nested-list-iterator.cpp).
+* Shape Factory: [Problem](http://www.lintcode.com/en/problem/shape-factory/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_shape-factory.cpp).
