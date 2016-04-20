@@ -282,3 +282,4 @@
 * Left Pad: [Problem](http://www.lintcode.com/en/problem/left-pad/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_left-pad.cpp).
 * Flatten Nested List Iterator: [Problem](http://www.lintcode.com/en/problem/flatten-nested-list-iterator/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_flatten-nested-list-iterator.cpp).
 * Shape Factory: [Problem](http://www.lintcode.com/en/problem/shape-factory/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_shape-factory.cpp).
+* Mini Twitter: [Problem](http://www.lintcode.com/en/problem/mini-twitter/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_mini-twitter.cpp).
