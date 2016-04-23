@@ -285,3 +285,4 @@
 * Mini Twitter: [Problem](http://www.lintcode.com/en/problem/mini-twitter/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_mini-twitter.cpp).
 * Toy Factory: [Problem](http://www.lintcode.com/en/problem/toy-factory/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_toy-factory.cpp).
 * Parking Lot: [Problem](http://www.lintcode.com/en/problem/parking-lot/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_parking-lot.cpp).
+* Reverse Pairs: [Problem](http://www.lintcode.com/en/problem/reverse-pairs/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-pairs.cpp).
