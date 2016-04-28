@@ -286,3 +286,4 @@
 * Toy Factory: [Problem](http://www.lintcode.com/en/problem/toy-factory/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_toy-factory.cpp).
 * Parking Lot: [Problem](http://www.lintcode.com/en/problem/parking-lot/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_parking-lot.cpp).
 * Reverse Pairs: [Problem](http://www.lintcode.com/en/problem/reverse-pairs/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-pairs.cpp).
+* House Robber III: [Problem](http://www.lintcode.com/en/problem/house-robber-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_house-robber-iii.cpp).
