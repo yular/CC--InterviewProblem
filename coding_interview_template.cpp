@@ -10,6 +10,7 @@
 #include<cmath>
 #include<climits>
 #include<iostream>
+#include<functional>
 #include<bitset>
 #include<string>
 #include<list>
