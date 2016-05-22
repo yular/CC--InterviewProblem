@@ -34,6 +34,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Matrix Rotation: [Problem](https://www.hackerrank.com/challenges/matrix-rotation-algo);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/matrix-rotation-algo.cpp).
 * Lisa's Workbook: [Problem](https://www.hackerrank.com/challenges/bear-and-workbook);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bear-and-workbook.cpp).
 * Larry's Array: [Problem](https://www.hackerrank.com/challenges/larrys-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/larrys-array.cpp).
+* New Year Chaos: [problem](https://www.hackerrank.com/challenges/new-year-chaos);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/new-year-chaos.cpp).
 
 ### Strings
 * Sherlock and Valid String: [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-valid-string.cpp).
