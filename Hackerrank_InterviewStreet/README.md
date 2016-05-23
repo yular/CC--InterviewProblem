@@ -39,6 +39,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Strings
 * Sherlock and Valid String: [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-valid-string.cpp).
 * String Similarity: [Problem](https://www.hackerrank.com/challenges/string-similarity);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/string-similarity.cpp).
+* Bear and Steady Gene: [Problem](https://www.hackerrank.com/challenges/bear-and-steady-gene);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bear-and-steady-gene.cpp).
 
 ### Sorting
 * Intro to Tutorial Challenges: [Problem](https://www.hackerrank.com/challenges/tutorial-intro);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/tutorial-intro.cpp).
