@@ -288,3 +288,4 @@
 * Reverse Pairs: [Problem](http://www.lintcode.com/en/problem/reverse-pairs/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-pairs.cpp).
 * House Robber II: [Problem](http://www.lintcode.com/en/problem/house-robber-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_house-robber-ii.cpp).
 * House Robber III: [Problem](http://www.lintcode.com/en/problem/house-robber-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_house-robber-iii.cpp).
+* Move Zeros: [Problem](http://www.lintcode.com/en/problem/move-zeroes/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_move-zeroes.cpp).
