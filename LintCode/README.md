@@ -289,3 +289,5 @@
 * House Robber II: [Problem](http://www.lintcode.com/en/problem/house-robber-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_house-robber-ii.cpp).
 * House Robber III: [Problem](http://www.lintcode.com/en/problem/house-robber-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_house-robber-iii.cpp).
 * Move Zeros: [Problem](http://www.lintcode.com/en/problem/move-zeroes/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_move-zeroes.cpp).
+* Intersection of Two Arrays: [Problem](http://www.lintcode.com/en/problem/intersection-of-two-arrays/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_intersection-of-two-arrays.cpp).
+* Intersection of Two Arrays II: [Problem](http://www.lintcode.com/en/problem/intersection-of-two-arrays-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_intersection-of-two-arrays-ii.cpp).
