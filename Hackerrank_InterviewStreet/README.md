@@ -94,6 +94,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Regex
 
 ### Game Theory
+*  Game of Stones: [Problem](https://www.hackerrank.com/challenges/game-of-stones-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/game-of-stones-1.cpp).
 
 ### NP Complete
 
