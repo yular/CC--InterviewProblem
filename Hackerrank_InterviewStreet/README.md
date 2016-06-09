@@ -98,7 +98,8 @@ For details of explanation of solution, check this website: http://yular.github.
 * Tower Breakers: [Problem](https://www.hackerrank.com/challenges/tower-breakers-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/tower-breakers-1.cpp).
 * A Chessboard Game: [Problem](https://www.hackerrank.com/challenges/a-chessboard-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/a-chessboard-game-1.cpp).
 * Introduction to Nim Game: [Problem](https://www.hackerrank.com/challenges/nim-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/nim-game-1.cpp).
-* 
+* Misere Nim: [Problem](https://www.hackerrank.com/challenges/misere-nim-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/misere-nim-1.cpp).
+* Poker Nim: [Problem](https://www.hackerrank.com/challenges/poker-nim-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/poker-nim-1.cpp).
 
 ### NP Complete
 
