@@ -291,3 +291,5 @@
 * Move Zeros: [Problem](http://www.lintcode.com/en/problem/move-zeroes/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_move-zeroes.cpp).
 * Intersection of Two Arrays: [Problem](http://www.lintcode.com/en/problem/intersection-of-two-arrays/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_intersection-of-two-arrays.cpp).
 * Intersection of Two Arrays II: [Problem](http://www.lintcode.com/en/problem/intersection-of-two-arrays-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_intersection-of-two-arrays-ii.cpp).
+* Sort Integers: [Problem](http://www.lintcode.com/en/problem/sort-integers);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sort-integers.cpp).
+* Sort Integers II: [Problem](http://www.lintcode.com/en/problem/sort-integers-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sort-integers-ii.cpp).
