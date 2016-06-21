@@ -27,3 +27,4 @@
 * Line Reflection: [Problem](https://leetcode.com/problems/line-reflection/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_line-reflection.cpp).
 * Count Numbers with Unique Digits: [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-numbers-with-unique-digits.cpp).
 * Logger Rate Limiter: [Problem](https://leetcode.com/problems/logger-rate-limiter/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_logger-rate-limiter.cpp).
+* Design Hit Counter: [Problem](https://leetcode.com/problems/design-hit-counter/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-hit-counter.cpp).
