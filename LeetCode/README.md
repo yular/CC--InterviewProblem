@@ -26,9 +26,11 @@
 * Design Twitter: [Problem](https://leetcode.com/problems/design-twitter/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-twitter.cpp).
 * Line Reflection: [Problem](https://leetcode.com/problems/line-reflection/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_line-reflection.cpp).
 * Count Numbers with Unique Digits: [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-numbers-with-unique-digits.cpp).
+* Data Stream As Disjoint Intervals: [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_data-stream-as-disjoint-intervals.cpp).
 * Logger Rate Limiter: [Problem](https://leetcode.com/problems/logger-rate-limiter/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_logger-rate-limiter.cpp).
 * Design Hit Counter: [Problem](https://leetcode.com/problems/design-hit-counter/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-hit-counter.cpp).
 * Bomb Enemy: [Problem](https://leetcode.com/problems/bomb-enemy/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_bomb-enemy.cpp).
 * Design Snake Game: [Problem](https://leetcode.com/problems/design-snake-game/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-snake-game.cpp).
 * Max Sum of Sub Matrix No Larger Than K: [Problem](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-sum-of-sub-matrix-no-larger-than-k.cpp).
 * Nested List Weight Sum II: [Problem](https://leetcode.com/problems/nested-list-weight-sum-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_nested-list-weight-sum-ii.cpp).
+* Water and Jug Problem: [Problem](https://leetcode.com/problems/water-and-jug-problem/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_water-and-jug-problem.cpp).
