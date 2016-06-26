@@ -34,3 +34,4 @@
 * Max Sum of Sub Matrix No Larger Than K: [Problem](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-sum-of-sub-matrix-no-larger-than-k.cpp).
 * Nested List Weight Sum II: [Problem](https://leetcode.com/problems/nested-list-weight-sum-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_nested-list-weight-sum-ii.cpp).
 * Water and Jug Problem: [Problem](https://leetcode.com/problems/water-and-jug-problem/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_water-and-jug-problem.cpp).
+* Valid Perfect Square: [Problem](https://leetcode.com/problems/valid-perfect-square/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_valid-perfect-square.cpp).
