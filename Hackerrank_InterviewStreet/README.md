@@ -35,6 +35,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Lisa's Workbook: [Problem](https://www.hackerrank.com/challenges/bear-and-workbook);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bear-and-workbook.cpp).
 * Larry's Array: [Problem](https://www.hackerrank.com/challenges/larrys-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/larrys-array.cpp).
 * New Year Chaos: [Problem](https://www.hackerrank.com/challenges/new-year-chaos);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/new-year-chaos.cpp).
+* Divisible Sum Pairs: [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/divisible-sum-pairs.cpp).
 
 ### Strings
 * Sherlock and Valid String: [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-valid-string.cpp).
@@ -76,7 +77,6 @@ For details of explanation of solution, check this website: http://yular.github.
 * Bike Racers: [Problem](https://www.hackerrank.com/challenges/bike-racers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bike-racers.cpp).
 * Task Scheduling: [Problem](https://www.hackerrank.com/challenges/task-scheduling);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/task-scheduling.cpp).
 * Playing with numbers: [Problem](https://www.hackerrank.com/challenges/playing-with-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/playing_with_number.cpp).
-* Divisible Sum Pairs: [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/divisible-sum-pairs.cpp).
 
 ### Graph Theory
 * Minimum Penalty Path: [Problem](https://www.hackerrank.com/challenges/beautiful-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-path.cpp).
