@@ -19,6 +19,9 @@ For details of explanation of solution, check this website: http://yular.github.
 * Find Digits: [Problem](https://www.hackerrank.com/challenges/find-digits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/find-digits.cpp).
 * Sherlock and Squares: [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-squares.cpp).
 * Service Lane: [Problem](https://www.hackerrank.com/challenges/service-lane);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/service-lane.cpp).
+*  Minimum Distance: [Problem](https://www.hackerrank.com/challenges/minimum-distances);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/minimum-distances.cpp).
+*  Non Divisible Subset: [Problem](https://www.hackerrank.com/challenges/non-divisible-subset);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/non-divisible-subset.cpp).
+*  Equal Stacks: [Problem](https://www.hackerrank.com/challenges/equal-stacks);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/equal-stacks.cpp).
 * Cut the sticks: [Problem](https://www.hackerrank.com/challenges/cut-the-sticks);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/cut-the-sticks.cpp).
 * The Grid Search: [Problem](https://www.hackerrank.com/challenges/the-grid-search);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-grid-search.cpp).
 * Chocolate Feast: [Problem](https://www.hackerrank.com/challenges/chocolate-feast);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/chocolate-feast.cpp).
