@@ -89,6 +89,7 @@ For details of explanation of solution, check this website: http://yular.github.
 
 ### Greedy
 * Beautiful Pairs: [Problem](https://www.hackerrank.com/challenges/beautiful-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-pairs.cpp).
+* Luck Balance: [Problem](https://www.hackerrank.com/challenges/luck-balance);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/luck-balance.cpp).
 * Grid Challenge: [Problem](https://www.hackerrank.com/challenges/grid-challenge);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/grid-challenge.cpp).
 
 ### Dynamic Programming
