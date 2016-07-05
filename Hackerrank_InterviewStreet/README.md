@@ -93,6 +93,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Grid Challenge: [Problem](https://www.hackerrank.com/challenges/grid-challenge);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/grid-challenge.cpp).
 
 ### Dynamic Programming
+* Mandragora: [Problem](https://www.hackerrank.com/challenges/mandragora);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/mandragora.cpp).
 * Hexagonal Grid: [Problem](https://www.hackerrank.com/challenges/hexagonal-grid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hexagonal-grid.cpp).
 * Dorsey Thief: [Problem](https://www.hackerrank.com/challenges/dorsey-thief);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/dorsey-thief.cpp).
 
