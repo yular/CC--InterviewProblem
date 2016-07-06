@@ -16,12 +16,14 @@ For details of explanation of solution, check this website: http://yular.github.
 * Angry Professor: [Problem](https://www.hackerrank.com/challenges/angry-professor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/angry-professor.cpp).
 * Sherlock and The Beast: [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-the-beast.cpp).
 * Utopian Tree: [Problem](https://www.hackerrank.com/challenges/utopian-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/utopian-tree.cpp).
+* Fair Rations: [Problem](https://www.hackerrank.com/challenges/fair-rations);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/fair-rations.cpp).
 * Find Digits: [Problem](https://www.hackerrank.com/challenges/find-digits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/find-digits.cpp).
 * Sherlock and Squares: [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-squares.cpp).
 * Service Lane: [Problem](https://www.hackerrank.com/challenges/service-lane);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/service-lane.cpp).
-*  Minimum Distance: [Problem](https://www.hackerrank.com/challenges/minimum-distances);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/minimum-distances.cpp).
-*  Non Divisible Subset: [Problem](https://www.hackerrank.com/challenges/non-divisible-subset);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/non-divisible-subset.cpp).
-*  Equal Stacks: [Problem](https://www.hackerrank.com/challenges/equal-stacks);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/equal-stacks.cpp).
+* Kangaroo: [Problem](https://www.hackerrank.com/challenges/kangaroo);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/kangaroo.cpp).
+* Minimum Distance: [Problem](https://www.hackerrank.com/challenges/minimum-distances);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/minimum-distances.cpp).
+* Non Divisible Subset: [Problem](https://www.hackerrank.com/challenges/non-divisible-subset);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/non-divisible-subset.cpp).
+* Equal Stacks: [Problem](https://www.hackerrank.com/challenges/equal-stacks);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/equal-stacks.cpp).
 * Cut the sticks: [Problem](https://www.hackerrank.com/challenges/cut-the-sticks);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/cut-the-sticks.cpp).
 * The Grid Search: [Problem](https://www.hackerrank.com/challenges/the-grid-search);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-grid-search.cpp).
 * Chocolate Feast: [Problem](https://www.hackerrank.com/challenges/chocolate-feast);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/chocolate-feast.cpp).
@@ -94,6 +96,7 @@ For details of explanation of solution, check this website: http://yular.github.
 
 ### Dynamic Programming
 * Mandragora: [Problem](https://www.hackerrank.com/challenges/mandragora);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/mandragora.cpp).
+* Nikita and the Game: [Problem](https://www.hackerrank.com/challenges/array-splitting);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/array-splitting.cpp).
 * Hexagonal Grid: [Problem](https://www.hackerrank.com/challenges/hexagonal-grid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hexagonal-grid.cpp).
 * Dorsey Thief: [Problem](https://www.hackerrank.com/challenges/dorsey-thief);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/dorsey-thief.cpp).
 
