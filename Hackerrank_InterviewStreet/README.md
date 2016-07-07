@@ -101,6 +101,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Dorsey Thief: [Problem](https://www.hackerrank.com/challenges/dorsey-thief);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/dorsey-thief.cpp).
 
 ### Bit Manipulation
+* What's Next: [Problem](https://www.hackerrank.com/challenges/whats-next);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/whats-next.cpp).
 * Xor-sequence: [Problem](https://www.hackerrank.com/challenges/xor-se);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/xor-se.cpp).
 
 ### Regex
