@@ -114,6 +114,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Misere Nim: [Problem](https://www.hackerrank.com/challenges/misere-nim-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/misere-nim-1.cpp).
 * Nimble Game: [Problem](https://www.hackerrank.com/challenges/nimble-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/nimble-game-1.cpp).
 * Poker Nim: [Problem](https://www.hackerrank.com/challenges/poker-nim-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/poker-nim-1.cpp).
+* Tower Breakers, Again: [Problem](https://www.hackerrank.com/challenges/tower-breakers-again-1);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/tower-breakers-again-1.cpp).
 
 ### NP Complete
 
