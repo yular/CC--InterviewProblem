@@ -43,3 +43,4 @@
 * Sum of Two Integers: [Problem](https://leetcode.com/problems/sum-of-two-integers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sum-of-two-integers.cpp).
 * Super Pow: [Problem](https://leetcode.com/problems/super-pow/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_super-pow.cpp).
 * Find K pairs with smallest sums: [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-k-pairs-with-smallest-sums.cpp).
+* Guess Number Higher or Lower: [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_guess-number-higher-or-lower.cpp).
