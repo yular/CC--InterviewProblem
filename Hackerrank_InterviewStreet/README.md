@@ -118,6 +118,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Nimble Game: [Problem](https://www.hackerrank.com/challenges/nimble-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/nimble-game-1.cpp).
 * Poker Nim: [Problem](https://www.hackerrank.com/challenges/poker-nim-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/poker-nim-1.cpp).
 * Tower Breakers, Again: [Problem](https://www.hackerrank.com/challenges/tower-breakers-again-1);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/tower-breakers-again-1.cpp).
+* Kitty and Katty: [Problem](https://www.hackerrank.com/challenges/kitty-and-katty);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/kitty-and-katty.cpp).
 
 ### NP Complete
 
