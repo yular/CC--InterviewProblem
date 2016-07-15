@@ -20,6 +20,9 @@ For details of explanation of solution, check this website: http://yular.github.
 * Compare the triplets: [Problem](https://www.hackerrank.com/challenges/compare-the-triplets);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/compare-the-triplets.cpp).
 * Fair Rations: [Problem](https://www.hackerrank.com/challenges/fair-rations);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/fair-rations.cpp).
 * Jumping on the Clouds, Revisited: [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/jumping-on-the-clouds-revisited.cpp).
+* Beautiful Triplets: [Problem](https://www.hackerrank.com/challenges/beautiful-triplets);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-triplets.cpp).
+* Jumping on the Clouds: [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/jumping-on-the-clouds.cpp).
+* Absolute Permutation: [Problem](https://www.hackerrank.com/challenges/absolute-permutation);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/absolute-permutation.cpp).
 * Find Digits: [Problem](https://www.hackerrank.com/challenges/find-digits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/find-digits.cpp).
 * Sherlock and Squares: [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-squares.cpp).
 * Service Lane: [Problem](https://www.hackerrank.com/challenges/service-lane);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/service-lane.cpp).
@@ -49,6 +52,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Strings
 * Super Reduced String: [Problem](https://www.hackerrank.com/challenges/reduced-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/reduced-string.cpp).
 * Beautiful Binary String: [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-binary-string.cpp).
+* Richie Rich: [Problem](https://www.hackerrank.com/challenges/richie-rich);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/richie-rich.cpp).
 * Sherlock and Valid String: [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-valid-string.cpp).
 * String Similarity: [Problem](https://www.hackerrank.com/challenges/string-similarity);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/string-similarity.cpp).
 * Bear and Steady Gene: [Problem](https://www.hackerrank.com/challenges/bear-and-steady-gene);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bear-and-steady-gene.cpp).
