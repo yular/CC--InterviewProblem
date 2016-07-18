@@ -117,6 +117,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Game Theory
 * Game of Stones: [Problem](https://www.hackerrank.com/challenges/game-of-stones-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/game-of-stones-1.cpp).
 * Tower Breakers: [Problem](https://www.hackerrank.com/challenges/tower-breakers-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/tower-breakers-1.cpp).
+* Fun Game: [Problem](https://www.hackerrank.com/challenges/fun-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/fun-game-1.cpp).
 * A Chessboard Game: [Problem](https://www.hackerrank.com/challenges/a-chessboard-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/a-chessboard-game-1.cpp).
 * Chessboard Game, Again!: [Problem](https://www.hackerrank.com/challenges/chessboard-game-again-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/chessboard-game-again-1.cpp).
 * Introduction to Nim Game: [Problem](https://www.hackerrank.com/challenges/nim-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/nim-game-1.cpp).
