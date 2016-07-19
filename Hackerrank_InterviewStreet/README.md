@@ -51,6 +51,7 @@ For details of explanation of solution, check this website: http://yular.github.
 
 ### Strings
 * Super Reduced String: [Problem](https://www.hackerrank.com/challenges/reduced-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/reduced-string.cpp).
+* Mars Exploration: [Problem](https://www.hackerrank.com/challenges/mars-exploration);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/mars-exploration.cpp).
 * Beautiful Binary String: [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-binary-string.cpp).
 * Richie Rich: [Problem](https://www.hackerrank.com/challenges/richie-rich);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/richie-rich.cpp).
 * Sherlock and Valid String: [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-valid-string.cpp).
