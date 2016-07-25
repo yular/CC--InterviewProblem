@@ -45,3 +45,4 @@
 * Find K pairs with smallest sums: [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-k-pairs-with-smallest-sums.cpp).
 * Guess Number Higher or Lower: [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_guess-number-higher-or-lower.cpp).
 * Wiggle Subsequence: [Problem](https://leetcode.com/problems/wiggle-subsequence/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_wiggle-subsequence.cpp).
+* Combination Sum VI: [Problem](https://leetcode.com/problems/combination-sum-iv);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_combination-sum-iv.cpp).
