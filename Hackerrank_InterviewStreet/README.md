@@ -192,3 +192,4 @@ For details of explanation of solution, check this website: http://yular.github.
 * Sparse Array: [Problem](https://www.hackerrank.com/challenges/sparse-arrays);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sparse-arrays.cpp).
 * Cube Summation: [Problem](https://www.hackerrank.com/challenges/cube-summation);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/cube-summation.cpp).
 * Is This a Binary Search Tree: [Problem](https://www.hackerrank.com/challenges/is-binary-search-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/is-binary-search-tree.cpp).
+* Queue using Two Stacks: [Problem](https://www.hackerrank.com/challenges/queue-using-two-stacks);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/queue-using-two-stacks.cpp).
