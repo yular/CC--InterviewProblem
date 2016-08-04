@@ -51,3 +51,4 @@
 * Combination Sum VI: [Problem](https://leetcode.com/problems/combination-sum-iv);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_combination-sum-iv.cpp).
 * K smallest Element in a Sorted Matrix: [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_kth-smallest-element-in-a-sorted-matrix.cpp).
 * Design Phone Directory: [Problem](https://leetcode.com/problems/design-phone-directory/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-phone-directory.cpp).
+* Insert Delete GetRandom O(1): [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_insert-delete-getrandom-o1.cpp).
