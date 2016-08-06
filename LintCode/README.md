@@ -294,3 +294,4 @@
 * Sort Integers: [Problem](http://www.lintcode.com/en/problem/sort-integers);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sort-integers.cpp).
 * Sort Integers II: [Problem](http://www.lintcode.com/en/problem/sort-integers-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sort-integers-ii.cpp).
 * Create Maximum Number: [Problem](http://www.lintcode.com/en/problem/create-maximum-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_create-maximum-number.cpp).
+* Backpack VII: [Problem](http://www.lintcode.com/en/problem/backpack-vi/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_backpack-vi.cpp).
