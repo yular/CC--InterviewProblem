@@ -111,6 +111,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Nikita and the Game: [Problem](https://www.hackerrank.com/challenges/array-splitting);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/array-splitting.cpp).
 * Hexagonal Grid: [Problem](https://www.hackerrank.com/challenges/hexagonal-grid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hexagonal-grid.cpp).
 * Dorsey Thief: [Problem](https://www.hackerrank.com/challenges/dorsey-thief);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/dorsey-thief.cpp).
+* HackerRank City: [Problem](https://www.hackerrank.com/challenges/hr-city);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hr-city.cpp).
 * LCS Returns: [Problem](https://www.hackerrank.com/challenges/tutzki-and-lcs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/tutzki-and-lcs.cpp).
 
 ### Bit Manipulation
