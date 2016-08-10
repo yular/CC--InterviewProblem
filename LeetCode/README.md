@@ -43,6 +43,8 @@
 * Largest Divisible Subset: [Problem](https://leetcode.com/problems/largest-divisible-subset/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-divisible-subset.cpp).
 * Plus One Linked List: [Problem](https://leetcode.com/problems/plus-one-linked-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_plus-one-linked-list.cpp).
 * Range Addition: [Problem](https://leetcode.com/problems/range-addition/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_range-addition.cpp).
+* LRU Cache: [Problem](https://leetcode.com/problems/lru-cache/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_lru-cache.cpp).
+* Linked List Random Node: [Problem](https://leetcode.com/problems/linked-list-random-node);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_linked-list-random-node.cpp).
 * Sum of Two Integers: [Problem](https://leetcode.com/problems/sum-of-two-integers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sum-of-two-integers.cpp).
 * Super Pow: [Problem](https://leetcode.com/problems/super-pow/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_super-pow.cpp).
 * Find K pairs with smallest sums: [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-k-pairs-with-smallest-sums.cpp).
