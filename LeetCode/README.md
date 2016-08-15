@@ -58,3 +58,4 @@
 * Insert Delete GetRandom O(1): [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_insert-delete-getrandom-o1.cpp).
 * Ransom Node: [Problem](https://leetcode.com/problems/ransom-note/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_ransom-note.cpp).
 * Shuffle An Array: [Problem](https://leetcode.com/problems/shuffle-an-array);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shuffle-an-array.cpp).
+* Mini Parser: [Problem](https://leetcode.com/problems/mini-parser);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_mini-parser.cpp).
