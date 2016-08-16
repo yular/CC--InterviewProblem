@@ -118,6 +118,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * What's Next: [Problem](https://www.hackerrank.com/challenges/whats-next);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/whats-next.cpp).
 * Lonely Integer: [Problem](https://www.hackerrank.com/challenges/lonely-integer);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/lonely-integer.cpp).
 * Xor-sequence: [Problem](https://www.hackerrank.com/challenges/xor-se);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/xor-se.cpp).
+* A or B: [Problem](https://www.hackerrank.com/challenges/aorb);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/aorb.cpp).
 
 ### Regex
 *
