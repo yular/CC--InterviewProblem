@@ -99,6 +99,7 @@ For details of explanation of solution, check this website: http://yular.github.
 
 ### Graph Theory
 * Minimum Penalty Path: [Problem](https://www.hackerrank.com/challenges/beautiful-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-path.cpp).
+* Roads in HackerLand: [Problem](https://www.hackerrank.com/challenges/johnland);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/johnland.cpp).
 * Demanding Money: [Problem]();   [Code]().
 
 ### Greedy
