@@ -55,6 +55,7 @@
 * Shortest Word Distance: [Problem](https://leetcode.com/problems/shortest-word-distance);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shortest-word-distance.cpp).
 * K smallest Element in a Sorted Matrix: [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_kth-smallest-element-in-a-sorted-matrix.cpp).
 * Design Phone Directory: [Problem](https://leetcode.com/problems/design-phone-directory/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-phone-directory.cpp).
+* Min Stack: [Problem](https://leetcode.com/problems/min-stack);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_min-stack.cpp).
 * Insert Delete GetRandom O(1): [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_insert-delete-getrandom-o1.cpp).
 * Ransom Node: [Problem](https://leetcode.com/problems/ransom-note/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_ransom-note.cpp).
 * Shuffle An Array: [Problem](https://leetcode.com/problems/shuffle-an-array);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shuffle-an-array.cpp).
