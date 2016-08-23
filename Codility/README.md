@@ -8,6 +8,9 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Beta 2010
 * Number Of Disc Intersections: [Problem](https://codility.com/programmers/task/number_of_disc_intersections/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Codility/number_of_disc_intersections.cpp).
 
+### Gamma 2011
+* Count Palindromic Slices: [Problem](https://codility.com/programmers/task/count_palindromic_slices/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Codility/count_palindromic_slices.cpp).
+
 ### Delta 2011
 * Minimum Absolute Sum: [Problem](https://codility.com/programmers/task/min_abs_sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Codility/min_abs_sum.cpp).
 
