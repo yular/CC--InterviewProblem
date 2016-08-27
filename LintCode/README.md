@@ -295,4 +295,4 @@
 * Sort Integers II: [Problem](http://www.lintcode.com/en/problem/sort-integers-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sort-integers-ii.cpp).
 * Create Maximum Number: [Problem](http://www.lintcode.com/en/problem/create-maximum-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_create-maximum-number.cpp).
 * Backpack VII: [Problem](http://www.lintcode.com/en/problem/backpack-vi/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_backpack-vi.cpp).
-* Reorder Array to Construct the Minimum Number: [Problem](http://www.lintcode.com/en/problem/reorder-array-to-construct-the-minimum-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reorder-array-to-construct-the-minimum-number.cpp);
+* Reorder Array to Construct the Minimum Number: [Problem](http://www.lintcode.com/en/problem/reorder-array-to-construct-the-minimum-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reorder-array-to-construct-the-minimum-number.cpp).
