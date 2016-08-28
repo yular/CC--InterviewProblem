@@ -296,3 +296,4 @@
 * Create Maximum Number: [Problem](http://www.lintcode.com/en/problem/create-maximum-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_create-maximum-number.cpp).
 * Backpack VII: [Problem](http://www.lintcode.com/en/problem/backpack-vi/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_backpack-vi.cpp).
 * Reorder Array to Construct the Minimum Number: [Problem](http://www.lintcode.com/en/problem/reorder-array-to-construct-the-minimum-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reorder-array-to-construct-the-minimum-number.cpp).
+* Clone Binary Tree: [Problem](http://www.lintcode.com/en/problem/clone-binary-tree/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_clone-binary-tree.cpp).
