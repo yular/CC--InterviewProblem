@@ -63,3 +63,4 @@
 * First Unique Character in a String: [Problem](https://leetcode.com/problems/first-unique-character-in-a-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_first-unique-character-in-a-string.cpp).
 * Lexicographical Numbers[Problem](https://leetcode.com/problems/lexicographical-numbers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_lexicographical-numbers.cpp).
 * Longest Absolute File Path: [Problem](https://leetcode.com/problems/longest-absolute-file-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-absolute-file-path.cpp).
+* Find the Difference: [Problem](https://leetcode.com/problems/find-the-difference);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-the-difference.cpp).
