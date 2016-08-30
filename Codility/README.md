@@ -20,3 +20,5 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Lambda 2011
 * Min Router Peripherality: [Problem](https://codility.com/programmers/task/min_router_peripherality/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Codility/min_router_peripherality.cpp).
 
+### Nu 2011
+* Double Median: [Problem](https://codility.com/programmers/task/double_median/);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Codility/double_median.cpp).
