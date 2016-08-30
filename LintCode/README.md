@@ -297,3 +297,5 @@
 * Backpack VII: [Problem](http://www.lintcode.com/en/problem/backpack-vi/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_backpack-vi.cpp).
 * Reorder Array to Construct the Minimum Number: [Problem](http://www.lintcode.com/en/problem/reorder-array-to-construct-the-minimum-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reorder-array-to-construct-the-minimum-number.cpp).
 * Clone Binary Tree: [Problem](http://www.lintcode.com/en/problem/clone-binary-tree/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_clone-binary-tree.cpp).
+* Flatten List: [Problem](http://www.lintcode.com/en/problem/flatten-list/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_flatten-list.cpp).
+* Dices Sum: [Problem](http://www.lintcode.com/en/problem/dices-sum/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_dices-sum.cpp).
