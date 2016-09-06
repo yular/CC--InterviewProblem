@@ -66,3 +66,4 @@
 * Longest Absolute File Path: [Problem](https://leetcode.com/problems/longest-absolute-file-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-absolute-file-path.cpp).
 * Find the Difference: [Problem](https://leetcode.com/problems/find-the-difference);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-the-difference.cpp).
 * Perfect Rectangle: [Problem](https://leetcode.com/problems/perfect-rectangle/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_perfect-rectangle.cpp).
+* Is Subsequence: [Problem](https://leetcode.com/problems/is-subsequence);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_is-subsequence.cpp).
