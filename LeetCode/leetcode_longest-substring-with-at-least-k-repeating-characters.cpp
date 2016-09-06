@@ -43,7 +43,6 @@ public:
                 if(!right_char_cnt)
                     res = max(res, i + 1 - fidx);
             }
-            printf("%d -- %d\n",i,res);
         }
         return res;
     }
