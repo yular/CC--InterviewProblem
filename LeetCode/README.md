@@ -67,4 +67,5 @@
 * Find the Difference: [Problem](https://leetcode.com/problems/find-the-difference);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-the-difference.cpp).
 * Perfect Rectangle: [Problem](https://leetcode.com/problems/perfect-rectangle/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_perfect-rectangle.cpp).
 * Is Subsequence: [Problem](https://leetcode.com/problems/is-subsequence);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_is-subsequence.cpp).
+* Decode String: [Problem](https://leetcode.com/problems/decode-string);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_decode-string.cpp).
 * Longest Substring with at Least K Repeating Characters: [Problem](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-substring-with-at-least-k-repeating-characters.cpp).
