@@ -9,7 +9,7 @@ public:
     int lastRemaining(int n) {
         int res = 1, cnt = 0, p = 1;
         while(n > 1){
-            n /= 2;
+            n >>= 1;
             p <<= 1;
             ++ cnt;
             if(cnt%2)
