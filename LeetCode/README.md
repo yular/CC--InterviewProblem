@@ -33,6 +33,7 @@
 * Count Numbers with Unique Digits: [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-numbers-with-unique-digits.cpp).
 * Data Stream As Disjoint Intervals: [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_data-stream-as-disjoint-intervals.cpp).
 * Logger Rate Limiter: [Problem](https://leetcode.com/problems/logger-rate-limiter/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_logger-rate-limiter.cpp).
+* Perfect Square: [Problem](https://leetcode.com/problems/perfect-squares/);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_perfect-squares.cpp).
 * Design Hit Counter: [Problem](https://leetcode.com/problems/design-hit-counter/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-hit-counter.cpp).
 * Bomb Enemy: [Problem](https://leetcode.com/problems/bomb-enemy/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_bomb-enemy.cpp).
 * Design Snake Game: [Problem](https://leetcode.com/problems/design-snake-game/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-snake-game.cpp).
