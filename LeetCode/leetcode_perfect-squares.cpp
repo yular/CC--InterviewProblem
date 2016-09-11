@@ -1,8 +1,8 @@
 /*
 *
 * Tag: DP
-* Time: O()
-* Space: O()
+* Time: O(n^1.5)
+* Space: O(n)
 */
 class Solution {
 public:
