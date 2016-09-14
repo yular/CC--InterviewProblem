@@ -11,7 +11,8 @@
 * Power of Three: [Problem](https://leetcode.com/problems/power-of-three/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_power-of-three.cpp).
 * Largest BST Subtree: [Problem](https://leetcode.com/problems/largest-bst-subtree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-bst-subtree.cpp).
 * Serialize and Deserialize Binary Tree: [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_serialize-and-deserialize-binary-tree.cpp).
-* Increasing Triplet Subsequence: [Problem](https://leetcode.com/problems/increasing-triplet-subsequence/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_increasing-triplet-subsequence.cpp). 
+* Increasing Triplet Subsequence: [Problem](https://leetcode.com/problems/increasing-triplet-subsequence/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_increasing-triplet-subsequence.cpp).
+* Paint House: [Problem](https://leetcode.com/problems/paint-house);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_paint-house.cpp).
 * House Robber III: [Problem](https://leetcode.com/problems/house-robber-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_house-robber-iii.cpp).
 * Counting Bits: [Problem](https://leetcode.com/problems/counting-bits/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_counting-bits.cpp).
 * Longest Substring with At Most K Distinct Characters: [Problem](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-substring-with-at-most-k-distinct-characters.cpp).
