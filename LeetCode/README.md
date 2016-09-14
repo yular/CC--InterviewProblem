@@ -6,6 +6,8 @@
 * Count of Smaller Numbers After Self: [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-of-smaller-numbers-after-self.cpp).
 * Maximum Product of Word Lengths: [Problem](https://leetcode.com/problems/maximum-product-of-word-lengths/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-product-of-word-lengths.cpp).
 * Bulb Switcher: [Problem](https://leetcode.com/problems/bulb-switcher/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_bulb-switcher.cpp).
+* Paint House: [Problem](https://leetcode.com/problems/paint-house);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_paint-house.cpp).
+* Paint House II: [Problem](https://leetcode.com/problems/paint-house-ii/);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_paint-house-ii.cpp).
 * Coin Change: [Problem](https://leetcode.com/problems/coin-change/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_coin-change.cpp).
 * Contains Duplicate: [Problem](https://leetcode.com/problems/contains-duplicate/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_contains-duplicate.cpp).
 * Power of Three: [Problem](https://leetcode.com/problems/power-of-three/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_power-of-three.cpp).
