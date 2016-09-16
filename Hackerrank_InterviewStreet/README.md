@@ -39,6 +39,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Library Fine: [Problem](https://www.hackerrank.com/challenges/library-fine);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/library-fine.cpp).
 * Manasa and Stones: [Problem](https://www.hackerrank.com/challenges/manasa-and-stones);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/manasa-and-stones.cpp).
 * ACM ICPC Team: [Problem](https://www.hackerrank.com/challenges/acm-icpc-team);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/acm-icpc-team.cpp).
+* Bon Appétit: [Problem](https://www.hackerrank.com/challenges/bon-appetit);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bon-appetit.cpp).
 * Extra Long Factorials: [Problem](https://www.hackerrank.com/challenges/extra-long-factorials);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/extra-long-factorials.java).
 * Taum and B'day: [Problem](https://www.hackerrank.com/challenges/taum-and-bday);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/taum-and-bday.cpp).
 * The Time in Words: [Problem](https://www.hackerrank.com/challenges/the-time-in-words);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-time-in-words.cpp).
