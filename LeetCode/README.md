@@ -78,4 +78,5 @@
 * Longest Substring with at Least K Repeating Characters: [Problem](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-substring-with-at-least-k-repeating-characters.cpp).
 * Evaluate Division: [Problem](https://leetcode.com/problems/evaluate-division);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_evaluate-division.cpp).
 * Rotate Function: [Problem](https://leetcode.com/problems/rotate-function/);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rotate-function.cpp).
+* Binary Watch: [Problem](https://leetcode.com/problems/binary-watch/);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-watch.cpp).
 * Frog Jump: [Problem](https://leetcode.com/problems/frog-jump);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_frog-jump.cpp).
