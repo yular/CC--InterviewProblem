@@ -21,6 +21,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Fair Rations: [Problem](https://www.hackerrank.com/challenges/fair-rations);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/fair-rations.cpp).
 * Jumping on the Clouds, Revisited: [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/jumping-on-the-clouds-revisited.cpp).
 * Repeated String: [Problem](https://www.hackerrank.com/challenges/repeated-string);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/repeated-string.cpp).
+* Sock Merchant: [Problem](https://www.hackerrank.com/challenges/sock-merchant);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sock-merchant.cpp).
 * Strange Code: [Problem](https://www.hackerrank.com/challenges/strange-code);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/strange-code.cpp).
 * Flatland Space Stations: [Problem](https://www.hackerrank.com/challenges/flatland-space-stations);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/flatland-space-stations.cpp).
 * Beautiful Triplets: [Problem](https://www.hackerrank.com/challenges/beautiful-triplets);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-triplets.cpp).
