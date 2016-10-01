@@ -94,6 +94,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Connected Cell in a Grid: [Problem](https://www.hackerrank.com/challenges/connected-cell-in-a-grid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/connected-cell-in-a-grid.cpp).
 * Count Luck: [Problem](https://www.hackerrank.com/challenges/count-luck);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/count-luck.cpp).
 * Cut the tree: [Problem](https://www.hackerrank.com/challenges/cut-the-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/cut-the-tree.cpp).
+* Gridland Metro: [Problem](https://www.hackerrank.com/challenges/gridland-metro);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/gridland-metro.cpp).
 * Pairs: [Problem](https://www.hackerrank.com/challenges/pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/pairs.cpp).
 * Similar Pair: [Problem](https://www.hackerrank.com/challenges/similarpair);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/similarpair.cpp).
 * Bike Racers: [Problem](https://www.hackerrank.com/challenges/bike-racers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bike-racers.cpp).
