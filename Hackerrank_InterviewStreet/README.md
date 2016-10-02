@@ -9,6 +9,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Diagonal Difference: [Problem](https://www.hackerrank.com/challenges/diagonal-difference);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/diagonal-difference.cpp).
 * Plus Minus: [Problem](https://www.hackerrank.com/challenges/plus-minus);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/plus-minus.cpp).
 * Save The Prisoner: [Problem](https://www.hackerrank.com/challenges/save-the-prisoner);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/save-the-prisoner.cpp).
+* Maximum Perimeter Triangle: [Problem](https://www.hackerrank.com/challenges/maximum-perimeter-triangle);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/maximum-perimeter-triangle.cpp).
 * Staircase: [Problem](https://www.hackerrank.com/challenges/staircase);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/staircase.cpp).
 * Time Conversion: [Problem](https://www.hackerrank.com/challenges/time-conversion);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/time-conversion.cpp).
 
