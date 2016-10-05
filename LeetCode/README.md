@@ -26,6 +26,7 @@
 * Reverse String: [Problem](https://leetcode.com/problems/reverse-string/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_reverse-string.cpp).
 * Reverse Vowels of a String: [Problem](https://leetcode.com/problems/reverse-vowels-of-a-string/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_reverse-vowels-of-a-string.cpp).
 *  Moving Average from Data Stream: [Problem](https://leetcode.com/problems/moving-average-from-data-stream/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_moving-average-from-data-stream.cpp).
+* Word Break: [Problem](https://leetcode.com/problems/word-break);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_word-break.cpp).
 * Top K Frequent Elements: [Problem](https://leetcode.com/problems/top-k-frequent-elements/); [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_top-k-frequent-elements.cpp).
 * Design Tic Tac Toe: [Problem](https://leetcode.com/problems/design-tic-tac-toe);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-tic-tac-toe.cpp).
 * Russian Doll Envelopes: [Problem](https://leetcode.com/problems/russian-doll-envelopes/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_russian-doll-envelopes.cpp).
