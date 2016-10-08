@@ -129,6 +129,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Lonely Integer: [Problem](https://www.hackerrank.com/challenges/lonely-integer);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/lonely-integer.cpp).
 * Xor-sequence: [Problem](https://www.hackerrank.com/challenges/xor-se);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/xor-se.cpp).
 * Sum vs XOR: [Problem](https://www.hackerrank.com/challenges/sum-vs-xor);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sum-vs-xor.cpp).
+* Yet Another MiniMax Problem: [Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/yet-another-minimax-problem.cpp).
 * A or B: [Problem](https://www.hackerrank.com/challenges/aorb);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/aorb.cpp).
 
 ### Regex
