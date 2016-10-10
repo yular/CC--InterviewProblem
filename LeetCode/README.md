@@ -91,4 +91,5 @@
 * Valid Word Abbreviation: [Problem](https://leetcode.com/problems/valid-word-abbreviation);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_valid-word-abbreviation.cpp).
 * Longest Palindrome: [Problem](https://leetcode.com/problems/longest-palindrome);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-palindrome.cpp).
 * Split Array Largest Sum: [Problem](https://leetcode.com/problems/split-array-largest-sum);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_split-array-largest-sum.cpp).
+* Partition Equal Subset Sum: [Problem](https://leetcode.com/problems/partition-equal-subset-sum);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_partition-equal-subset-sum.cpp).
 * Sentence Screen Fitting: [Problem](https://leetcode.com/problems/sentence-screen-fitting);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sentence-screen-fitting.cpp).
