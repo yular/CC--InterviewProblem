@@ -87,6 +87,7 @@
 * Rotate Function: [Problem](https://leetcode.com/problems/rotate-function/);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rotate-function.cpp).
 * Binary Watch: [Problem](https://leetcode.com/problems/binary-watch/);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-watch.cpp).
 * Frog Jump: [Problem](https://leetcode.com/problems/frog-jump);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_frog-jump.cpp).
+* Fizz Buzz: [Problem](https://leetcode.com/problems/fizz-buzz/);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_fizz-buzz.cpp).
 * Queue Reconstruction by Height: [Problem](https://leetcode.com/problems/queue-reconstruction-by-height);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_queue-reconstruction-by-height.cpp).
 * Sum of Left Leaves: [Problem](https://leetcode.com/problems/sum-of-left-leaves);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sum-of-left-leaves.cpp).
 * Convert A Number to Hexadecimal: [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_convert-a-number-to-hexadecimal.cpp).
