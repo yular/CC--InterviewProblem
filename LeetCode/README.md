@@ -102,4 +102,5 @@
 * Battleships in a Board: [Problem](https://leetcode.com/problems/battleships-in-a-board/);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_battleships-in-a-board.cpp).
 * Pacific Atlantic Water Flow: [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_pacific-atlantic-water-flow.cpp).
 * Sentence Screen Fitting: [Problem](https://leetcode.com/problems/sentence-screen-fitting);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sentence-screen-fitting.cpp).
+* Valid World Square: [Problem](https://leetcode.com/problems/valid-word-square);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_valid-word-square.cpp).
 * Longest Repeating Character Replacement: [Problem](https://leetcode.com/problems/longest-repeating-character-replacement);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-repeating-character-replacement.cpp).
