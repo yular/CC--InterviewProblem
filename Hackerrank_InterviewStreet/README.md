@@ -29,6 +29,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Jumping on the Clouds: [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/jumping-on-the-clouds.cpp).
 * Absolute Permutation: [Problem](https://www.hackerrank.com/challenges/absolute-permutation);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/absolute-permutation.cpp).
 * Find Digits: [Problem](https://www.hackerrank.com/challenges/find-digits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/find-digits.cpp).
+* Apple and Orange: [Problem](https://www.hackerrank.com/challenges/apple-and-orange);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/apple-and-orange.cpp).
 * Sherlock and Squares: [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-squares.cpp).
 * Service Lane: [Problem](https://www.hackerrank.com/challenges/service-lane);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/service-lane.cpp).
 * Strange Advertising: [Problem](https://www.hackerrank.com/challenges/strange-advertising);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/strange-advertising).
