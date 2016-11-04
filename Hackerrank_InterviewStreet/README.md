@@ -55,6 +55,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Lisa's Workbook: [Problem](https://www.hackerrank.com/challenges/bear-and-workbook);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bear-and-workbook.cpp).
 * Larry's Array: [Problem](https://www.hackerrank.com/challenges/larrys-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/larrys-array.cpp).
 * New Year Chaos: [Problem](https://www.hackerrank.com/challenges/new-year-chaos);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/new-year-chaos.cpp).
+* Equality in a Array: [Problem](https://www.hackerrank.com/challenges/equality-in-a-array);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/equality-in-a-array.cpp).
 * Divisible Sum Pairs: [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/divisible-sum-pairs.cpp).
 
 ### Strings
