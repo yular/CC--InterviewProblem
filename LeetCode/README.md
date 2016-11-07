@@ -112,5 +112,6 @@
 * Arrange Coins: [Problem](https://leetcode.com/problems/arranging-coins);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_arranging-coins.cpp).
 * Find All Numbers Disappeared in An Array: [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-all-numbers-disappeared-in-an-array.cpp).
 * Non-overlapping Intervals: [Problem](https://leetcode.com/problems/non-overlapping-intervals);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_non-overlapping-intervals.cpp).
+* Minimum Genetic Mutation: [Problem](https://leetcode.com/problems/minimum-genetic-mutation);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-genetic-mutation.cpp).
 * Reconstruct Original Digits from English: [Problem](https://leetcode.com/problems/reconstruct-original-digits-from-english);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/reconstruct-original-digits-from-english.cpp).
 * Sort Characters by Frequency: [Problem](https://leetcode.com/problems/sort-characters-by-frequency);       [Code](https://leetcode.com/problems/leetcode_sort-characters-by-frequency.cpp).
