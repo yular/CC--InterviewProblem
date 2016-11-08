@@ -119,6 +119,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Luck Balance: [Problem](https://www.hackerrank.com/challenges/luck-balance);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/luck-balance.cpp).
 * Flipping Matrix: [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/flipping-the-matrix.cpp).
 * Grid Challenge: [Problem](https://www.hackerrank.com/challenges/grid-challenge);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/grid-challenge.cpp).
+* Goodland Electricity: [Problem](https://www.hackerrank.com/challenges/pylons);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/pylons.cpp).
 
 ### Dynamic Programming
 * Mandragora: [Problem](https://www.hackerrank.com/challenges/mandragora);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/mandragora.cpp).
