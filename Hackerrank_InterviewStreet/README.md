@@ -18,6 +18,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Sherlock and The Beast: [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-the-beast.cpp).
 * The Bomberman Game: [Problem](https://www.hackerrank.com/challenges/bomber-man);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bomber-man.cpp).
 * Utopian Tree: [Problem](https://www.hackerrank.com/challenges/utopian-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/utopian-tree.cpp).
+* Happy Ladybug: [Problem](https://www.hackerrank.com/challenges/happy-ladybugs);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/happy-ladybugs.cpp).
 * Compare the triplets: [Problem](https://www.hackerrank.com/challenges/compare-the-triplets);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/compare-the-triplets.cpp).
 * Fair Rations: [Problem](https://www.hackerrank.com/challenges/fair-rations);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/fair-rations.cpp).
 * Jumping on the Clouds, Revisited: [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/jumping-on-the-clouds-revisited.cpp).
