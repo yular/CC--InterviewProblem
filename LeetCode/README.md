@@ -116,3 +116,4 @@
 * Reconstruct Original Digits from English: [Problem](https://leetcode.com/problems/reconstruct-original-digits-from-english);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_reconstruct-original-digits-from-english.cpp).
 * Sort Characters by Frequency: [Problem](https://leetcode.com/problems/sort-characters-by-frequency);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sort-characters-by-frequency.cpp).
 * Number of Boomeranges: [Problem](https://leetcode.com/problems/number-of-boomerangs);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-boomerangs.cpp).
+* Delete Node from a BST: [Problem](https://leetcode.com/problems/delete-node-in-a-bst);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_delete-node-in-a-bst.cpp).
