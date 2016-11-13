@@ -117,5 +117,6 @@
 * Sort Characters by Frequency: [Problem](https://leetcode.com/problems/sort-characters-by-frequency);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sort-characters-by-frequency.cpp).
 * Number of Boomeranges: [Problem](https://leetcode.com/problems/number-of-boomerangs);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-boomerangs.cpp).
 * Minimum Number of Arrows to Burst Ballons: [Problem](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-number-of-arrows-to-burst-balloons.cpp).
+* Sequence Reconstruction: [Problem](https://leetcode.com/problems/sequence-reconstruction);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sequence-reconstruction.cpp).
 * Delete Node from a BST: [Problem](https://leetcode.com/problems/delete-node-in-a-bst);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_delete-node-in-a-bst.cpp).
 * Serialize and Deserialize in a BST: [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_serialize-and-deserialize-bst.cpp).
