@@ -15,6 +15,7 @@ For details of explanation of solution, check this website: http://yular.github.
 
 ### Implementation
 * Angry Professor: [Problem](https://www.hackerrank.com/challenges/angry-professor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/angry-professor.cpp).
+* Beautiful Days at the Movies: [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-days-at-the-movies.cpp).
 * Sherlock and The Beast: [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-the-beast.cpp).
 * The Bomberman Game: [Problem](https://www.hackerrank.com/challenges/bomber-man);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bomber-man.cpp).
 * Utopian Tree: [Problem](https://www.hackerrank.com/challenges/utopian-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/utopian-tree.cpp).
