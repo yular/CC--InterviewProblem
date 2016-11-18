@@ -125,3 +125,4 @@
 * Serialize and Deserialize in a BST: [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_serialize-and-deserialize-bst.cpp).
 * Assign Cookies: [Problem](https://leetcode.com/problems/assign-cookies);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_assign-cookies.cpp).
 * 4 Sum II: [Problem](https://leetcode.com/problems/4sum-ii);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_4sum-ii.cpp).
+* Repeated Substring Pattern: [Problem](https://leetcode.com/problems/repeated-substring-pattern);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_repeated-substring-pattern.cpp).
