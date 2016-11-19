@@ -16,6 +16,7 @@
 * Serialize and Deserialize Binary Tree: [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_serialize-and-deserialize-binary-tree.cpp).
 * Increasing Triplet Subsequence: [Problem](https://leetcode.com/problems/increasing-triplet-subsequence/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_increasing-triplet-subsequence.cpp).
 * Paint House: [Problem](https://leetcode.com/problems/paint-house);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_paint-house.cpp).
+* Kth Largest Element in an Array: [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_kth-largest-element-in-an-array.cpp).
 * House Robber III: [Problem](https://leetcode.com/problems/house-robber-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_house-robber-iii.cpp).
 * Counting Bits: [Problem](https://leetcode.com/problems/counting-bits/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_counting-bits.cpp).
 * Longest Substring with At Most K Distinct Characters: [Problem](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-substring-with-at-most-k-distinct-characters.cpp).
