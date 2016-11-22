@@ -100,6 +100,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Sherlock and Array: [Problem](https://www.hackerrank.com/challenges/sherlock-and-array);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-array.cpp).
 * Ice Cream Parlor: [Problem](https://www.hackerrank.com/challenges/icecream-parlor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/icecream-parlor.cpp).
 * Maximise Sum: [Problem](https://www.hackerrank.com/challenges/maximise-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/maximise-sum.cpp).
+* Hackerland Radio Transmitters: [Problem](https://www.hackerrank.com/challenges/hackerland-radio-transmitters);        [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hackerland-radio-transmitters.cpp).
 * Missing Numbers: [Problem](https://www.hackerrank.com/challenges/missing-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/missing-numbers.cpp).
 * Connected Cell in a Grid: [Problem](https://www.hackerrank.com/challenges/connected-cell-in-a-grid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/connected-cell-in-a-grid.cpp).
 * Count Luck: [Problem](https://www.hackerrank.com/challenges/count-luck);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/count-luck.cpp).
