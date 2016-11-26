@@ -127,6 +127,7 @@
 * Arithmetic Slices II Subsequence: [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_arithmetic-slices-ii-subsequence.cpp).
 * Serialize and Deserialize in a BST: [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_serialize-and-deserialize-bst.cpp).
 * Assign Cookies: [Problem](https://leetcode.com/problems/assign-cookies);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_assign-cookies.cpp).
+* K th Smallest in Lexicographical Order: [Problem](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_k-th-smallest-in-lexicographical-order.cpp).
 * 4 Sum II: [Problem](https://leetcode.com/problems/4sum-ii);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_4sum-ii.cpp).
 * Repeated Substring Pattern: [Problem](https://leetcode.com/problems/repeated-substring-pattern);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_repeated-substring-pattern.cpp).
 * Island Perimeter: [Problem](https://leetcode.com/problems/island-perimeter);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_island-perimeter.cpp).
