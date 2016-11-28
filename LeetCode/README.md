@@ -44,6 +44,7 @@
 * Data Stream As Disjoint Intervals: [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_data-stream-as-disjoint-intervals.cpp).
 * Logger Rate Limiter: [Problem](https://leetcode.com/problems/logger-rate-limiter/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_logger-rate-limiter.cpp).
 * Perfect Square: [Problem](https://leetcode.com/problems/perfect-squares/);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_perfect-squares.cpp).
+* Rotate Image: [Problem](https://leetcode.com/problems/rotate-image);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rotate-image.cpp).
 * Integer Replacement: [Problem](https://leetcode.com/problems/integer-replacement);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_integer-replacement.cpp).
 * Patching Array: [Problem](https://leetcode.com/problems/patching-array/)      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_patching-array.cpp);
 * Design Hit Counter: [Problem](https://leetcode.com/problems/design-hit-counter/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-hit-counter.cpp).
