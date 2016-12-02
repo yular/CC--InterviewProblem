@@ -161,6 +161,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Kitty and Katty: [Problem](https://www.hackerrank.com/challenges/kitty-and-katty);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/kitty-and-katty.cpp).
 
 ### NP Complete
+* Walking the Approximate Longest Path: [Problem](https://www.hackerrank.com/challenges/walking-the-approximate-longest-path);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/walking-the-approximate-longest-path.cpp).
 
 ### Code Golf
 
