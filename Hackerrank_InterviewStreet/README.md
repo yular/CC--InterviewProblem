@@ -63,6 +63,9 @@ For details of explanation of solution, check this website: http://yular.github.
 * Equality in a Array: [Problem](https://www.hackerrank.com/challenges/equality-in-a-array);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/equality-in-a-array.cpp).
 * Divisible Sum Pairs: [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/divisible-sum-pairs.cpp).
 
+### Constructive Algorithm
+* Array Construction: [Problem](https://www.hackerrank.com/challenges/array-construction);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/array-construction.cpp).
+
 ### Strings
 * Super Reduced String: [Problem](https://www.hackerrank.com/challenges/reduced-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/reduced-string.cpp).
 * Mars Exploration: [Problem](https://www.hackerrank.com/challenges/mars-exploration);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/mars-exploration.cpp).
