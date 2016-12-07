@@ -1,39 +1,31 @@
 /*
 *
-*
-*
+* Tag: Game Theory
+* Time: O(n)
+* Space: O(1)
 */
 #include<cstdio>
 #include<algorithm>
-#define fo(i,a,b) for(i=a;i<=b;i++)
 using namespace std;
-int i,j,k,l,t,n,m,ca;
-int read(){
-    int x=0,f=1;
-    char ch=getchar();
-    while (ch<'0'||ch>'9'){
-        if (ch=='-') f=-1;
-        ch=getchar();
-    }
-    while (ch>='0'&&ch<='9'){
-        x=x*10+ch-'0';
-        ch=getchar();
-    }
-    return x*f;
-}
+int n, m, ans, u, v;
+
 int main(){
-    ca=read();
-    while (ca--){
-        n=read();
-        t=0;
-        fo(i,1,n){
-            j=read();k=read();
-            if (j==1) t^=1;
-            else if (j>2){
-                if (j%2==1) t^=1;
-                else t^=2;
+    int T;
+    scanf("%d",&T);
+    while (T --){
+        scanf("%d",&n);
+        ans = 0;
+        for(int i = 0; i < n; ++ i){
+            scanf("%d%d",&u,&v);
+            if ( u == 1) ans^=1;
+            else if (u > 2){
+                if (u%2==1) ans^=1;
+                else ans^=2;
             }
         }
-        if (t) printf("BOB\n");else printf("BEN\n");
+        if (ans) 
+            puts("BOB");
+        else 
+            puts("BEN");
     }
 }
