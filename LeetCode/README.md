@@ -12,6 +12,7 @@
 * Contains Duplicate: [Problem](https://leetcode.com/problems/contains-duplicate/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_contains-duplicate.cpp).
 * Power of Three: [Problem](https://leetcode.com/problems/power-of-three/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_power-of-three.cpp).
 * Largest BST Subtree: [Problem](https://leetcode.com/problems/largest-bst-subtree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-bst-subtree.cpp).
+* Count and Say: [Problem](https://leetcode.com/problems/count-and-say);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-and-say.cpp).
 * Largest Rectangle in Histogram: [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-rectangle-in-histogram.cpp).
 * Serialize and Deserialize Binary Tree: [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_serialize-and-deserialize-binary-tree.cpp).
 * Increasing Triplet Subsequence: [Problem](https://leetcode.com/problems/increasing-triplet-subsequence/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_increasing-triplet-subsequence.cpp).
