@@ -66,6 +66,7 @@ For details of explanation of solution, check this website: http://yular.github.
 
 ### Constructive Algorithm
 * Array Construction: [Problem](https://www.hackerrank.com/challenges/array-construction);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/array-construction.cpp).
+* Beautiful 3 Set: [Problem](https://www.hackerrank.com/challenges/beautiful-3-set);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-3-set.cpp).
 
 ### Strings
 * Super Reduced String: [Problem](https://www.hackerrank.com/challenges/reduced-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/reduced-string.cpp).
