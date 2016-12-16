@@ -1,6 +1,6 @@
 /*
 *
-* Tag: HashMap & Sort
+* Tag: HashMap & Heap
 * Time: getNewsFeed: O(nlgn); Add/Remove Followers: O(1)
 * Space: O(n)
 */
