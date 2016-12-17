@@ -136,6 +136,7 @@
 * Island Perimeter: [Problem](https://leetcode.com/problems/island-perimeter);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_island-perimeter.cpp).
 * 132 Pattern: [Problem](https://leetcode.com/problems/132-pattern);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_132-pattern.cpp).
 * Can I Win: [Problem](https://leetcode.com/problems/can-i-win);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_can-i-win.cpp).
+* All O(1) Data Structure: [Problem](https://leetcode.com/problems/all-oone-data-structure);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_all-oone-data-structure.cpp).
 * Minimum Moves to Equal Array Elements II: [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-moves-to-equal-array-elements-ii.cpp).
 .
 * LFU Cache: [Problem](https://leetcode.com/problems/leetcode_lfu-cache);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_lfu-cache.cpp).
