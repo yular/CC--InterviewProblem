@@ -138,6 +138,7 @@
 * Can I Win: [Problem](https://leetcode.com/problems/can-i-win);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_can-i-win.cpp).
 * Minimum Moves to Equal Array Elements II: [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-moves-to-equal-array-elements-ii.cpp).
 .
+* LFU Cache: [Problem](https://leetcode.com/problems/leetcode_lfu-cache);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_lfu-cache.cpp).
 * Convex Polygon: [Problem](https://leetcode.com/problems/convex-polygon);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_convex-polygon.cpp).
 * Number of Segments in a String: [Problem](https://leetcode.com/problems/number-of-segments-in-a-string);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-segments-in-a-string.cpp).
 * Unique Substring in Wraparound String: [Problem](https://leetcode.com/problems/unique-substrings-in-wraparound-string);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_unique-substrings-in-wraparound-string.cpp).
