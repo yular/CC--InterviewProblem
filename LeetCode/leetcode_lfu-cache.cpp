@@ -7,10 +7,10 @@
 class LFUCache {
 private:
     struct Row{
-        list<pair<int,int>> strs;
+        list<pair<int,int>> cols;
         int freq;
         Row(int k, int v, int f){
-            strs.push_back(make_pair(k, v));
+            cols.push_back(make_pair(k, v));
             freq = f;
         }
     };
@@ -38,28 +38,27 @@ public:
     void set(int key, int value) {
         if(!cap)
             return ;
-        list<Row>::iterator row, newrow, nxtrow;
-        list<pair<int,int>>::iterator col;
         if(dict.find(key) == dict.end()){
+            list<Row>::iterator row, newrow, nxtrow;
+            list<pair<int,int>>::iterator col;
             if(curcap >= cap){
                 row = cache.end();
                 -- row;
-                col = row->strs.end();
+                col = row->cols.end();
                 -- col;
-                row->strs.pop_back();
-                if(row->strs.empty())
+                row->cols.pop_back();
+                if(row->cols.empty())
                     cache.erase(row);
                 dict.erase(col->first);
                 -- curcap;
             }
-            if (cache.empty() || cache.back().freq != 1) {
+            if(cache.empty() || cache.back().freq != 1){
                 newrow = cache.emplace(cache.end(), key, value, 1);
-                dict[key] = make_pair(newrow, newrow->strs.begin());
-            } else {
+            }else{
                 newrow = --cache.end();
-                newrow->strs.push_front(make_pair(key,value));
-                dict[key] = make_pair(newrow, newrow->strs.begin());
+                newrow->cols.push_front(make_pair(key, value));
             }
+            dict[key] = make_pair(newrow, newrow->cols.begin());
             ++ curcap;
         }else{
             updateCache(key, value);
@@ -68,20 +67,19 @@ public:
 
 private:
     void updateCache(int key, int value){
-        list<Row>::iterator row = dict[key].first;
+        list<Row>::iterator row = dict[key].first, nxtrow, newrow;
         list<pair<int,int>>::iterator col = dict[key].second;
-        list<Row>::iterator nxtrow = row, newrow;
+        nxtrow = row;
         -- nxtrow;
         if(nxtrow == cache.end() || nxtrow->freq != row->freq + 1){
             newrow = cache.emplace(row, key, value, row->freq + 1);
-            dict[key] = make_pair(newrow, newrow->strs.begin());
         }else{
             newrow = nxtrow;
-            newrow->strs.push_front(make_pair(key,value));
-            dict[key] = make_pair(newrow, newrow->strs.begin());
+            newrow->cols.push_front(make_pair(key, value));
         }
-        row->strs.erase(col);
-        if(row->strs.empty())
+        dict[key] = make_pair(newrow, newrow->cols.begin());
+        row->cols.erase(col);
+        if(row->cols.empty())
             cache.erase(row);
     }
 };
