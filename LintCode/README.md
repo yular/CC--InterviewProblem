@@ -301,3 +301,4 @@
 * Dices Sum: [Problem](http://www.lintcode.com/en/problem/dices-sum/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_dices-sum.cpp).
 * Word Count (Map Reduce): [Problem](http://www.lintcode.com/en/problem/word-count-map-reduce);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_word-count-map-reduce.cpp).
 * Mock Hanoi Tower by Stacks: [Problem](http://www.lintcode.com/en/problem/mock-hanoi-tower-by-stacks);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_mock-hanoi-tower-by-stacks.cpp).
+* LFU Cache: [Problem](http://www.lintcode.com/en/problem/lfu-cache);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_lfu-cache.cpp).
