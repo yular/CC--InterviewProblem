@@ -149,4 +149,5 @@
 * Heaters: [Problem](https://leetcode.com/problems/heaters);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_heaters.cpp).
 * Matchsticks To Square: [Problem](https://leetcode.com/problems/matchsticks-to-square);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_matchsticks-to-square.cpp).
 * Hamming Distance: [Problem](https://leetcode.com/problems/hamming-distance);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_hamming-distance.cpp).
+* Count the Repetitions: [Problem](https://leetcode.com/problems/count-the-repetitions);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-the-repetitions.cpp).
 * Total Hamming Distance: [Problem](https://leetcode.com/problems/total-hamming-distance);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_total-hamming-distance.cpp).
