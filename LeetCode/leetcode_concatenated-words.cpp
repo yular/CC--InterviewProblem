@@ -57,16 +57,22 @@ public:
 };
 
 class Solution {
-
+//private:
+private:
+    struct cmpfun{
+        bool operator() (const string a, const string b){
+            return a.size() < b.size();
+        }
+    }cmp;
 public:
     vector<string> findAllConcatenatedWordsInADict(vector<string>& words) {
         vector<string> ans;
         if(words.size() == 0)
             return ans;
+        sort(words.begin(), words.end(), cmp);
         Trie tree;
         int maxlen = 0;
         for(int i = 0; i < words.size(); ++ i){
-            tree.insert(words[i]);
             maxlen = max(maxlen, (int)words[i].size());
         }
         vector<int> dp(maxlen + 1);
@@ -83,6 +89,8 @@ public:
                     break;
                 }
             }
+            if(dp[words[i].size() - 1] < 1)
+                tree.insert(words[i]);
         }
         return ans;
     }
