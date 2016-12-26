@@ -95,3 +95,56 @@ public:
         return ans;
     }
 };
+
+
+/*
+*
+* Tag: DFS + Data Structure
+* Time: O(n^2)
+* Space: O(n)
+*/
+
+class Solution {
+private:
+    struct cmpfun{
+        bool operator() (const string a, const string b){
+            return a.size() < b.size();
+        }
+    }cmp;
+public:
+    vector<string> findAllConcatenatedWordsInADict(vector<string>& words) {
+        vector<string> ans;
+        if(words.size() == 0)
+            return ans;
+        sort(words.begin(), words.end(), cmp);
+        unordered_set<string> st;
+        string path;
+        for(int i = 0; i < words.size(); ++ i){
+            path = "";
+            if(dfs(words[i], 0, 0, path, st))
+                ans.push_back(words[i]);
+            else
+                st.insert(words[i]);
+        }
+        return ans;
+    }
+private:
+    bool dfs(string &word, int idx, int cnt, string &path, unordered_set<string> &st){
+        if(idx >= word.size()){
+            if(st.find(path) != st.end() && cnt > 0)
+                return true;
+            else
+                return false;
+        }
+        path += word[idx];
+        if(st.find(path) != st.end()){
+            string tmp = "";
+            if(dfs(word, idx + 1, cnt + 1, tmp, st))
+                return true;
+        }
+        if(dfs(word, idx + 1, cnt, path, st))
+            return true;
+        else
+            return false;
+    }
+};
