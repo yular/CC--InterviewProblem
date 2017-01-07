@@ -157,7 +157,3 @@
 * Optimal Account balancing: [Problem](https://leetcode.com/problems/optimal-account-balancing);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_optimal-account-balancing.cpp).
 * Largest Palindrome Product: [Problem](https://leetcode.com/problems/largest-palindrome-product);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-palindrome-product.cpp).
 
-
-
-## DataBase
-* Duplicate Emails: [Problem](https://leetcode.com/problems/duplicate-emails);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_duplicate-emails.sql).
