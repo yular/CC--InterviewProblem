@@ -303,3 +303,4 @@
 * Mock Hanoi Tower by Stacks: [Problem](http://www.lintcode.com/en/problem/mock-hanoi-tower-by-stacks);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_mock-hanoi-tower-by-stacks.cpp).
 * LFU Cache: [Problem](http://www.lintcode.com/en/problem/lfu-cache);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_lfu-cache.cpp).
 * Maximum Average Subarray: [Problem](http://www.lintcode.com/en/problem/maximum-average-subarray);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximum-average-subarray.cpp).
+* Classical Binary Search: [Problem](http://www.lintcode.com/en/problem/classical-binary-search);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_classical-binary-search.cpp).
