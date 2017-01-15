@@ -158,4 +158,5 @@
 * Largest Palindrome Product: [Problem](https://leetcode.com/problems/largest-palindrome-product);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-palindrome-product.cpp).
 * Number Complement: [Problem](https://leetcode.com/problems/number-complement);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-complement.cpp).
 * License Key Formatting: [Problem](https://leetcode.com/problems/license-key-formatting);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_license-key-formatting.cpp).
+* Magic String: [Problem](https://leetcode.com/problems/magical-string);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_magical-string.cpp).
 * Max Consecutive Ones II: [Problem](https://leetcode.com/problems/max-consecutive-ones-ii);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-consecutive-ones-ii.cpp).
