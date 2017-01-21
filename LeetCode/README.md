@@ -162,3 +162,4 @@
 * Max Consecutive Ones: [Problem](https://leetcode.com/problems/max-consecutive-ones);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-consecutive-ones.cpp).
 * Max Consecutive Ones II: [Problem](https://leetcode.com/problems/max-consecutive-ones-ii);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-consecutive-ones-ii.cpp).
 * Sliding Window Median: [Problem](https://leetcode.com/problems/sliding-window-median);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sliding-window-median.cpp).
+* Zuma Game: [Problem](https://leetcode.com/problems/zuma-game);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_zuma-game.cpp).
