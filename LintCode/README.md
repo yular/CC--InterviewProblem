@@ -292,6 +292,7 @@
 * Intersection of Two Arrays: [Problem](http://www.lintcode.com/en/problem/intersection-of-two-arrays/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_intersection-of-two-arrays.cpp).
 * Intersection of Two Arrays II: [Problem](http://www.lintcode.com/en/problem/intersection-of-two-arrays-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_intersection-of-two-arrays-ii.cpp).
 * Sort Integers: [Problem](http://www.lintcode.com/en/problem/sort-integers);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sort-integers.cpp).
+* Add Digits: [Problem](http://www.lintcode.com/en/problem/add-digits);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_add-digits.cpp).
 * Sort Integers II: [Problem](http://www.lintcode.com/en/problem/sort-integers-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sort-integers-ii.cpp).
 * Create Maximum Number: [Problem](http://www.lintcode.com/en/problem/create-maximum-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_create-maximum-number.cpp).
 * Backpack VII: [Problem](http://www.lintcode.com/en/problem/backpack-vi/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_backpack-vi.cpp).
