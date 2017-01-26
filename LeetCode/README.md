@@ -166,3 +166,4 @@
 * Increasing Subsequences: [Problem](https://leetcode.com/problems/increasing-subsequences);        [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_increasing-subsequences.cpp).
 * Target Sum: [Problem](https://leetcode.com/problems/target-sum);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_target-sum.cpp).
 * Predict the Winner: [Problem](https://leetcode.com/problems/predict-the-winner);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_predict-the-winner.cpp).
+* Construct the Rectangle: [Problem](https://leetcode.com/problems/construct-the-rectangle);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_construct-the-rectangle.cpp).
