@@ -169,3 +169,4 @@
 * Construct the Rectangle: [Problem](https://leetcode.com/problems/construct-the-rectangle);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_construct-the-rectangle.cpp).
 * Find Permutation: [Problem](https://leetcode.com/problems/find-permutation);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-permutation.cpp).
 * Smallest Good Base: [Problem](https://leetcode.com/problems/smallest-good-base);        [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_smallest-good-base.cpp).
+* Teemo Attacking: [Problem](https://leetcode.com/problems/teemo-attacking);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_teemo-attacking.cpp).
