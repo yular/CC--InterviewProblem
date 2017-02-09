@@ -177,5 +177,6 @@
 * Diagonal Traverse: [Problem](https://leetcode.com/problems/diagonal-traverse);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_diagonal-traverse.cpp).
 * Relative Ranks: [Problem](https://leetcode.com/problems/relative-ranks);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_relative-ranks.cpp).
 * Next Greater Element I: [Problem](https://leetcode.com/problems/next-greater-element-i);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_next-greater-element-i.cpp).
+* Next Greater Element II: [Problem](https://leetcode.com/problems/next-greater-element-ii);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_next-greater-element-ii.cpp).
 * Most Frequent Subtree Sum: [Problem](https://leetcode.com/problems/most-frequent-subtree-sum);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_most-frequent-subtree-sum.cpp).
 * Keyboard Row: [Problem](https://leetcode.com/problems/keyboard-row);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_keyboard-row.cpp).
