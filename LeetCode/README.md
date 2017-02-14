@@ -185,3 +185,4 @@
 * Reverse Pair: [Problem](https://leetcode.com/problems/reverse-pairs);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_reverse-pairs.cpp).
 * Find Bottom Left Tree Value: [Problem](https://leetcode.com/problems/find-bottom-left-tree-value);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-bottom-left-tree-value.cpp).
 * Find Largest Value in Each Tree Row: [Problem](https://leetcode.com/problems/find-largest-value-in-each-tree-row);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-largest-value-in-each-tree-row.cpp).
+* Base 7: [Problem](https://leetcode.com/problems/base-7);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_base-7.cpp).
