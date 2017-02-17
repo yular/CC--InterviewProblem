@@ -10,7 +10,7 @@ public:
         int n = maze.size(), m = maze[0].size();
         vector<vector<int>> dist(n, vector<int>(m, -1));
         queue<pair<int,int>> q;
-        pair<int,int> cur, nxt;
+        pair<int,int> cur;
         int x, y, step;
         q.push({ball[0], ball[1]});
         dist[ball[0]][ball[1]] = 0;
@@ -26,11 +26,8 @@ public:
                         ++ step;
                         x += dir[i][0];
                         y += dir[i][1];
-                    }
-                if(dist[x][y] == -1){
-                    dist[x][y] = dist[cur.first][cur.second] + step;
-                    q.push({x, y});
-                }else if(dist[x][y] > dist[cur.first][cur.second] + step){
+                }
+                if(dist[x][y] == -1 || dist[x][y] > dist[cur.first][cur.second] + step){
                     dist[x][y] = dist[cur.first][cur.second] + step;
                     q.push({x, y});
                 }
@@ -40,5 +37,5 @@ public:
         return dist[hole[0]][hole[1]];
     }
 private:
-    int dir[4][2] = {{1,0},{0,-1},{0,1},{-1,0}};
+    int dir[4][2] = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
 };
