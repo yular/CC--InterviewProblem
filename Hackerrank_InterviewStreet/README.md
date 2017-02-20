@@ -172,6 +172,9 @@ For details of explanation of solution, check this website: http://yular.github.
 
 ### Multiple Choice
 
+### Recursion
+* Repeat k Sums:[Problem](https://www.hackerrank.com/challenges/repeat-k-sums);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/repeat-k-sums.cpp).
+
 
 ### Data Structure
 * Arrays- DS: [Problem](https://www.hackerrank.com/challenges/arrays-dsdfdf);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/arrays_ds.cpp).
