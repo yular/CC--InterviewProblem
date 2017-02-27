@@ -187,4 +187,6 @@
 * Find Largest Value in Each Tree Row: [Problem](https://leetcode.com/problems/find-largest-value-in-each-tree-row);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-largest-value-in-each-tree-row.cpp).
 * Base 7: [Problem](https://leetcode.com/problems/base-7);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_base-7.cpp).
 * Super Washing Machine: [Problem](https://leetcode.com/problems/super-washing-machines);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_super-washing-machines.cpp).
+* Continous Array: [Problem](https://leetcode.com/problems/contiguous-array/);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_contiguous-array.cpp).
+* Beautiful Arrangement: [Problem](https://leetcode.com/problems/beautiful-arrangement/);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_beautiful-arrangement.cpp).
 * Detect Capital: [Problem](https://leetcode.com/problems/detect-capital);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_detect-capital.cpp).
