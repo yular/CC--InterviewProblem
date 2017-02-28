@@ -18,14 +18,8 @@ public:
                 ans = max(ans, i + 1);
             if(dict.find(sum) == dict.end())
                 dict[sum] = i;
-            dict[sum] = max(dict[sum], i);
-        }
-        sum = 0;
-        for(int i = 0; i < n; ++ i){
-            sum += nums[i] == 0?-1:1;
-            if(dict.find(sum) != dict.end() && dict[sum] > i){
-                ans = max(ans, dict[sum] - i);
-            }
+            else
+                ans = max(ans, i - dict[sum]);
         }
         return ans;
     }
