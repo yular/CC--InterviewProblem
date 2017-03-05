@@ -173,6 +173,7 @@
 * Find Mode in Binary Search Tree: [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-mode-in-binary-search-tree.cpp).
 * The Maze: [Problem](https://leetcode.com/problems/the-maze);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_the-maze.cpp).
 * The Maze II: [Problem](https://leetcode.com/problems/the-maze-ii);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_the-maze-ii.cpp).
+* The Maze III: [Problem](https://leetcode.com/problems/the-maze-iii);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_the-maze-iii.cpp).
 * IPO: [Problem](https://leetcode.com/problems/ipo/);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_ipo.cpp).
 * Diagonal Traverse: [Problem](https://leetcode.com/problems/diagonal-traverse);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_diagonal-traverse.cpp).
 * Relative Ranks: [Problem](https://leetcode.com/problems/relative-ranks);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_relative-ranks.cpp).
@@ -194,3 +195,4 @@
 * Minimum Absolute Difference in BST: [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-absolute-difference-in-bst.cpp).
 * Continuous Subarray Sum: [Problem](https://leetcode.com/problems/continuous-subarray-sum);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_continuous-subarray-sum.cpp).
 * Minesweeper: [Problem](https://leetcode.com/problems/minesweeper);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minesweeper.cpp).
+* Encode and Decode TinyURL: [Problem](https://leetcode.com/problems/encode-and-decode-tinyurl);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_encode-and-decode-tinyurl.cpp).
