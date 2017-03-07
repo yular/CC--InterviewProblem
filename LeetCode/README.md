@@ -196,4 +196,5 @@
 * Continuous Subarray Sum: [Problem](https://leetcode.com/problems/continuous-subarray-sum);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_continuous-subarray-sum.cpp).
 * Minesweeper: [Problem](https://leetcode.com/problems/minesweeper);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minesweeper.cpp).
 * Encode and Decode TinyURL: [Problem](https://leetcode.com/problems/encode-and-decode-tinyurl);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_encode-and-decode-tinyurl.cpp).
+* K-diff Pairs in an Array: [Problem](https://leetcode.com/problems/k-diff-pairs-in-an-array);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_k-diff-pairs-in-an-array.cpp).
 * Lonely Pixel I: [Problem](https://leetcode.com/problems/lonely-pixel-i);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_lonely-pixel-i.cpp).
