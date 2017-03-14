@@ -203,3 +203,5 @@
 * Single Element in a Sorted Array: [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_single-element-in-a-sorted-array.cpp).
 * Minimum Time Difference: [Problem](https://leetcode.com/problems/minimum-time-difference);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-time-difference.cpp).
 * Construct Binary Tree From String: [Problem](https://leetcode.com/problems/construct-binary-tree-from-string);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_construct-binary-tree-from-string.cpp).
+* Word Abbreviation: [Problem](https://leetcode.com/problems/word-abbreviation);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_word-abbreviation.cpp).
+* Reverse String II: [Problem](https://leetcode.com/problems/reverse-string-ii);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_reverse-string-ii.cpp).
