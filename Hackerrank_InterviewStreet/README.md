@@ -14,6 +14,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Time Conversion: [Problem](https://www.hackerrank.com/challenges/time-conversion);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/time-conversion.cpp).
 
 ### Implementation
+* Grading Students: [Problem](https://www.hackerrank.com/challenges/grading);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/grading.cpp).
 * Angry Professor: [Problem](https://www.hackerrank.com/challenges/angry-professor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/angry-professor.cpp).
 * Beautiful Days at the Movies: [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-days-at-the-movies.cpp).
 * Sherlock and The Beast: [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-the-beast.cpp).
