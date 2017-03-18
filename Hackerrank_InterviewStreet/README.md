@@ -22,6 +22,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Design PDF Viewer: [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/designer-pdf-viewer.cpp).
 * Append and Delete: [Problem](https://www.hackerrank.com/challenges/append-and-delete);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/append-and-delete.cpp).
 * Utopian Tree: [Problem](https://www.hackerrank.com/challenges/utopian-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/utopian-tree.cpp).
+* Breaking Best and Worst Record: [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/breaking-best-and-worst-records.cpp).
 * Happy Ladybug: [Problem](https://www.hackerrank.com/challenges/happy-ladybugs);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/happy-ladybugs.cpp).
 * Mini Max Sum: [Problem](https://www.hackerrank.com/challenges/mini-max-sum);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/mini-max-sum.cpp).
 * Compare the triplets: [Problem](https://www.hackerrank.com/challenges/compare-the-triplets);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/compare-the-triplets.cpp).
