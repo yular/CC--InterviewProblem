@@ -19,6 +19,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Beautiful Days at the Movies: [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-days-at-the-movies.cpp).
 * Sherlock and The Beast: [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-the-beast.cpp).
 * The Bomberman Game: [Problem](https://www.hackerrank.com/challenges/bomber-man);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/bomber-man.cpp).
+* Migratory Birds: [Problem](https://www.hackerrank.com/challenges/migratory-birds);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/migratory-birds.cpp).
 * Design PDF Viewer: [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/designer-pdf-viewer.cpp).
 * Append and Delete: [Problem](https://www.hackerrank.com/challenges/append-and-delete);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/append-and-delete.cpp).
 * Utopian Tree: [Problem](https://www.hackerrank.com/challenges/utopian-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/utopian-tree.cpp).
@@ -127,6 +128,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Demanding Money: [Problem]();   [Code]().
 
 ### Greedy
+* Minimum Absolute Difference in An Array: [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/minimum-absolute-difference-in-an-array.cpp).
 * Beautiful Pairs: [Problem](https://www.hackerrank.com/challenges/beautiful-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-pairs.cpp).
 * Luck Balance: [Problem](https://www.hackerrank.com/challenges/luck-balance);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/luck-balance.cpp).
 * Flipping Matrix: [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/flipping-the-matrix.cpp).
