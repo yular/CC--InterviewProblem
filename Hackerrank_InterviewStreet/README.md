@@ -82,6 +82,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Hackerrank in a String: [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hackerrank-in-a-string.cpp).
 * Beautiful Binary String: [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-binary-string.cpp).
 * Richie Rich: [Problem](https://www.hackerrank.com/challenges/richie-rich);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/richie-rich.cpp).
+* Weighted Uniform String:[Problem](https://www.hackerrank.com/challenges/weighted-uniform-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/weighted-uniform-string.cpp).
 * Sherlock and Valid String: [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-valid-string.cpp).
 * CamelCase: [Problem](https://www.hackerrank.com/challenges/camelcase);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/camelcase.cpp).
 * String Construction: [Problem](https://www.hackerrank.com/challenges/string-construction);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/string-construction.cpp).
@@ -118,6 +119,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Maximise Sum: [Problem](https://www.hackerrank.com/challenges/maximise-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/maximise-sum.cpp).
 * Hackerland Radio Transmitters: [Problem](https://www.hackerrank.com/challenges/hackerland-radio-transmitters);        [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hackerland-radio-transmitters.cpp).
 * Missing Numbers: [Problem](https://www.hackerrank.com/challenges/missing-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/missing-numbers.cpp).
+* knightL on Chessboard: [Problem](https://www.hackerrank.com/challenges/knightl-on-chessboard);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/knightl-on-chessboard.cpp).
 * Connected Cell in a Grid: [Problem](https://www.hackerrank.com/challenges/connected-cell-in-a-grid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/connected-cell-in-a-grid.cpp).
 * Count Luck: [Problem](https://www.hackerrank.com/challenges/count-luck);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/count-luck.cpp).
 * Cut the tree: [Problem](https://www.hackerrank.com/challenges/cut-the-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/cut-the-tree.cpp).
@@ -136,6 +138,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Greedy
 * Minimum Absolute Difference in An Array: [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/minimum-absolute-difference-in-an-array.cpp).
 * Beautiful Pairs: [Problem](https://www.hackerrank.com/challenges/beautiful-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-pairs.cpp).
+* Marcs Cakewalk: [Problem](https://www.hackerrank.com/challenges/marcs-cakewalk);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/marcs-cakewalk.cpp).
 * Luck Balance: [Problem](https://www.hackerrank.com/challenges/luck-balance);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/luck-balance.cpp).
 * Flipping Matrix: [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/flipping-the-matrix.cpp).
 * Grid Challenge: [Problem](https://www.hackerrank.com/challenges/grid-challenge);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/grid-challenge.cpp).
