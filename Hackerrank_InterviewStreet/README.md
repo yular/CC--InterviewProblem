@@ -81,6 +81,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Super Reduced String: [Problem](https://www.hackerrank.com/challenges/reduced-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/reduced-string.cpp).
 * Mars Exploration: [Problem](https://www.hackerrank.com/challenges/mars-exploration);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/mars-exploration.cpp).
 * Hackerrank in a String: [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hackerrank-in-a-string.cpp).
+* Separate the Numbers: [Problem](https://www.hackerrank.com/challenges/separate-the-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/separate-the-numbers).
 * Beautiful Binary String: [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-binary-string.cpp).
 * Richie Rich: [Problem](https://www.hackerrank.com/challenges/richie-rich);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/richie-rich.cpp).
 * Weighted Uniform String:[Problem](https://www.hackerrank.com/challenges/weighted-uniform-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/weighted-uniform-string.cpp).
@@ -169,6 +170,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Game of Stones: [Problem](https://www.hackerrank.com/challenges/game-of-stones-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/game-of-stones-1.cpp).
 * Tower Breakers: [Problem](https://www.hackerrank.com/challenges/tower-breakers-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/tower-breakers-1.cpp).
 * Fun Game: [Problem](https://www.hackerrank.com/challenges/fun-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/fun-game-1.cpp).
+* Alice and Bob's Silly Game: [Problem](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/alice-and-bobs-silly-game.cpp).
 * A Chessboard Game: [Problem](https://www.hackerrank.com/challenges/a-chessboard-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/a-chessboard-game-1.cpp).
 * Chessboard Game, Again!: [Problem](https://www.hackerrank.com/challenges/chessboard-game-again-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/chessboard-game-again-1.cpp).
 * Introduction to Nim Game: [Problem](https://www.hackerrank.com/challenges/nim-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/nim-game-1.cpp).
@@ -187,6 +189,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Multiple Choice
 
 ### Recursion
+* The Power Sum: [Problem](https://www.hackerrank.com/challenges/the-power-sum);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-power-sum.cpp).
 * Repeat k Sums:[Problem](https://www.hackerrank.com/challenges/repeat-k-sums);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/repeat-k-sums.cpp).
 
 
