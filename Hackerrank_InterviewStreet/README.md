@@ -22,6 +22,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Climbing the Leaderboard: [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/climbing-the-leaderboard.cpp).
 * Migratory Birds: [Problem](https://www.hackerrank.com/challenges/migratory-birds);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/migratory-birds.cpp).
 * The Hurdle Race: [Problem](https://www.hackerrank.com/challenges/the-hurdle-race);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-hurdle-race.cpp).
+* Organizing Containers of Balls: [Problem](https://www.hackerrank.com/challenges/organizing-containers-of-balls);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/organizing-containers-of-balls.cpp).
 * Cats and a Mouse: [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/cats-and-a-mouse.cpp).
 * Drawing Book: [Problem](https://www.hackerrank.com/challenges/drawing-book);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/drawing-book.cpp).
 * Design PDF Viewer: [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/designer-pdf-viewer.cpp).
@@ -135,6 +136,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Graph Theory
 * Minimum Penalty Path: [Problem](https://www.hackerrank.com/challenges/beautiful-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-path.cpp).
 * Roads in HackerLand: [Problem](https://www.hackerrank.com/challenges/johnland);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/johnland.cpp).
+* Roads and Libraries: [Problem](https://www.hackerrank.com/challenges/torque-and-development);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/torque-and-development.cpp).
 * Demanding Money: [Problem]();   [Code]().
 
 ### Greedy
@@ -187,6 +189,9 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Code Golf
 
 ### Multiple Choice
+
+### Constructive Algorithm
+* Gaming Array: [Problem](https://www.hackerrank.com/challenges/an-interesting-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/an-interesting-game-1.cpp).
 
 ### Recursion
 * The Power Sum: [Problem](https://www.hackerrank.com/challenges/the-power-sum);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-power-sum.cpp).
