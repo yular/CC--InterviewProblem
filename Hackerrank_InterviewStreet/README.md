@@ -165,8 +165,9 @@ For details of explanation of solution, check this website: http://yular.github.
 * Yet Another MiniMax Problem: [Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/yet-another-minimax-problem.cpp).
 * A or B: [Problem](https://www.hackerrank.com/challenges/aorb);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/aorb.cpp).
 
-### Regex
-*
+### Recursion
+* Recursive Digit Sum: [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/recursive-digit-sum.cpp)
+* Password Craker: [Problem](https://www.hackerrank.com/challenges/password-cracker);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/password-cracker.cpp).
 
 ### Game Theory
 * Game of Stones: [Problem](https://www.hackerrank.com/challenges/game-of-stones-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/game-of-stones-1.cpp).
