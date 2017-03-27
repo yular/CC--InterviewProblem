@@ -166,7 +166,8 @@ For details of explanation of solution, check this website: http://yular.github.
 * A or B: [Problem](https://www.hackerrank.com/challenges/aorb);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/aorb.cpp).
 
 ### Recursion
-* Recursive Digit Sum: [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/recursive-digit-sum.cpp)
+* Recursive Digit Sum: [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/recursive-digit-sum.cpp).
+* Crossword Puzzle: [Problem](https://www.hackerrank.com/challenges/crossword-puzzle);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/crossword-puzzle.cpp).
 * Password Craker: [Problem](https://www.hackerrank.com/challenges/password-cracker);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/password-cracker.cpp).
 
 ### Game Theory
