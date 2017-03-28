@@ -76,6 +76,7 @@ For details of explanation of solution, check this website: http://yular.github.
 
 ### Constructive Algorithm
 * Array Construction: [Problem](https://www.hackerrank.com/challenges/array-construction);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/array-construction.cpp).
+* Gaming Array: [Problem](https://www.hackerrank.com/challenges/an-interesting-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/an-interesting-game-1.cpp).
 * Beautiful 3 Set: [Problem](https://www.hackerrank.com/challenges/beautiful-3-set);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-3-set.cpp).
 
 ### Strings
@@ -168,6 +169,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Recursion
 * Recursive Digit Sum: [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/recursive-digit-sum.cpp).
 * Crossword Puzzle: [Problem](https://www.hackerrank.com/challenges/crossword-puzzle);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/crossword-puzzle.cpp).
+* Arithmetic Expressions: [Problem](https://www.hackerrank.com/challenges/arithmetic-expressions);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/arithmetic-expressions.cpp).
 * Password Craker: [Problem](https://www.hackerrank.com/challenges/password-cracker);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/password-cracker.cpp).
 
 ### Game Theory
@@ -191,9 +193,6 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Code Golf
 
 ### Multiple Choice
-
-### Constructive Algorithm
-* Gaming Array: [Problem](https://www.hackerrank.com/challenges/an-interesting-game-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/an-interesting-game-1.cpp).
 
 ### Recursion
 * The Power Sum: [Problem](https://www.hackerrank.com/challenges/the-power-sum);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-power-sum.cpp).
