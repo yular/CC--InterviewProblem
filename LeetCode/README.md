@@ -209,5 +209,6 @@
 * 01 Matrix: [Problem](https://leetcode.com/problems/01-matrix);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_01-matrix.cpp).
 * Convert BST to Greater Tree: [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_convert-bst-to-greater-tree.cpp).
 * Diameter of Binary Tree: [Problem](https://leetcode.com/problems/diameter-of-binary-tree);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_diameter-of-binary-tree.cpp).
+* Perfect Number: [Problem](https://leetcode.com/problems/perfect-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_perfect-number.cpp).
 * Complex Number Multiplication: [Problem](complex-number-multiplication);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_complex-number-multiplication.cpp).
 * Remove Boxes: [Problem](https://leetcode.com/problems/remove-boxes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-boxes.cpp).
