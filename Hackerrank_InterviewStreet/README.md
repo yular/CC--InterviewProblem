@@ -124,6 +124,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Sherlock and Array: [Problem](https://www.hackerrank.com/challenges/sherlock-and-array);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sherlock-and-array.cpp).
 * Ice Cream Parlor: [Problem](https://www.hackerrank.com/challenges/icecream-parlor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/icecream-parlor.cpp).
 * Maximise Sum: [Problem](https://www.hackerrank.com/challenges/maximise-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/maximise-sum.cpp).
+* Minimum Loss: [Problem](https://www.hackerrank.com/challenges/minimum-loss);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/minimum-loss.cpp).
 * Hackerland Radio Transmitters: [Problem](https://www.hackerrank.com/challenges/hackerland-radio-transmitters);        [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hackerland-radio-transmitters.cpp).
 * Missing Numbers: [Problem](https://www.hackerrank.com/challenges/missing-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/missing-numbers.cpp).
 * knightL on Chessboard: [Problem](https://www.hackerrank.com/challenges/knightl-on-chessboard);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/knightl-on-chessboard.cpp).
