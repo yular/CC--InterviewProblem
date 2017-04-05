@@ -62,6 +62,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Chocolate Feast: [Problem](https://www.hackerrank.com/challenges/chocolate-feast);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/chocolate-feast.cpp).
 * Cavity Map: [Problem](https://www.hackerrank.com/challenges/cavity-map);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/cavity-map.cpp).
 * Caesar Cipher: [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/caesar-cipher-1.cpp).
+* Strings: Making Anagrams: [Problem](https://www.hackerrank.com/challenges/ctci-making-anagrams);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/ctci-making-anagrams.cpp).
 * Library Fine: [Problem](https://www.hackerrank.com/challenges/library-fine);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/library-fine.cpp).
 * Manasa and Stones: [Problem](https://www.hackerrank.com/challenges/manasa-and-stones);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/manasa-and-stones.cpp).
 * ACM ICPC Team: [Problem](https://www.hackerrank.com/challenges/acm-icpc-team);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/acm-icpc-team.cpp).
@@ -87,7 +88,8 @@ For details of explanation of solution, check this website: http://yular.github.
 * Super Reduced String: [Problem](https://www.hackerrank.com/challenges/reduced-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/reduced-string.cpp).
 * Mars Exploration: [Problem](https://www.hackerrank.com/challenges/mars-exploration);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/mars-exploration.cpp).
 * Hackerrank in a String: [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hackerrank-in-a-string.cpp).
-* Separate the Numbers: [Problem](https://www.hackerrank.com/challenges/separate-the-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/separate-the-numbers).
+* Separate the Numbers: [Problem](https://www.hackerrank.com/challenges/separate-the-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/separate-the-numbers.cpp).
+* : [Problem](https://www.hackerrank.com/challenges/linkedin-practice-caesar-cipher);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/linkedin-practice-caesar-cipher.cpp).
 * Beautiful Binary String: [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/beautiful-binary-string.cpp).
 * Richie Rich: [Problem](https://www.hackerrank.com/challenges/richie-rich);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/richie-rich.cpp).
 * Weighted Uniform String:[Problem](https://www.hackerrank.com/challenges/weighted-uniform-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/weighted-uniform-string.cpp).
@@ -167,6 +169,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * What's Next: [Problem](https://www.hackerrank.com/challenges/whats-next);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/whats-next.cpp).
 * Lonely Integer: [Problem](https://www.hackerrank.com/challenges/lonely-integer);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/lonely-integer.cpp).
 * Xor-sequence: [Problem](https://www.hackerrank.com/challenges/xor-se);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/xor-se.cpp).
+* Bit Manipulation: Lonely Integer: [Problem](https://www.hackerrank.com/challenges/ctci-lonely-integer);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/ctci-lonely-integer.cpp).
 * Sum vs XOR: [Problem](https://www.hackerrank.com/challenges/sum-vs-xor);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/sum-vs-xor.cpp).
 * Yet Another MiniMax Problem: [Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/yet-another-minimax-problem.cpp).
 * A or B: [Problem](https://www.hackerrank.com/challenges/aorb);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/aorb.cpp).
