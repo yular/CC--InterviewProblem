@@ -214,3 +214,6 @@
 * Boundary of Binary Tree: [Problem](https://leetcode.com/problems/boundary-of-binary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_boundary-of-binary-tree.cpp).
 * Remove Boxes: [Problem](https://leetcode.com/problems/remove-boxes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-boxes.cpp).
 * Friend Circles: [Problem](https://leetcode.com/problems/friend-circles);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_friend-circles.cpp).
+* Split Array with Equal Sum: [Problem](https://leetcode.com/problems/split-array-with-equal-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_split-array-with-equal-sum.cpp);
+* Longest Uncommon Subsequence I: [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-uncommon-subsequence-i.cpp).
+* Longest Uncommon Subsequence II: [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-uncommon-subsequence-ii.cpp).
