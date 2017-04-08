@@ -179,6 +179,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Recursion
 * Recursive Digit Sum: [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/recursive-digit-sum.cpp).
 * Crossword Puzzle: [Problem](https://www.hackerrank.com/challenges/crossword-puzzle);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/crossword-puzzle.cpp).
+* Stone Division 2: [Problem](https://www.hackerrank.com/challenges/stone-division-2);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/stone-division-2.cpp).
 * Arithmetic Expressions: [Problem](https://www.hackerrank.com/challenges/arithmetic-expressions);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/arithmetic-expressions.cpp).
 * Password Craker: [Problem](https://www.hackerrank.com/challenges/password-cracker);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/password-cracker.cpp).
 
