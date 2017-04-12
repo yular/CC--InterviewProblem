@@ -215,6 +215,10 @@ For details of explanation of solution, check this website: http://yular.github.
 ### NP Complete
 * Walking the Approximate Longest Path: [Problem](https://www.hackerrank.com/challenges/walking-the-approximate-longest-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/walking-the-approximate-longest-path.cpp).
 
+### Math
+* Points on a Line: [Problem](https://www.hackerrank.com/challenges/points-on-a-line);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/points-on-a-line.cpp).
+* Best Divisor: [Problem](https://www.hackerrank.com/challenges/best-divisor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/best-divisor.cpp).
+* Leonardo and Prime: [Problem](https://www.hackerrank.com/challenges/leonardo-and-prime);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/leonardo-and-prime.cpp).
 
 ### Data Structure
 * Arrays- DS: [Problem](https://www.hackerrank.com/challenges/arrays-dsdfdf);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/arrays_ds.cpp).
