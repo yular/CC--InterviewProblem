@@ -219,3 +219,4 @@
 * Longest Uncommon Subsequence II: [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-uncommon-subsequence-ii.cpp).
 * Reverse Words in a String III: [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_reverse-words-in-a-string-iii.cpp).
 * Binary Tree Longest Consecutive Sequence II: [Problem](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-tree-longest-consecutive-sequence-ii.cpp).
+* Brick Wall: [Problem](https://leetcode.com/problems/brick-wall);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_brick-wall.cpp).
