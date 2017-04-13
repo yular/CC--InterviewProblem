@@ -218,6 +218,8 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Math
 * Points on a Line: [Problem](https://www.hackerrank.com/challenges/points-on-a-line);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/points-on-a-line.cpp).
 * Best Divisor: [Problem](https://www.hackerrank.com/challenges/best-divisor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/best-divisor.cpp).
+* Wet Shark and 42: [Problem](https://www.hackerrank.com/challenges/wet-shark-and-42);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/wet-shark-and-42.cpp).
+* Most Distant: [Problem](https://www.hackerrank.com/challenges/most-distant);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/most-distant.cpp).
 * Leonardo and Prime: [Problem](https://www.hackerrank.com/challenges/leonardo-and-prime);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/leonardo-and-prime.cpp).
 
 ### Data Structure
