@@ -13,6 +13,9 @@ For details of explanation of solution, check this website: http://yular.github.
 * Maximum Perimeter Triangle: [Problem](https://www.hackerrank.com/challenges/maximum-perimeter-triangle);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/maximum-perimeter-triangle.cpp).
 * Staircase: [Problem](https://www.hackerrank.com/challenges/staircase);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/staircase.cpp).
 * Time Conversion: [Problem](https://www.hackerrank.com/challenges/time-conversion);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/time-conversion.cpp).
+* Make it Anagram: [Problem](https://www.hackerrank.com/challenges/make-it-anagram-mglines);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/make-it-anagram-mglines.cpp).
+* Divisible Pairs Sum: [Problem](https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/linkedin-practice-divisible-sum-pairs.cpp).
+* Nested Logic: [Problem](https://www.hackerrank.com/challenges/linkedin-practice-nested-logic);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/linkedin-practice-nested-logic.cpp).
 
 ### Implementation
 * Grading Students: [Problem](https://www.hackerrank.com/challenges/grading);     [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/grading.cpp).
@@ -162,6 +165,8 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Dynamic Programming
 * Mandragora: [Problem](https://www.hackerrank.com/challenges/mandragora);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/mandragora.cpp).
 * Nikita and the Game: [Problem](https://www.hackerrank.com/challenges/array-splitting);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/array-splitting.cpp).
+* Consecutive 1's in Binary Numbers: [Problem](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/linkedin-practice-binary-numbers.cpp).
+* Lonely Integer - Fill the key-line!: [Problem](https://www.hackerrank.com/challenges/lonely-integer-fill-the-key-line);   [Code](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/lonely-integer-fill-the-key-line.cpp).
 * Hexagonal Grid: [Problem](https://www.hackerrank.com/challenges/hexagonal-grid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hexagonal-grid.cpp).
 * Dorsey Thief: [Problem](https://www.hackerrank.com/challenges/dorsey-thief);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/dorsey-thief.cpp).
 * HackerRank City: [Problem](https://www.hackerrank.com/challenges/hr-city);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hr-city.cpp).
@@ -169,7 +174,9 @@ For details of explanation of solution, check this website: http://yular.github.
 * LCS Returns: [Problem](https://www.hackerrank.com/challenges/tutzki-and-lcs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/tutzki-and-lcs.cpp).
 
 ### Bit Manipulation
+* XOR Strings: [Problem](https://www.hackerrank.com/challenges/strings-xor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/strings-xor.cpp).
 * What's Next: [Problem](https://www.hackerrank.com/challenges/whats-next);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/whats-next.cpp).
+* Bitwise AND: [Problem](https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/linkedin-practice-bitwise-and.cpp).
 * Lonely Integer: [Problem](https://www.hackerrank.com/challenges/lonely-integer);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/lonely-integer.cpp).
 * Xor-sequence: [Problem](https://www.hackerrank.com/challenges/xor-se);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/xor-se.cpp).
 * Bit Manipulation: Lonely Integer: [Problem](https://www.hackerrank.com/challenges/ctci-lonely-integer);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/ctci-lonely-integer.cpp).
