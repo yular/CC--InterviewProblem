@@ -224,6 +224,7 @@ For details of explanation of solution, check this website: http://yular.github.
 
 ### Math
 * Points on a Line: [Problem](https://www.hackerrank.com/challenges/points-on-a-line);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/points-on-a-line.cpp).
+* Smart Number: [Problem](https://www.hackerrank.com/challenges/smart-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/smart-number.cpp).
 * Best Divisor: [Problem](https://www.hackerrank.com/challenges/best-divisor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/best-divisor.cpp).
 * The Chosen One: [Problem](https://www.hackerrank.com/challenges/the-chosen-one);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-chosen-one.cpp).
 * Wet Shark and 42: [Problem](https://www.hackerrank.com/challenges/wet-shark-and-42);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/wet-shark-and-42.cpp).
@@ -289,3 +290,8 @@ For details of explanation of solution, check this website: http://yular.github.
 * Is This a Binary Search Tree: [Problem](https://www.hackerrank.com/challenges/is-binary-search-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/is-binary-search-tree.cpp).
 * Queue using Two Stacks: [Problem](https://www.hackerrank.com/challenges/queue-using-two-stacks);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/queue-using-two-stacks.cpp).
 * AND xor OR: [Problem](https://www.hackerrank.com/challenges/and-xor-or);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/and-xor-or.cpp).
+
+### Design
+* Abstract Classes: [Problem](https://www.hackerrank.com/challenges/abstract-classes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/abstract-classes.cpp).
+* Inheritance: [Problem](https://www.hackerrank.com/challenges/inheritance);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/inheritance.cpp).
+* Class vs Instance: [Problem](https://www.hackerrank.com/challenges/class-vs-instance);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/class-vs-instance.cpp).
