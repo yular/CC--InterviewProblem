@@ -221,3 +221,5 @@
 * Binary Tree Longest Consecutive Sequence II: [Problem](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-tree-longest-consecutive-sequence-ii.cpp).
 * Brick Wall: [Problem](https://leetcode.com/problems/brick-wall);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_brick-wall.cpp).
 * Next Greater Element III: [Problem](https://leetcode.com/problems/next-greater-element-iii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_next-greater-element-iii.cpp).
+* Student Attendance Record I: [Problem](https://leetcode.com/problems/student-attendance-record-i);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_student-attendance-record-i.cpp).
+* Split Assembled Strings: [Problem](https://leetcode.com/problems/split-assembled-strings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_split-assembled-strings.cpp).
