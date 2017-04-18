@@ -222,4 +222,6 @@
 * Brick Wall: [Problem](https://leetcode.com/problems/brick-wall);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_brick-wall.cpp).
 * Next Greater Element III: [Problem](https://leetcode.com/problems/next-greater-element-iii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_next-greater-element-iii.cpp).
 * Student Attendance Record I: [Problem](https://leetcode.com/problems/student-attendance-record-i);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_student-attendance-record-i.cpp).
+* Student Attendance Record II: [Problem](https://leetcode.com/problems/student-attendance-record-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_student-attendance-record-ii.cpp).
 * Split Assembled Strings: [Problem](https://leetcode.com/problems/split-assembled-strings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_split-assembled-strings.cpp).
+* Optimal Division: [Problem](https://leetcode.com/problems/optimal-division);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_optimal-division.cpp).
