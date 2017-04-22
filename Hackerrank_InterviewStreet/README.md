@@ -226,8 +226,10 @@ For details of explanation of solution, check this website: http://yular.github.
 * Points on a Line: [Problem](https://www.hackerrank.com/challenges/points-on-a-line);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/points-on-a-line.cpp).
 * Smart Number: [Problem](https://www.hackerrank.com/challenges/smart-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/smart-number.cpp).
 * Best Divisor: [Problem](https://www.hackerrank.com/challenges/best-divisor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/best-divisor.cpp).
+* Points on a Rectangle: [Problem](https://www.hackerrank.com/challenges/points-on-rectangle);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/points-on-rectangle.cpp).
 * The Chosen One: [Problem](https://www.hackerrank.com/challenges/the-chosen-one);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-chosen-one.cpp).
 * Wet Shark and 42: [Problem](https://www.hackerrank.com/challenges/wet-shark-and-42);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/wet-shark-and-42.cpp).
+* Xrange's Pancakes: [Problem](https://www.hackerrank.com/challenges/xrange-and-pizza);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/xrange-and-pizza.cpp).
 * Most Distant: [Problem](https://www.hackerrank.com/challenges/most-distant);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/most-distant.cpp).
 * Army Game: [Problem](https://www.hackerrank.com/challenges/game-with-cells);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/game-with-cells.cpp).
 * Leonardo and Prime: [Problem](https://www.hackerrank.com/challenges/leonardo-and-prime);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/leonardo-and-prime.cpp).
