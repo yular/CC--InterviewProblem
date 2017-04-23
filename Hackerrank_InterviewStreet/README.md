@@ -232,6 +232,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Xrange's Pancakes: [Problem](https://www.hackerrank.com/challenges/xrange-and-pizza);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/xrange-and-pizza.cpp).
 * Most Distant: [Problem](https://www.hackerrank.com/challenges/most-distant);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/most-distant.cpp).
 * Army Game: [Problem](https://www.hackerrank.com/challenges/game-with-cells);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/game-with-cells.cpp).
+* Hyperspace Travel: [Problem](https://www.hackerrank.com/challenges/hyperspace-travel);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hyperspace-travel.cpp).
 * Leonardo and Prime: [Problem](https://www.hackerrank.com/challenges/leonardo-and-prime);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/leonardo-and-prime.cpp).
 
 ### Data Structure
