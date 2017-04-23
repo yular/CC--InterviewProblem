@@ -227,6 +227,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Points on a Line: [Problem](https://www.hackerrank.com/challenges/points-on-a-line);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/points-on-a-line.cpp).
 * Smart Number: [Problem](https://www.hackerrank.com/challenges/smart-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/smart-number.cpp).
 * Best Divisor: [Problem](https://www.hackerrank.com/challenges/best-divisor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/best-divisor.cpp).
+* Cutting Paper Squares: [Problem](https://www.hackerrank.com/challenges/p1-paper-cutting);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/p1-paper-cutting.cpp).
 * Points on a Rectangle: [Problem](https://www.hackerrank.com/challenges/points-on-rectangle);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/points-on-rectangle.cpp).
 * The Chosen One: [Problem](https://www.hackerrank.com/challenges/the-chosen-one);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-chosen-one.cpp).
 * Wet Shark and 42: [Problem](https://www.hackerrank.com/challenges/wet-shark-and-42);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/wet-shark-and-42.cpp).
