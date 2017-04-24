@@ -225,3 +225,5 @@
 * Student Attendance Record II: [Problem](https://leetcode.com/problems/student-attendance-record-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_student-attendance-record-ii.cpp).
 * Split Assembled Strings: [Problem](https://leetcode.com/problems/split-assembled-strings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_split-assembled-strings.cpp).
 * Optimal Division: [Problem](https://leetcode.com/problems/optimal-division);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_optimal-division.cpp).
+* Longest Line of Consecutive One in Matrix: [Problem](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-line-of-consecutive-one-in-matrix.cpp).
+* Find the Closest Palindrome: [Problem](https://leetcode.com/problems/find-the-closest-palindrome);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-the-closest-palindrome.cpp).
