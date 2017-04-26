@@ -226,6 +226,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Math
 * Points on a Line: [Problem](https://www.hackerrank.com/challenges/points-on-a-line);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/points-on-a-line.cpp).
 * Smart Number: [Problem](https://www.hackerrank.com/challenges/smart-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/smart-number.cpp).
+* Lazy Sort: [Problem](https://www.hackerrank.com/challenges/lazy-sorting);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/lazy-sorting.cpp).
 * Best Divisor: [Problem](https://www.hackerrank.com/challenges/best-divisor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/best-divisor.cpp).
 * Cutting Paper Squares: [Problem](https://www.hackerrank.com/challenges/p1-paper-cutting);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/p1-paper-cutting.cpp).
 * Points on a Rectangle: [Problem](https://www.hackerrank.com/challenges/points-on-rectangle);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/points-on-rectangle.cpp).
