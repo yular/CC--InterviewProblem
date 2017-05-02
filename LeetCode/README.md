@@ -229,4 +229,6 @@
 * Find the Closest Palindrome: [Problem](https://leetcode.com/problems/find-the-closest-palindrome);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-the-closest-palindrome.cpp).
 * Array Partition I: [Problem](https://leetcode.com/problems/array-partition-i);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_array-partition-i.cpp).
 * Binary Tree Tilt: [Problem](https://leetcode.com/problems/binary-tree-tilt);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-tree-tilt.cpp).
+* Reshap the Matrix: [Problem](https://leetcode.com/problems/reshape-the-matrix);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_reshape-the-matrix.cpp).
 * Subarray Sum Equals K: [Problem](https://leetcode.com/problems/subarray-sum-equals-k);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_subarray-sum-equals-k.cpp).
+* Permutation in String: [Problem](https://leetcode.com/problems/permutation-in-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_permutation-in-string.cpp).
