@@ -1,7 +1,36 @@
 /*
-* Algorithm: Brute force
-* Time complexity: O(n)
-* Memory complexity: O(1)
+*
+* Tag: Data Structure (Stack)
+* Time: O(n)
+* Space: O(n)
+*/
+class Solution {
+public:
+    int trap(vector<int>& height) {
+        int ans = 0;
+        if(height.size() == 0)
+            return ans;
+        stack<int> stk;
+        int i = 0, idx = 0, tmpsum = 0;
+        for(; i < height.size();){
+            if(stk.empty() || height[i] <= height[stk.top()]){
+                stk.push(i ++);
+            }else{
+                idx = stk.top();
+                stk.pop();
+                tmpsum = stk.empty()?0:((min(height[i], height[stk.top()]) - height[idx])*(i - 1 - stk.top()));
+                ans += tmpsum;
+            }
+        }
+        return ans;
+    }
+};
+
+
+/*
+* Tag: Brute force
+* Time: O(n)
+* Space: O(1)
 */
 class Solution {
 public:
