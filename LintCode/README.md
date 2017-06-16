@@ -1,6 +1,6 @@
 #LintCode
 * A +  B Problem: [Problem](http://www.lintcode.com/en/problem/a-b-problem/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_a%2Bb.cpp).
-* Trailing Zeros: [Problem](http://www.lintcode.com/en/problem/trailing-zeros/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_trailing-zeros.cpp).
+* Trailing Zeros: [Problem](http://www.lintcode.com/en/problem/trailing-zeros/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_trailing-zeros.cpp).
 * Digits Count: [Problem](http://www.lintcode.com/en/problem/digit-counts/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_digit-counts.cpp).
 * Ugly Number: [Problem](http://www.lintcode.com/en/problem/ugly-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_ugly-number.cpp/).
 * K th Largest Number: [Problem](http://www.lintcode.com/en/problem/kth-largest-element/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_kth-largest-element.cpp).
