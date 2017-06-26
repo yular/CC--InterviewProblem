@@ -229,6 +229,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Baby step, Giant step: [Problem](https://www.hackerrank.com/challenges/baby-step-giant-step);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/baby-step-giant-step.cpp).
 * Lazy Sort: [Problem](https://www.hackerrank.com/challenges/lazy-sorting);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/lazy-sorting.cpp).
 * Best Divisor: [Problem](https://www.hackerrank.com/challenges/best-divisor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/best-divisor.cpp).
+* Pythagorean Triple: [Problem](https://www.hackerrank.com/challenges/pythagorean-triple);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/pythagorean-triple.cpp).
 * Cutting Paper Squares: [Problem](https://www.hackerrank.com/challenges/p1-paper-cutting);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/p1-paper-cutting.cpp).
 * Points on a Rectangle: [Problem](https://www.hackerrank.com/challenges/points-on-rectangle);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/points-on-rectangle.cpp).
 * The Chosen One: [Problem](https://www.hackerrank.com/challenges/the-chosen-one);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-chosen-one.cpp).
