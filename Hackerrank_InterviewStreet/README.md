@@ -177,6 +177,7 @@ For details of explanation of solution, check this website: http://yular.github.
 ### Bit Manipulation
 * XOR Strings: [Problem](https://www.hackerrank.com/challenges/strings-xor);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/strings-xor.cpp).
 * What's Next: [Problem](https://www.hackerrank.com/challenges/whats-next);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/whats-next.cpp).
+* The Great XOR: [Problem](https://www.hackerrank.com/challenges/the-great-xor/problem);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-great-xor.cpp)
 * Bitwise AND: [Problem](https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/linkedin-practice-bitwise-and.cpp).
 * Lonely Integer: [Problem](https://www.hackerrank.com/challenges/lonely-integer);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/lonely-integer.cpp).
 * Xor-sequence: [Problem](https://www.hackerrank.com/challenges/xor-se);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/xor-se.cpp).
