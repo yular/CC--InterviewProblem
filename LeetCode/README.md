@@ -236,3 +236,4 @@
 * Can Place Flowers: [Problem](https://leetcode.com/problems/can-place-flowers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_can-place-flowers.cpp).
 * Add Bold Tag in String: [Problem](https://leetcode.com/problems/add-bold-tag-in-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_add-bold-tag-in-string.cpp).
 * Range Addition II: [Problem](https://leetcode.com/problems/range-addition-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_range-addition-ii.cpp).
+* Erect the Fence: [Problem](https://leetcode.com/problems/erect-the-fence);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_erect-the-fence.cpp).
