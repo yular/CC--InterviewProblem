@@ -307,3 +307,4 @@
 * Classical Binary Search: [Problem](http://www.lintcode.com/en/problem/classical-binary-search);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_classical-binary-search.cpp).
 * Binary Tree Maximum Node: [Problem](http://www.lintcode.com/en/problem/binary-tree-maximum-node/);       [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_binary-tree-maximum-node.cpp).
 * Rectangle Area: [Problem](http://www.lintcode.com/en/problem/rectangle-area/#);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_rectangle-area.java).
+* First Position Unique Character: [Problem](http://www.lintcode.com/en/problem/first-position-unique-character);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_first-position-unique-character.cpp).
