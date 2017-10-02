@@ -310,3 +310,4 @@
 * First Position Unique Character: [Problem](http://www.lintcode.com/en/problem/first-position-unique-character);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_first-position-unique-character.cpp).
 * Two Sum Input Array is Sorted: [Problem](http://www.lintcode.com/en/problem/two-sum-input-array-is-sorted);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_two-sum-input-array-is-sorted.cpp).
 * Substring Anagrams: [Problem](http://www.lintcode.com/en/problem/substring-anagrams/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_substring-anagrams.cpp).
+* Palindrome Number: [Problem](http://www.lintcode.com/en/problem/palindrome-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_palindrome-number.cpp).
