@@ -312,3 +312,4 @@
 * Substring Anagrams: [Problem](http://www.lintcode.com/en/problem/substring-anagrams/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_substring-anagrams.cpp).
 * Palindrome Number: [Problem](http://www.lintcode.com/en/problem/palindrome-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_palindrome-number.cpp).
 * Find the Duplicate Number: [Problem](http://www.lintcode.com/en/problem/find-the-duplicate-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_find-the-duplicate-number.cpp).
+* Cutting a Rod: [Problem](http://www.lintcode.com/en/problem/cutting-a-rod/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_cutting-a-rod.cpp).
