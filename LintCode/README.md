@@ -313,3 +313,4 @@
 * Palindrome Number: [Problem](http://www.lintcode.com/en/problem/palindrome-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_palindrome-number.cpp).
 * Find the Duplicate Number: [Problem](http://www.lintcode.com/en/problem/find-the-duplicate-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_find-the-duplicate-number.cpp).
 * Cutting a Rod: [Problem](http://www.lintcode.com/en/problem/cutting-a-rod/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_cutting-a-rod.cpp).
+* Maximum Difference in Arrays: [Problem](http://www.lintcode.com/en/problem/maximum-difference-in-arrays/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximum-difference-in-arrays.cpp).
