@@ -316,3 +316,4 @@
 * Maximum Difference in Arrays: [Problem](http://www.lintcode.com/en/problem/maximum-difference-in-arrays/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximum-difference-in-arrays.cpp).
 * Russian Doll Envelopes: [Problem](http://www.lintcode.com/en/problem/russian-doll-envelopes/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_russian-doll-envelopes.cpp).
 * Guess Number Game: [Problem](http://www.lintcode.com/en/problem/guess-number-game/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_guess-number-game.cpp).
+* Course Schedule: [Problem](http://www.lintcode.com/en/problem/course-schedule/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_course-schedule.cpp)
