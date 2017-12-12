@@ -320,3 +320,4 @@
 * Course Schedule III: [Problem](http://www.lintcode.com/en/problem/course-schedule-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_course-schedule-iii.cpp).
 * First Unique Number in Stream: [Problem](http://www.lintcode.com/en/problem/first-unique-number-in-stream/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_first-unique-number-in-stream.cpp).
 * Number of Big Islands: [Problem](http://www.lintcode.com/en/problem/number-of-big-islands/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_number-of-big-islands.cpp).
+* Three Distinct Factors: [Problem](http://www.lintcode.com/en/problem/three-distinct-factors/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_three-distinct-factors.cpp).
