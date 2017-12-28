@@ -322,3 +322,4 @@
 * Number of Big Islands: [Problem](http://www.lintcode.com/en/problem/number-of-big-islands/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_number-of-big-islands.cpp).
 * Three Distinct Factors: [Problem](http://www.lintcode.com/en/problem/three-distinct-factors/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_three-distinct-factors.cpp).
 * Strings Homomorphism: [Problem](http://www.lintcode.com/en/problem/strings-homomorphism);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_strings-homomorphism.cpp). 
+* Sum of All Subsets: [Problem](http://www.lintcode.com/en/problem/sum-of-all-subsets/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sum-of-all-subsets.cpp).
