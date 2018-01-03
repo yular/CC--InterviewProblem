@@ -20,28 +20,33 @@ public:
         
         int idx = 0;
         for(; idx < min(k, (int)nums.size()); ++ idx) {
-            ++ elementsCount[nums[idx]];
-            if(elementsCount[nums[idx]] == 1)
-                ++ numOfUniqElements;
-            else if(elementsCount[nums[idx]] == 2)
-                -- numOfUniqElements;
+            updateNumOfUniqElementsWhenAppendElementToWindow(numOfUniqElements, elementsCount, nums[idx]);
         }
         sum += numOfUniqElements;
         
         for(; idx < nums.size(); ++ idx){
-            -- elementsCount[nums[idx - k]];
-            if(elementsCount[nums[idx - k]] == 1)
-                ++ numOfUniqElements;
-            else if(elementsCount[nums[idx - k]] == 0)
-                -- numOfUniqElements;
-            ++ elementsCount[nums[idx]];
-            if(elementsCount[nums[idx]] == 1)
-                ++ numOfUniqElements;
-            else if(elementsCount[nums[idx]] == 2)
-                -- numOfUniqElements;
+            updateNumOfUniqElementsWhenPopElementFromWindow(numOfUniqElements, elementsCount, nums[idx - k]);
+            updateNumOfUniqElementsWhenAppendElementToWindow(numOfUniqElements, elementsCount, nums[idx]);
+            
             sum += numOfUniqElements;
         }
         
         return sum;
+    }
+private:
+    void updateNumOfUniqElementsWhenPopElementFromWindow(int &numOfUniqElements, unordered_map<int,int> &elementsCount, int targetElement) {
+        -- elementsCount[targetElement];
+        if(elementsCount[targetElement] == 1)
+            ++ numOfUniqElements;
+        else if(elementsCount[targetElement] == 0)
+            -- numOfUniqElements;
+    }
+    
+    void updateNumOfUniqElementsWhenAppendElementToWindow(int &numOfUniqElements, unordered_map<int,int> &elementsCount, int targetElement) {
+        ++ elementsCount[targetElement];
+        if(elementsCount[targetElement] == 1)
+            ++ numOfUniqElements;
+        else if(elementsCount[targetElement] == 2)
+            -- numOfUniqElements;
     }
 };
