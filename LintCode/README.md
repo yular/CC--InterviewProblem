@@ -325,3 +325,4 @@
 * Sum of All Subsets: [Problem](http://www.lintcode.com/en/problem/sum-of-all-subsets/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sum-of-all-subsets.cpp).
 * Sliding Window Unique Elements Sum: [Problem](http://www.lintcode.com/en/problem/sliding-window-unique-elements-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_sliding-window-unique-elements-sum.cpp).
 * Replace With Greatest From Right: [Problem](http://www.lintcode.com/en/problem/replace-with-greatest-from-right/#);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_replace-with-greatest-from-right.cpp).
+* Digit Divide Numbers: [Problem](http://www.lintcode.com/en/problem/digit-divide-numbers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_digit-divide-numbers.cpp).
