@@ -328,3 +328,4 @@
 * Digit Divide Numbers: [Problem](http://www.lintcode.com/en/problem/digit-divide-numbers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_digit-divide-numbers.cpp).
 * Coin Change II: [Problem](http://www.lintcode.com/en/problem/coin-change-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_coin-change-ii.cpp).
 * Partition Equal Subset Sum: [Problem](http://www.lintcode.com/en/problem/partition-equal-subset-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_partition-equal-subset-sum.cpp).
+* Last Digit by Factorial Divide: [Problem](http://www.lintcode.com/en/problem/last-digit-by-factorial-divide/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_last-digit-by-factorial-divide.cpp).
