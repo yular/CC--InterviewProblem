@@ -331,3 +331,4 @@
 * Last Digit by Factorial Divide: [Problem](http://www.lintcode.com/en/problem/last-digit-by-factorial-divide/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_last-digit-by-factorial-divide.cpp).
 * Smallest Subset: [Problem](http://www.lintcode.com/en/problem/smallest-subset/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_smallest-subset.cpp).
 * Repeated DNA: [Problem](http://www.lintcode.com/en/problem/repeated-dna/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_repeated-dna.cpp).
+* Check Full Binary Tree: [Problem](http://www.lintcode.com/en/problem/check-full-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_check-full-binary-tree.cpp).
