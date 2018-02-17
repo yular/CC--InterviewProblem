@@ -333,3 +333,4 @@
 * Repeated DNA: [Problem](http://www.lintcode.com/en/problem/repeated-dna/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_repeated-dna.cpp).
 * Check Full Binary Tree: [Problem](http://www.lintcode.com/en/problem/check-full-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_check-full-binary-tree.cpp).
 * Merge Number: [Problem](http://www.lintcode.com/en/problem/merge-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_merge-number.cpp).
+* Top K Largest Numbers: [Problem](http://www.lintcode.com/en/problem/top-k-largest-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_top-k-largest-numbers.cpp).
