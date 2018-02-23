@@ -334,3 +334,4 @@
 * Check Full Binary Tree: [Problem](http://www.lintcode.com/en/problem/check-full-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_check-full-binary-tree.cpp).
 * Merge Number: [Problem](http://www.lintcode.com/en/problem/merge-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_merge-number.cpp).
 * Top K Largest Numbers: [Problem](http://www.lintcode.com/en/problem/top-k-largest-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_top-k-largest-numbers.cpp).
+* AND and OR: [Problem](http://www.lintcode.com/en/problem/and-and-or/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_and-and-or.cpp). 
