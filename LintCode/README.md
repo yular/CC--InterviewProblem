@@ -335,3 +335,4 @@
 * Merge Number: [Problem](http://www.lintcode.com/en/problem/merge-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_merge-number.cpp).
 * Top K Largest Numbers: [Problem](http://www.lintcode.com/en/problem/top-k-largest-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_top-k-largest-numbers.cpp).
 * AND and OR: [Problem](http://www.lintcode.com/en/problem/and-and-or/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_and-and-or.cpp). 
+* Maximum Weighted Sum Path: [Problem](http://www.lintcode.com/en/problem/maximum-weighted-sum-path/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximum-weighted-sum-path.cpp).
