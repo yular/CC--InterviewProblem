@@ -341,3 +341,5 @@
 * Intersection of Arrays: [Problem](http://www.lintcode.com/en/problem/intersection-of-arrays/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_intersection-of-arrays.cpp).
 * Open the Lock: [Problem](http://www.lintcode.com/en/problem/open-the-lock/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_open-the-lock.cpp).
 * Maximum and Minimum: [Problem](http://www.lintcode.com/en/problem/maximum-and-minimum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximum-and-minimum.cpp).
+* Kth Smallest Element in a BST: [Problem](http://www.lintcode.com/en/problem/kth-smallest-element-in-a-bst/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_kth-smallest-element-in-a-bst.cpp).
+* Single Number IV: [Problem](http://www.lintcode.com/en/problem/single-number-iv/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_single-number-iv.cpp).
