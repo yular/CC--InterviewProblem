@@ -343,3 +343,4 @@
 * Maximum and Minimum: [Problem](http://www.lintcode.com/en/problem/maximum-and-minimum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_maximum-and-minimum.cpp).
 * Kth Smallest Element in a BST: [Problem](http://www.lintcode.com/en/problem/kth-smallest-element-in-a-bst/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_kth-smallest-element-in-a-bst.cpp).
 * Single Number IV: [Problem](http://www.lintcode.com/en/problem/single-number-iv/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_single-number-iv.cpp).
+* Word Sorting: [Problem](http://www.lintcode.com/en/problem/word-sorting/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_word-sorting.cpp).
