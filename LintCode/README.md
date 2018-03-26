@@ -347,3 +347,4 @@
 * Kill Process: [Problem](http://www.lintcode.com/en/problem/kill-process/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_kill-process.cpp).
 * Ternary Expression Parser: [Problem](http://www.lintcode.com/en/problem/ternary-expression-parser/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_ternary-expression-parser.cpp).
 * Best Meeting Point: [Problem](http://www.lintcode.com/en/problem/best-meeting-point/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_best-meeting-point.cpp).
+* Max Consecutive Ones II: [Problem](http://www.lintcode.com/en/problem/max-consecutive-ones-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_max-consecutive-ones-ii.cpp).
