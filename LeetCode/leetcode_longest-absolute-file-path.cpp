@@ -6,34 +6,39 @@
 */
 class Solution {
 public:
-    int lengthLongestPath(string input) {
-        vector<int> dirlen(100);
+    /**
+     * @param input an abstract file system
+     * @return return the length of the longest absolute path to file
+     */
+    int lengthLongestPath(string& input) {
         int ans = 0;
         if(input.size() == 0)
             return ans;
-        int prelen = 0, curlen = 0, tcnt = 0;
-        dirlen[0] = 0;
-        input += '\n';
-        for(int i = 0; i < input.size(); ++ i){
-            tcnt = 0;
+        
+        input +='\n';
+        vector<int> dirNameLen(input.size(), 0);
+        for(int i = 0; i < input.size(); ++ i) {
+            int numOfLevel = 0;
             while(i < input.size() && input[i] == '\t'){
-                ++ tcnt;
+                ++ numOfLevel;
                 ++ i;
             }
-            prelen = dirlen[tcnt];
-            bool isfile = false;
-            curlen = 0;
-            while(i < input.size() && input[i] != '\n'){
+            
+            bool isFile = false;
+            int fileNameLen = 0;
+            while(i < input.size() && input[i] != '\n') {
                 if(input[i] == '.')
-                    isfile = true;
+                    isFile = true;
+                ++ fileNameLen;
                 ++ i;
-                ++ curlen;
             }
-            if(isfile){
-                ans = max(ans, prelen + curlen + tcnt);
-            }else
-                dirlen[tcnt + 1] = prelen + curlen;
+            
+            if(isFile)
+                ans = max(ans, dirNameLen[numOfLevel] + fileNameLen + numOfLevel);
+            else
+                dirNameLen[numOfLevel + 1] = dirNameLen[numOfLevel] + fileNameLen;
         }
+        
         return ans;
     }
 };
