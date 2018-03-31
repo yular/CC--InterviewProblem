@@ -350,3 +350,4 @@
 * Max Consecutive Ones II: [Problem](http://www.lintcode.com/en/problem/max-consecutive-ones-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_max-consecutive-ones-ii.cpp).
 * Shortest Path Undirected Graph: [Problem](http://www.lintcode.com/en/problem/shortest-path-in-undirected-graph/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_shortest-path-in-undirected-graph.cpp).
 * Tuple Multiply: [Problem](http://www.lintcode.com/en/problem/tuple-multiply/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_tuple-multiply.cpp).
+* Leap Year: [Problem](http://www.lintcode.com/en/problem/leap-year/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_leap-year.cpp).
