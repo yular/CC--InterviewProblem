@@ -351,3 +351,4 @@
 * Shortest Path Undirected Graph: [Problem](http://www.lintcode.com/en/problem/shortest-path-in-undirected-graph/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_shortest-path-in-undirected-graph.cpp).
 * Tuple Multiply: [Problem](http://www.lintcode.com/en/problem/tuple-multiply/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_tuple-multiply.cpp).
 * Leap Year: [Problem](http://www.lintcode.com/en/problem/leap-year/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_leap-year.cpp).
+* Connecting Graph III: [Problem](http://www.lintcode.com/en/problem/connecting-graph-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_connecting-graph-iii.cpp).
