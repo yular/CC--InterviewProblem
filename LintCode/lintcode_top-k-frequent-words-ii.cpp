@@ -1,7 +1,7 @@
 /*
 *
 * Tag: Data Structure
-* Time: Add: O(nlgn); TopK: O(nlgn)
+* Time: Add: O(nlgn); TopK: O(n)
 * Space: O(n)
 */
 class TopK {
