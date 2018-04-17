@@ -354,3 +354,5 @@
 * Connecting Graph III: [Problem](http://www.lintcode.com/en/problem/connecting-graph-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_connecting-graph-iii.cpp).
 * Top K Frequent Words II: [Problem](http://www.lintcode.com/en/problem/top-k-frequent-words-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_top-k-frequent-words-ii.cpp).
 * Reverse 3 Digit Integer: [Problem](http://www.lintcode.com/en/problem/reverse-3-digit-integer/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-3-digit-integer.cpp).
+* Valid Triangle: [Problem](http://www.lintcode.com/en/problem/valid-triangle/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_valid-triangle.cpp).
+* Reverse Array: [Problem](http://www.lintcode.com/en/problem/reverse-array/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-array.cpp).
