@@ -356,3 +356,4 @@
 * Reverse 3 Digit Integer: [Problem](http://www.lintcode.com/en/problem/reverse-3-digit-integer/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-3-digit-integer.cpp).
 * Valid Triangle: [Problem](http://www.lintcode.com/en/problem/valid-triangle/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_valid-triangle.cpp).
 * Reverse Array: [Problem](http://www.lintcode.com/en/problem/reverse-array/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-array.cpp).
+* Greatest Common Divisor: [Problem](https://www.lintcode.com/en/problem/greatest-common-divisor/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_greatest-common-divisor.cpp).
