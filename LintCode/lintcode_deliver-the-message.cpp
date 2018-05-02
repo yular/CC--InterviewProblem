@@ -5,6 +5,9 @@
 * Space: O(n)
 */
 class Solution {
+private:
+    const int CEO = 0;
+    
 public:
     /**
      * @param t: the time of each employee to pass a meeage
@@ -19,7 +22,7 @@ public:
         
         vector<int> receiveMessageTime(numOfPersons + 1, 0);
         queue<int> messageSenders;
-        messageSenders.push(0);
+        messageSenders.push(CEO);
         while(!messageSenders.empty()) {
             int currentSender = messageSenders.front();
             messageSenders.pop();
