@@ -362,3 +362,4 @@
 * Window Sum: [Problem](https://www.lintcode.com/problem/window-sum/description);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_window-sum.cpp).
 * Same Number: [Problem](https://www.lintcode.com/problem/same-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_same-number.cpp).
 * Find Anagram Mappings: [Problem](https://www.lintcode.com/problem/find-anagram-mappings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_find-anagram-mappings.cpp).
+* Reverse Order Storage :[Problem](https://www.lintcode.com/problem/reverse-order-storage);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-order-storage.cpp).
