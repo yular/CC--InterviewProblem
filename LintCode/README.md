@@ -363,3 +363,4 @@
 * Same Number: [Problem](https://www.lintcode.com/problem/same-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_same-number.cpp).
 * Find Anagram Mappings: [Problem](https://www.lintcode.com/problem/find-anagram-mappings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_find-anagram-mappings.cpp).
 * Reverse Order Storage :[Problem](https://www.lintcode.com/problem/reverse-order-storage);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-order-storage.cpp).
+* Walls and Gates: [Problem](https://www.lintcode.com/problem/walls-and-gates);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_walls-and-gates.cpp).
