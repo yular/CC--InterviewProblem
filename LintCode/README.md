@@ -365,3 +365,4 @@
 * Reverse Order Storage :[Problem](https://www.lintcode.com/problem/reverse-order-storage);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_reverse-order-storage.cpp).
 * Walls and Gates: [Problem](https://www.lintcode.com/problem/walls-and-gates);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_walls-and-gates.cpp).
 * The Longest Scene: [Problem](https://www.lintcode.com/problem/the-longest-scene);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_the-longest-scene.cpp).
+* All Paths from Source to Target: [Problem](https://www.lintcode.com/problem/all-paths-from-source-to-target);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LintCode/lintcode_all-paths-from-source-to-target.cpp).
