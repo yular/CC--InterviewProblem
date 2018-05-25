@@ -16,7 +16,7 @@ public:
             return allPaths;
         }
         
-        int destination = graph.size();
+        int destination = graph.size() - 1;
         vector<int> path;
         dfs(0, destination, path, allPaths, graph);
         
