@@ -245,3 +245,4 @@
 * Top K Frequent Words: [Problem](https://leetcode.com/problems/top-k-frequent-words);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_top-k-frequent-words.cpp).
 * Daily Temperatures: [Problem](https://leetcode.com/problems/daily-temperatures); [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_daily-temperatures.cpp).
 * Average of Levels in Binary Tree: [Problem](https://leetcode.com/problems/average-of-levels-in-binary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_average-of-levels-in-binary-tree.cpp).
+* Binary Tree Pruning: [Problem](https://leetcode.com/problems/binary-tree-pruning);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-tree-pruning.cpp).
