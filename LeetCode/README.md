@@ -246,3 +246,4 @@
 * Daily Temperatures: [Problem](https://leetcode.com/problems/daily-temperatures); [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_daily-temperatures.cpp).
 * Average of Levels in Binary Tree: [Problem](https://leetcode.com/problems/average-of-levels-in-binary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_average-of-levels-in-binary-tree.cpp).
 * Binary Tree Pruning: [Problem](https://leetcode.com/problems/binary-tree-pruning);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-tree-pruning.cpp).
+* Design Compressed String Iterator: [Problem](https://leetcode.com/problems/design-compressed-string-iterator);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-compressed-string-iterator.cpp).
