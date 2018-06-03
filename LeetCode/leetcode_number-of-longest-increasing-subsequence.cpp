@@ -15,7 +15,6 @@ public:
         int n = nums.size();
         int lengthOfLongestSubsequence = 1;
         vector<pair<int,int>> dp(n);
-        dp[0] = make_pair(1, 1);
         for(int i = 1; i < n; ++ i){
             dp[i] = make_pair(1, 1);
             for(int j = 0; j < i; ++ j){
