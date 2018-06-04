@@ -254,3 +254,4 @@
 * Linked List Components: [Problem](https://leetcode.com/problems/linked-list-components);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_linked-list-components.cpp).
 * Number of Longest Increasing Subsequence: [Problem](https://leetcode.com/problems/number-of-longest-increasing-subsequence);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-longest-increasing-subsequence.cpp).
 * Find Anagram Mappings:[Problem](https://leetcode.com/problems/find-anagram-mappings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-anagram-mappings.cpp).
+* Redundant Connection: [Problem](https://leetcode.com/problems/redundant-connection);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_redundant-connection.cpp).
