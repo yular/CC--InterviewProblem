@@ -81,6 +81,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * New Year Chaos: [Problem](https://www.hackerrank.com/challenges/new-year-chaos);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/new-year-chaos.cpp).
 * Equality in a Array: [Problem](https://www.hackerrank.com/challenges/equality-in-a-array);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/equality-in-a-array.cpp).
 * Divisible Sum Pairs: [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/divisible-sum-pairs.cpp).
+* The Birthday Bar: [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-birthday-bar.cpp).
 
 ### Constructive Algorithm
 * Array Construction: [Problem](https://www.hackerrank.com/challenges/array-construction);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/array-construction.cpp).
