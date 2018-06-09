@@ -1,7 +1,7 @@
 /*
 *
-* Tag: DP
-* Time: O(n^2)
+* Tag: Greedy
+* Time: O(nlgn)
 * Space: O(n)
 */
 class Solution {
@@ -15,14 +15,13 @@ public:
         sort(pairs.begin(), pairs.end(), cmp);
         
         int n = pairs.size();
-        vector<int> dp(n, 1);
+        int curChainRightBound = pairs[0][1];
+        ans = 1;
         for(int i = 1; i < n; ++ i){
-            for(int j = 0; j < i; ++ j){
-                if(pairs[j][1] < pairs[i][0]){
-                    dp[i] = max(dp[i], dp[j] + 1);
-                }
+            if(pairs[i][0] > curChainRightBound) {
+                curChainRightBound = pairs[i][1];
+                ++ ans;
             }
-            ans = max(ans, dp[i]);
         }
         
         return ans;
@@ -30,7 +29,7 @@ public:
 private:
     struct chainComparator{
         bool operator() (const vector<int> &a, const vector<int> &b){
-            return a[0] == b[0] ? a[1] < b[1] : a[0] < b[0];
+            return a[1] < b[1];
         }
     }cmp;
 };
