@@ -257,3 +257,4 @@
 * Redundant Connection: [Problem](https://leetcode.com/problems/redundant-connection);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_redundant-connection.cpp).
 * Set Mismatch: [Problem](https://leetcode.com/problems/set-mismatch);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_set-mismatch.cpp).
 * Maximum Length of Pair Chain: [Problem](https://leetcode.com/problems/maximum-length-of-pair-chain);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-length-of-pair-chain.cpp).
+* Maximum Width of Binary Tree: [Problem](https://leetcode.com/problems/maximum-width-of-binary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-width-of-binary-tree.cpp).
