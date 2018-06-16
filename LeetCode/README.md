@@ -260,3 +260,4 @@
 * Maximum Width of Binary Tree: [Problem](https://leetcode.com/problems/maximum-width-of-binary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-width-of-binary-tree.cpp).
 * Jewels and Stones: [Problem](https://leetcode.com/problems/jewels-and-stones);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_jewels-and-stones.cpp).
 * Solve the Equation: [Problem](https://leetcode.com/problems/solve-the-equation);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_solve-the-equation.cpp).
+* Image Smoother: [Problem](https://leetcode.com/problems/image-smoother);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_image-smoother.cpp).
