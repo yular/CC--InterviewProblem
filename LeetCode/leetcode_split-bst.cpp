@@ -21,54 +21,16 @@ public:
             return ans;
         }
         
-        TreeNode *parentOfRoot = new TreeNode(-1);
-        parentOfRoot->left = root;
-        
-        TreeNode* nodeOfSplitedBST = findRootNodeOfSplitedBST(parentOfRoot, V);
-        ans[0] = nodeOfSplitedBST;
-        ans[1] = parentOfRoot->left;
+        if(root->val <= V) {
+            ans = splitBST(root->right, V);
+            root->right = ans[0];
+            ans[0] = root;
+        } else {
+            ans = splitBST(root->left, V);
+            root->left = ans[1];
+            ans[1] = root;
+        }
         
         return ans;
-    }
-    
-private:
-    TreeNode* findRootNodeOfSplitedBST(TreeNode *root, int V) {
-        if(root == NULL || (root->left == NULL && root->right == NULL) ) {
-            return NULL;
-        }
-        
-        if(root->left != NULL) {
-            TreeNode *leftChild = root->left;
-            if(leftChild->val <= V) {
-                TreeNode *newLeftNodeOfRoot = findParentNodeOfAddedBST(leftChild, V);
-                
-                root->left = newLeftNodeOfRoot == NULL ? NULL : newLeftNodeOfRoot->right;
-                
-                if(newLeftNodeOfRoot != NULL) {
-                    newLeftNodeOfRoot->right = findRootNodeOfSplitedBST(newLeftNodeOfRoot->right, V);
-                }
-                
-                return leftChild;
-            }
-            return findRootNodeOfSplitedBST(leftChild, V);
-        }
-        
-        return NULL;
-    }
-    
-    TreeNode* findParentNodeOfAddedBST(TreeNode *root, int V){
-        if(root == NULL || (root->left == NULL && root->right == NULL) ) {
-            return NULL;
-        }
-        
-        while(root->right != NULL) {
-            TreeNode *rightChild = root->right;
-            if(rightChild->val > V) {
-                return root;
-            }
-            root = rightChild;
-        }
-        
-        return NULL;
     }
 };
