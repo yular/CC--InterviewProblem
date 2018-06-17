@@ -262,3 +262,4 @@
 * Solve the Equation: [Problem](https://leetcode.com/problems/solve-the-equation);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_solve-the-equation.cpp).
 * Image Smoother: [Problem](https://leetcode.com/problems/image-smoother);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_image-smoother.cpp).
 * Split BST: [Problem](https://leetcode.com/problems/split-bst);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_split-bst.cpp).
+* Partition Labels: [Problem](https://leetcode.com/problems/partition-labels);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_partition-labels.cpp).
