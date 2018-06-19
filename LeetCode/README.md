@@ -265,3 +265,4 @@
 * Partition Labels: [Problem](https://leetcode.com/problems/partition-labels);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_partition-labels.cpp).
 * Closest Leaf in a Binary Tree: [Problem](https://leetcode.com/problems/closest-leaf-in-a-binary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_closest-leaf-in-a-binary-tree.cpp).
 * Is Graph Bipartite: [Problem](https://leetcode.com/problems/is-graph-bipartite);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_is-graph-bipartite.cpp).
+* Flipping an Image: [Problem](https://leetcode.com/problems/flipping-an-image);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flipping-an-image.cpp).
