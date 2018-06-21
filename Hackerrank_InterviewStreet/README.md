@@ -243,6 +243,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Army Game: [Problem](https://www.hackerrank.com/challenges/game-with-cells);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/game-with-cells.cpp).
 * Hyperspace Travel: [Problem](https://www.hackerrank.com/challenges/hyperspace-travel);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/hyperspace-travel.cpp).
 * Leonardo and Prime: [Problem](https://www.hackerrank.com/challenges/leonardo-and-prime);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/leonardo-and-prime.cpp).
+* 3D Surface Area: [Problem](https://www.hackerrank.com/challenges/3d-surface-area);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/3d-surface-area.cpp).
 
 ### Data Structure
 * Arrays- DS: [Problem](https://www.hackerrank.com/challenges/arrays-dsdfdf);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/arrays_ds.cpp).
