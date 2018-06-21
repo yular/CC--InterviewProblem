@@ -83,6 +83,7 @@ For details of explanation of solution, check this website: http://yular.github.
 * Divisible Sum Pairs: [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/divisible-sum-pairs.cpp).
 * The Birthday Bar: [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/the-birthday-bar.cpp).
 * Halloween Sale: [Problem](https://www.hackerrank.com/challenges/halloween-sale);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/halloween-sale.cpp).
+* Strong Password: [Problem](https://www.hackerrank.com/challenges/strong-password);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/strong-password.cpp).
 
 ### Constructive Algorithm
 * Array Construction: [Problem](https://www.hackerrank.com/challenges/array-construction);      [Code](https://github.com/yular/CC--InterviewProblem/blob/master/Hackerrank_InterviewStreet/array-construction.cpp).
