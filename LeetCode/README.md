@@ -268,3 +268,4 @@
 * Flipping an Image: [Problem](https://leetcode.com/problems/flipping-an-image);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flipping-an-image.cpp).
 * Keys and Rooms: [Problem](https://leetcode.com/problems/keys-and-rooms);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_keys-and-rooms.cpp).
 * Implement Magic Dictionary: [Problem](https://leetcode.com/problems/implement-magic-dictionary);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_implement-magic-dictionary.cpp).
+* Shortest Completing Word: [Problem](https://leetcode.com/problems/shortest-completing-word);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shortest-completing-word.cpp).
