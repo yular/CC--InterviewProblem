@@ -281,3 +281,4 @@
 * Task Scheduler: [Problem](https://leetcode.com/problems/task-scheduler);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_task-scheduler.cpp).
 * Largest Number at Least Twice of Others: [Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-number-at-least-twice-of-others.cpp).
 * Positions of Large Groups: [Problem](https://leetcode.com/problems/positions-of-large-groups);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_positions-of-large-groups.cpp).
+* Sentence Similarity II: [Problem](https://leetcode.com/problems/sentence-similarity-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sentence-similarity-ii.cpp).
