@@ -284,3 +284,4 @@
 * Sentence Similarity: [Problem](https://leetcode.com/problems/sentence-similarity);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sentence-similarity.cpp).
 * Sentence Similarity II: [Problem](https://leetcode.com/problems/sentence-similarity-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sentence-similarity-ii.cpp).
 * Rotated Digits: [Problem](https://leetcode.com/problems/rotated-digits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rotated-digits.cpp).
+* Find and Replace in String: [Problem](https://leetcode.com/problems/find-and-replace-in-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-and-replace-in-string.cpp).
