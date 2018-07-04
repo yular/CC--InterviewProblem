@@ -287,3 +287,4 @@
 * Rotated Digits: [Problem](https://leetcode.com/problems/rotated-digits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rotated-digits.cpp).
 * Find and Replace in String: [Problem](https://leetcode.com/problems/find-and-replace-in-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-and-replace-in-string.cpp).
 * Largest Sum of Averages: [Problem](https://leetcode.com/problems/largest-sum-of-averages);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-sum-of-averages.cpp).
+* Max Chunks to Make Sorted: [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-chunks-to-make-sorted.cpp).
