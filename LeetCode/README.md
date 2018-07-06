@@ -290,3 +290,4 @@
 * Max Chunks to Make Sorted: [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-chunks-to-make-sorted.cpp).
 * Toeplitz Matrix: [Problem](https://leetcode.com/problems/toeplitz-matrix);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_toeplitz-matrix.cpp).
 * Delete Operation for Two Strings: [Problem](https://leetcode.com/problems/delete-operation-for-two-strings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_delete-operation-for-two-strings.cpp).
+* Repeated String Match: [Problem](https://leetcode.com/problems/repeated-string-match);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_repeated-string-match.cpp).
