@@ -294,3 +294,4 @@
 * Find Eventual Safe States: [Problem](https://leetcode.com/problems/find-eventual-safe-states);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-eventual-safe-states.cpp).
 * Largest Triangle Area: [Problem](https://leetcode.com/problems/largest-triangle-area);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-triangle-area.cpp).
 * Find K Closest Elements: [Problem](https://leetcode.com/problems/find-k-closest-elements);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-k-closest-elements.cpp).
+* Number of Matching Subsequences : [Problem](https://leetcode.com/problems/number-of-matching-subsequences);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-matching-subsequences.cpp).
