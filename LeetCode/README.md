@@ -295,3 +295,4 @@
 * Largest Triangle Area: [Problem](https://leetcode.com/problems/largest-triangle-area);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-triangle-area.cpp).
 * Find K Closest Elements: [Problem](https://leetcode.com/problems/find-k-closest-elements);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-k-closest-elements.cpp).
 * Number of Matching Subsequences : [Problem](https://leetcode.com/problems/number-of-matching-subsequences);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-matching-subsequences.cpp).
+* Maximum Distance to Closest Person: [Problem](https://leetcode.com/problems/maximize-distance-to-closest-person);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximize-distance-to-closest-person.cpp).
