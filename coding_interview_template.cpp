@@ -67,7 +67,6 @@ Output:
 
 ...
 */
-
 int main(){
     return 0;
 }
