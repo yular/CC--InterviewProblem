@@ -301,3 +301,4 @@
 * Cheapest Flights Within K Stops: [Problem](https://leetcode.com/problems/cheapest-flights-within-k-stops);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_cheapest-flights-within-k-stops.cpp).
 * Employee Free Time: [Problem](https://leetcode.com/problems/employee-free-time);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_employee-free-time.cpp).
 * Pour Water: [Problem](https://leetcode.com/problems/pour-water);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_pour-water.cpp).
+* Pyramid Transition Matrix: [Problem](https://leetcode.com/problems/pyramid-transition-matrix);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_pyramid-transition-matrix.cpp).
