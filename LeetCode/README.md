@@ -305,3 +305,4 @@
 * Sliding Puzzle: [Problem](https://leetcode.com/problems/sliding-puzzle);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sliding-puzzle.cpp).
 * Backspace String Compare: [Problem](https://leetcode.com/problems/backspace-string-compare);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_backspace-string-compare.cpp).
 * Bold Words in String: [Problem](https://leetcode.com/problems/bold-words-in-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_bold-words-in-string.cpp).
+* Magic Squares in Grid: [Problem](https://leetcode.com/problems/magic-squares-in-grid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_magic-squares-in-grid.cpp).
