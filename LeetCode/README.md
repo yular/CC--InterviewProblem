@@ -303,3 +303,4 @@
 * Pour Water: [Problem](https://leetcode.com/problems/pour-water);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_pour-water.cpp).
 * Pyramid Transition Matrix: [Problem](https://leetcode.com/problems/pyramid-transition-matrix);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_pyramid-transition-matrix.cpp).
 * Sliding Puzzle: [Problem](https://leetcode.com/problems/sliding-puzzle);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sliding-puzzle.cpp).
+* Backspace String Compare: [Problem](https://leetcode.com/problems/backspace-string-compare);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_backspace-string-compare.cpp).
