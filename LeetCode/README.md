@@ -307,3 +307,7 @@
 * Bold Words in String: [Problem](https://leetcode.com/problems/bold-words-in-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_bold-words-in-string.cpp).
 * Magic Squares in Grid: [Problem](https://leetcode.com/problems/magic-squares-in-grid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_magic-squares-in-grid.cpp).
 * Insert Into a Cyclic Sorted List: [Problem](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_insert-into-a-cyclic-sorted-list.cpp).
+* Longest Univalue Path: [Problem](https://leetcode.com/problems/longest-univalue-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-univalue-path.cpp).
+* Maximum Average Subarray I: [Problem](https://leetcode.com/problems/my-calendar-i);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-average-subarray-i.cpp).
+* Buddy Strings: [Problem](https://leetcode.com/problems/buddy-strings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_buddy-strings.cpp).
+* My Calendar I: [Problem](https://leetcode.com/problems/my-calendar-i);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_my-calendar-i.cpp).
