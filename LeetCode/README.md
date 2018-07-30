@@ -311,3 +311,6 @@
 * Maximum Average Subarray I: [Problem](https://leetcode.com/problems/my-calendar-i);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-average-subarray-i.cpp).
 * Buddy Strings: [Problem](https://leetcode.com/problems/buddy-strings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_buddy-strings.cpp).
 * My Calendar I: [Problem](https://leetcode.com/problems/my-calendar-i);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_my-calendar-i.cpp).
+* Bus Routes: [Problem](https://leetcode.com/problems/bus-routes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_bus-routes.cpp).
+* Split Array into Consecutive Subsequences: [Problem](https://leetcode.com/problems/split-array-into-consecutive-subsequences);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_split-array-into-consecutive-subsequences.cpp).
+* Find Duplicate Subtrees: [Problem](https://leetcode.com/problems/find-duplicate-subtrees);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-duplicate-subtrees.cpp).
