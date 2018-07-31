@@ -1,6 +1,6 @@
 /*
 *
-* Tag: Random
+* Tag: Random + Binary Search
 * Time: constructor: O(n); pick: O(lgn)
 * Space: O(n)
 */
