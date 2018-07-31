@@ -314,3 +314,7 @@
 * Bus Routes: [Problem](https://leetcode.com/problems/bus-routes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_bus-routes.cpp).
 * Split Array into Consecutive Subsequences: [Problem](https://leetcode.com/problems/split-array-into-consecutive-subsequences);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_split-array-into-consecutive-subsequences.cpp).
 * Find Duplicate Subtrees: [Problem](https://leetcode.com/problems/find-duplicate-subtrees);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-duplicate-subtrees.cpp).
+* Random Pick with Blacklist: [Problem](https://leetcode.com/problems/random-pick-with-blacklist);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_random-pick-with-blacklist.cpp).
+* Random Pick with Weight: [Problem](https://leetcode.com/problems/random-pick-with-weight);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_random-pick-with-weight.cpp).
+* Random Pick in Non Overlapping Rectangles : [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_random-point-in-non-overlapping-rectangles.cpp).
+* Random Flip Matrix: [Problem](https://leetcode.com/problems/random-flip-matrix);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_random-flip-matrix.cpp).
