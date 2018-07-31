@@ -10,7 +10,7 @@ private:
     int n;
     
 public:
-	Solution(int _n, vector<int> b) {
+    Solution(int _n, vector<int> b) {
         n = _n;
         unordered_set<int> whiteList, blackList(b.begin(), b.end());
         for (int i = 0; i < n && whiteList.size() < b.size(); ++ i){
@@ -29,10 +29,10 @@ public:
             
             blackListNumOfWhiteListNum[x] = *it++;
         }
-	}
+    }
 
-	int pick() {
+    int pick() {
         int k = rand() % n;
-		return blackListNumOfWhiteListNum.count(k) ? blackListNumOfWhiteListNum[k] : k;
-	}
+	return blackListNumOfWhiteListNum.count(k) ? blackListNumOfWhiteListNum[k] : k;
+    }
 };
