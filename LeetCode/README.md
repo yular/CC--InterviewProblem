@@ -318,3 +318,4 @@
 * Random Pick with Weight: [Problem](https://leetcode.com/problems/random-pick-with-weight);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_random-pick-with-weight.cpp).
 * Random Pick in Non Overlapping Rectangles : [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_random-point-in-non-overlapping-rectangles.cpp).
 * Random Flip Matrix: [Problem](https://leetcode.com/problems/random-flip-matrix);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_random-flip-matrix.cpp).
+* Ambiguous Coordinates: [Problem](https://leetcode.com/problems/ambiguous-coordinates);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_ambiguous-coordinates.cpp).
