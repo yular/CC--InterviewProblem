@@ -320,3 +320,7 @@
 * Random Flip Matrix: [Problem](https://leetcode.com/problems/random-flip-matrix);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_random-flip-matrix.cpp).
 * Ambiguous Coordinates: [Problem](https://leetcode.com/problems/ambiguous-coordinates);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_ambiguous-coordinates.cpp).
 * Sum of Distances in Tree: [Problem](https://leetcode.com/problems/sum-of-distances-in-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sum-of-distances-in-tree.cpp).
+* Image Overlap: [Problem](https://leetcode.com/problems/image-overlap);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_image-overlap.cpp).
+* Search in a Sorted Array of Unknown Size: [Problem](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_search-in-a-sorted-array-of-unknown-size.cpp).
+* Swim in Rising Water: [Problem](https://leetcode.com/problems/swim-in-rising-water);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_swim-in-rising-water.cpp).
+* Longest Mountain in Array: [Problem](https://leetcode.com/problems/longest-mountain-in-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-mountain-in-array.cpp).
