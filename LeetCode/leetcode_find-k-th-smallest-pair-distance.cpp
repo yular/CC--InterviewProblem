@@ -1,7 +1,7 @@
 /*
 *
 * Tag: Binary Search
-* Time: O()
+* Time: O(nlgn)
 * Space: O(1)
 */
 class Solution {
