@@ -329,4 +329,4 @@
 * K Similar Strings: [Problem](https://leetcode.com/problems/k-similar-strings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_k-similar-strings.cpp).
 * K Empty Slots: [Problem](https://leetcode.com/problems/k-empty-slots);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_k-empty-slots.cpp).
 * Cracking the Safe: [Problem](https://leetcode.com/problems/cracking-the-safe);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_cracking-the-safe.cpp).
-* Find Kth Smallest Pair Distance: [Problem](https://leetcode.com/problems/find-k-th-smallest-pair-distance);   [Code](ttps://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-k-th-smallest-pair-distance.cpp).
+* Find Kth Smallest Pair Distance: [Problem](https://leetcode.com/problems/find-k-th-smallest-pair-distance);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-k-th-smallest-pair-distance.cpp).
