@@ -331,3 +331,4 @@
 * Cracking the Safe: [Problem](https://leetcode.com/problems/cracking-the-safe);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_cracking-the-safe.cpp).
 * Find Kth Smallest Pair Distance: [Problem](https://leetcode.com/problems/find-k-th-smallest-pair-distance);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-k-th-smallest-pair-distance.cpp).
 * Kth Smallest Number in Multiplication Table: [Problem](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_kth-smallest-number-in-multiplication-table.cpp).
+* 1 bit and 2 bit characters: [Problem](https://leetcode.com/problems/1-bit-and-2-bit-characters);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_1-bit-and-2-bit-characters.cpp).
