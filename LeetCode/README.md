@@ -324,3 +324,9 @@
 * Search in a Sorted Array of Unknown Size: [Problem](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_search-in-a-sorted-array-of-unknown-size.cpp).
 * Swim in Rising Water: [Problem](https://leetcode.com/problems/swim-in-rising-water);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_swim-in-rising-water.cpp).
 * Longest Mountain in Array: [Problem](https://leetcode.com/problems/longest-mountain-in-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-mountain-in-array.cpp).
+* Robot Room Cleaner: [Problem](https://leetcode.com/problems/robot-room-cleaner);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_robot-room-cleaner.cpp).
+* Couples Holding Hands: [Problem](https://leetcode.com/problems/couples-holding-hands);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_couples-holding-hands.cpp).
+* K Similar Strings: [Problem](https://leetcode.com/problems/k-similar-strings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_k-similar-strings.cpp).
+* K Empty Slots: [Problem](https://leetcode.com/problems/k-empty-slots);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_k-empty-slots.cpp).
+* Cracking the Safe: [Problem](https://leetcode.com/problems/cracking-the-safe);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_cracking-the-safe.cpp).
+* Find Kth Smallest Pair Distance: [Problem](https://leetcode.com/problems/find-k-th-smallest-pair-distance);   [Code](ttps://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-k-th-smallest-pair-distance.cpp).
