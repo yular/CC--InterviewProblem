@@ -334,3 +334,6 @@
 * 1 bit and 2 bit characters: [Problem](https://leetcode.com/problems/1-bit-and-2-bit-characters);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_1-bit-and-2-bit-characters.cpp).
 * My Calendar II: [Problem](https://leetcode.com/problems/my-calendar-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_my-calendar-ii.cpp).
 * My Calendar III: [Problem](https://leetcode.com/problems/my-calendar-iii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_my-calendar-iii.cpp).
+* Reaching Points: [Problem](https://leetcode.com/problems/reaching-points);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_reaching-points.cpp).
+* Escape the Ghosts: [Problem](https://leetcode.com/problems/escape-the-ghosts);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_escape-the-ghosts.cpp).
+* Domino and Tromino Tiling: [Problem](https://leetcode.com/problems/domino-and-tromino-tiling);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_domino-and-tromino-tiling.cpp).
