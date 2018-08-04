@@ -337,3 +337,6 @@
 * Reaching Points: [Problem](https://leetcode.com/problems/reaching-points);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_reaching-points.cpp).
 * Escape the Ghosts: [Problem](https://leetcode.com/problems/escape-the-ghosts);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_escape-the-ghosts.cpp).
 * Domino and Tromino Tiling: [Problem](https://leetcode.com/problems/domino-and-tromino-tiling);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_domino-and-tromino-tiling.cpp).
+* Push Dominoes: [Problem](https://leetcode.com/problems/push-dominoes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_push-dominoes.cpp).
+* Redundant Connection II: [Problem](https://leetcode.com/problems/redundant-connection-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_redundant-connection-ii.cpp).
+* Maximum Average Subarray II: [Problem](https://leetcode.com/problems/maximum-average-subarray-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-average-subarray-ii.cpp).
