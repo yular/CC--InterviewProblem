@@ -340,3 +340,29 @@
 * Push Dominoes: [Problem](https://leetcode.com/problems/push-dominoes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_push-dominoes.cpp).
 * Redundant Connection II: [Problem](https://leetcode.com/problems/redundant-connection-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_redundant-connection-ii.cpp).
 * Maximum Average Subarray II: [Problem](https://leetcode.com/problems/maximum-average-subarray-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-average-subarray-ii.cpp).
+* Binary Gap: [Problem](https://leetcode.com/problems/binary-gap);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-gap.cpp).
+* Car Fleet: [Problem](https://leetcode.com/problems/car-fleet);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_car-fleet.cpp).
+* Expressive Words: [Problem](https://leetcode.com/problems/expressive-words);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_expressive-words.cpp).
+* Employee Importance: [Problem](https://leetcode.com/problems/employee-importance);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_employee-importance.cpp).
+* Minimize Max Distance to Gas Station: [Problem](https://leetcode.com/problems/minimize-max-distance-to-gas-station);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimize-max-distance-to-gas-station.cpp).
+* Max Chunks to Make Sorted II: [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-chunks-to-make-sorted-ii.cpp).
+* Shopping Offers: [Problem](https://leetcode.com/articles/shopping-offers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shopping-offers.cpp).
+* Max Area of Island: [Problem](https://leetcode.com/problems/max-area-of-island);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-area-of-island.cpp).
+* Swap Adjacent in LR String: [Problem](https://leetcode.com/problems/swap-adjacent-in-lr-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_swap-adjacent-in-lr-string.cpp).
+* Soup Servings: [Problem](https://leetcode.com/problems/soup-servings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_soup-servings.cpp).
+* Profitable Schemes: [Problem](https://leetcode.com/problems/profitable-schemes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_profitable-schemes.cpp).
+* Minimum Cost to Hire K Workers: [Problem](https://leetcode.com/problems/minimum-cost-to-hire-k-workers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-cost-to-hire-k-workers.cpp).
+* Kth Largest Element in a Stream: [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_kth-largest-element-in-a-stream.cpp).
+* Exam Room: [Problem](https://leetcode.com/problems/exam-room);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_exam-room.cpp).
+* Maximum Sum of 3 Non Overlapping Subarrays: [Problem](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-sum-of-3-non-overlapping-subarrays.cpp).
+* Contains Duplicate II: [Problem](https://leetcode.com/problems/contains-duplicate-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_contains-duplicate-ii.cpp).
+* New 21 Game: [Problem](https://leetcode.com/problems/new-21-game);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_new-21-game.cpp).
+* Maximum Vacation Days: [Problem](https://leetcode.com/problems/maximum-vacation-days);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-vacation-days.cpp).
+* Binary Number With Alternative Bits: [Problem](https://leetcode.com/problems/binary-number-with-alternating-bits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-number-with-alternating-bits.cpp).
+* Coin Path: [Problem](https://leetcode.com/problems/coin-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_coin-path.cpp).
+* Number of Atoms: [Problem](https://leetcode.com/problems/number-of-atoms);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-atoms.cpp).
+* 24 Game: [Problem](https://leetcode.com/problems/24-game);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_24-game.cpp).
+* Kth Symbol in Grammar: [Problem](https://leetcode.com/problems/k-th-symbol-in-grammar);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_k-th-symbol-in-grammar.cpp).
+* Race Car: [Problem](https://leetcode.com/problems/race-car);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_race-car.cpp).
+* Shortest Paths Visting All Nodes: [Problem](https://leetcode.com/problems/shortest-path-visiting-all-nodes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shortest-path-visiting-all-nodes.cpp).
+* Goat Latin: [Problem](https://leetcode.com/problems/goat-latin);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_goat-latin.cpp).
