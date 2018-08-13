@@ -1,7 +1,7 @@
 /*
-* Algorithm: DP
-* Time complexity: O(n)
-* Memory complexity: O(1)
+* Tag: DP
+* Time: O(n)
+* Memory: O(1)
 */
 class Solution {
 public:
@@ -22,6 +22,30 @@ public:
             }
         }
         ans = max(sum, ans);
+        return ans;
+    }
+};
+
+/*
+*
+* Tag: Math
+* Time: O(n)
+* Memory: O(1)
+*/
+class Solution {
+public:
+    int maxProfit(vector<int> &prices) {
+        int ans = 0;
+        if(prices.size() == 0){
+            return ans;
+        }
+        
+        int maxPrice = prices.back();
+        for(int i = prices.size() - 2; i >= 0; -- i){
+            ans = max(ans, maxPrice - prices[i]);
+            maxPrice = max(maxPrice, prices[i]);
+        }
+        
         return ans;
     }
 };
