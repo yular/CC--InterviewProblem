@@ -1,8 +1,8 @@
 /*
 *
 * Tag: Math
-* Time:
-* Space: O(n)
+* Time: ?
+* Space: ?
 */
 class Solution {
 public:
