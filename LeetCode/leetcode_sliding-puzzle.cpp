@@ -3,15 +3,18 @@
 * See A* Solution
 * Tag: BFS
 * Time: O(rc*(rc)!)
-* Space: O()
+* Space: O(rc*(rc)!)
 */
 class Solution {
 private:
     const string finalBoardState = "123450";
     
-    unordered_map<int,vector<int>> swappedToPostions;
+    vector<vector<int>> swappedToPostions;
+    
 public:
     Solution() {
+        swappedToPostions.resize(6);
+        
         swappedToPostions[0] = {1, 3};
         swappedToPostions[1] = {0, 2, 4};
         swappedToPostions[2] = {1, 5};
@@ -26,7 +29,6 @@ public:
         }
         
         string initialBoardState = serializeBoard(board);
-        //cout<<initialBoardState<<endl;
         
         queue<pair<string,int>> q;
         q.push(make_pair(initialBoardState, 0));
@@ -67,6 +69,7 @@ public:
         
         return ans;
     }
+    
 private:
     string serializeBoard(vector<vector<int>>& board){
         string state = "";
