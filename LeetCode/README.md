@@ -366,3 +366,12 @@
 * Race Car: [Problem](https://leetcode.com/problems/race-car);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_race-car.cpp).
 * Shortest Paths Visting All Nodes: [Problem](https://leetcode.com/problems/shortest-path-visiting-all-nodes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shortest-path-visiting-all-nodes.cpp).
 * Goat Latin: [Problem](https://leetcode.com/problems/goat-latin);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_goat-latin.cpp).
+* Insert into a Binary Search Tree: [Problem](https://leetcode.com/problems/insert-into-a-binary-search-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_insert-into-a-binary-search-tree).
+* Search in a Binary Search Tree: [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_search-in-a-binary-search-tree.cpp).
+* Valid Parentheses: [Problem](https://leetcode.com/problems/valid-parentheses);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_valid-parentheses.cpp).
+* Convert Sorted Array to Binary Search Tree: [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_convert-sorted-array-to-binary-search-tree.cpp).
+* Contains III: [Problem](https://leetcode.com/problems/contains-duplicate-iii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_contains-duplicate-iii.cpp).
+* Minimum Windwo Subsequence: [Problem](https://leetcode.com/problems/minimum-window-subsequence);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-window-subsequence.cpp).
+* Happy Number: [Problem](https://leetcode.com/problems/happy-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_happy-number.cpp).
+* House Robber: [Problem](https://leetcode.com/problems/house-robber);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_house-robber.cpp).
+* House Robber: [Problem](https://leetcode.com/problems/house-robber-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_house-robber-ii.cpp).
