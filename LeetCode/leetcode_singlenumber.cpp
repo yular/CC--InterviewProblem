@@ -1,15 +1,17 @@
 /*
-* Algorithm: brute force, bit operation
-* Time complexity: O(n)
-* Memory complexity: O(n)
+*
+* Tag: Bit Manipulation
+* Time : O(n)
+* Memory : O(1)
 */
 class Solution {
 public:
-    int singleNumber(int A[], int n) {
+    int singleNumber(vector<int>& nums) {
         int ans = 0;
-        ans = A[0];
-        for(int i = 1; i < n; i ++)
-            ans ^= A[i];
+        for(int num : nums){
+            ans ^= num;
+        }
+        
         return ans;
     }
 };
