@@ -378,3 +378,8 @@
 * Trapping Rain Water: [Problem](https://leetcode.com/problems/trapping-rain-water);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_trapping-rain-water.cpp).
 * Single Number: [Problem](https://leetcode.com/problems/single-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_single-number.cpp).
 * Best Time to Buy and Sell Stocks: [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_best-time-to-buy-and-sell-stock.cpp).
+* Flood Fill: [Problem](https://leetcode.com/problems/flood-fill);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flood-fill.cpp).
+* Container with Most Water: [Problem](https://leetcode.com/problems/container-with-most-water);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_container-with-most-water.cpp).
+* Counting Bits: [Problem](https://leetcode.com/problems/counting-bits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_counting-bits.cpp).
+* Flattern 2D Vector: [Problem](https://leetcode.com/problems/flatten-2d-vector);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flatten-2d-vector.cpp).
+* Alien Dictionary: [Problem](https://leetcode.com/problems/alien-dictionary);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_alien-dictionary.cpp).
