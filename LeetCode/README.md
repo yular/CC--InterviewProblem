@@ -386,3 +386,6 @@
 * Single Number II: [Problem](https://leetcode.com/problems/single-number-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_single-number-ii.cpp).
 * Single Number III: [Problem](https://leetcode.com/problems/single-number-iii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_single-number-iii.cpp).
 * Find First and Last Position of Element in Sorted Array: [Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-first-and-last-position-of-element-in-sorted-array.cpp).
+* Edit Distance: [Problem](https://leetcode.com/problems/edit-distance);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_edit-distance.cpp).
+* Intersection of Two Linked Lists: [Problem](https://leetcode.com/problems/intersection-of-two-linked-lists);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_intersection-of-two-linked-lists.cpp).
+* Meeting Room II: [Problem](ttps://leetcode.com/problems/meeting-rooms-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_meeting-rooms-ii.cpp).
