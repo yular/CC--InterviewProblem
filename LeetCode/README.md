@@ -383,3 +383,6 @@
 * Counting Bits: [Problem](https://leetcode.com/problems/counting-bits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_counting-bits.cpp).
 * Flattern 2D Vector: [Problem](https://leetcode.com/problems/flatten-2d-vector);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flatten-2d-vector.cpp).
 * Alien Dictionary: [Problem](https://leetcode.com/problems/alien-dictionary);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_alien-dictionary.cpp).
+* Single Number II: [Problem](https://leetcode.com/problems/single-number-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_single-number-ii.cpp).
+* Single Number III: [Problem](https://leetcode.com/problems/single-number-iii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_single-number-iii.cpp).
+* Find First and Last Position of Element in Sorted Array: [Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-first-and-last-position-of-element-in-sorted-array.cpp).
