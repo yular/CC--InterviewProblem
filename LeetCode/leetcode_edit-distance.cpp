@@ -1,7 +1,7 @@
 /*
-* Algorithm: DP
-* Time complexity: O(n^2)
-* Memory complexity: O(n^2)
+* Tag: DP
+* Time : O(n^2)
+* Memory : O(n^2)
 *
 */
 class Solution {
