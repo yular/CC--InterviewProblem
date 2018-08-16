@@ -105,6 +105,9 @@ private:
                     continue;
                 } 
                 
+                // prevDp[i - 1]: update curLetter as target[i]; 
+                // prevDp[i]: delete curLetter;
+                // curDp[i - 1]: append target[i] to the end of word.
                 curDp[i] = min(min(prevDp[i - 1], prevDp[i]), curDp[i - 1]) + 1;
             }
             
