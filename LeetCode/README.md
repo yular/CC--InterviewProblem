@@ -389,3 +389,5 @@
 * Edit Distance: [Problem](https://leetcode.com/problems/edit-distance);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_edit-distance.cpp).
 * Intersection of Two Linked Lists: [Problem](https://leetcode.com/problems/intersection-of-two-linked-lists);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_intersection-of-two-linked-lists.cpp).
 * Meeting Room II: [Problem](ttps://leetcode.com/problems/meeting-rooms-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_meeting-rooms-ii.cpp).
+* Word Search II: [Problem](https://leetcode.com/problems/word-search-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_word-search-ii.cpp).
+* Regular Expression Matching: [Problem](https://leetcode.com/problems/regular-expression-matching);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_regular-expression-matching.cpp).
