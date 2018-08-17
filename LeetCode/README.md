@@ -391,3 +391,6 @@
 * Meeting Room II: [Problem](ttps://leetcode.com/problems/meeting-rooms-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_meeting-rooms-ii.cpp).
 * Word Search II: [Problem](https://leetcode.com/problems/word-search-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_word-search-ii.cpp).
 * Regular Expression Matching: [Problem](https://leetcode.com/problems/regular-expression-matching);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_regular-expression-matching.cpp).
+* Maximal Square: [Problem](https://leetcode.com/problems/maximal-square);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximal-square.cpp).
+* Wildcard Matching: [Problem](https://leetcode.com/problems/wildcard-matching);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_wildcard-matching.cpp).
+* Basic Calculator II: [Problem](https://leetcode.com/problems/basic-calculator-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_basic-calculator-ii.cpp).
