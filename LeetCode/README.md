@@ -394,3 +394,10 @@
 * Maximal Square: [Problem](https://leetcode.com/problems/maximal-square);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximal-square.cpp).
 * Wildcard Matching: [Problem](https://leetcode.com/problems/wildcard-matching);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_wildcard-matching.cpp).
 * Basic Calculator II: [Problem](https://leetcode.com/problems/basic-calculator-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_basic-calculator-ii.cpp).
+* N-ary Tree Level Order Traversal: [Problem](https://leetcode.com/problems/n-ary-tree-level-order-traversal);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_n-ary-tree-level-order-traversal.cpp).
+* N-ary Tree Pre Order Traversal: [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_n-ary-tree-preorder-traversal.cpp).
+* N-ary Tree Post Order Traversal: [Problem](https://leetcode.com/problems/n-ary-tree-postorder-traversal);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_n-ary-tree-postorder-traversal.cpp).
+* Encode N-ary Tree to Binary Tree: [Problem](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_encode-n-ary-tree-to-binary-tree.cpp).
+* Basic Calculator III: [Problem](https://leetcode.com/problems/basic-calculator-iii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_basic-calculator-iii.cpp).
+* Remove 9: [Problem](https://leetcode.com/problems/remove-9);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-9.cpp).
+* Rectangle Overlap: [Problem](https://leetcode.com/problems/rectangle-overlap);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rectangle-overlap.cpp).
