@@ -401,3 +401,8 @@
 * Basic Calculator III: [Problem](https://leetcode.com/problems/basic-calculator-iii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_basic-calculator-iii.cpp).
 * Remove 9: [Problem](https://leetcode.com/problems/remove-9);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-9.cpp).
 * Rectangle Overlap: [Problem](https://leetcode.com/problems/rectangle-overlap);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rectangle-overlap.cpp).
+* Find Smallest Letter Greater than Target: [Problem](https://leetcode.com/problems/find-smallest-letter-greater-than-target);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-smallest-letter-greater-than-target.cpp).
+* Leaf Similar Trees: [Problem](https://leetcode.com/problems/leaf-similar-trees);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_leaf-similar-trees.cpp).
+* Construct Binary Tree from Preorder and Postorder Traversal: [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_construct-binary-tree-from-preorder-and-postorder-traversal.cpp).
+* Construct Quad Tree: [Problem](https://leetcode.com/problems/construct-quad-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_construct-quad-tree.cpp).
+* Making A Large Island: [Problem](https://leetcode.com/problems/making-a-large-island);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_making-a-large-island.cpp).
