@@ -416,3 +416,4 @@
 * Longest Consecutive Sequence: [Problem](https://leetcode.com/problems/longest-consecutive-sequence);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-consecutive-sequence.cpp).
 * Merge Interval: [Problem](https://leetcode.com/problems/merge-intervals);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_merge-intervals.cpp).
 * Find Peak Element: [Problem](https://leetcode.com/problems/find-peak-element);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-peak-element.cpp).
+* Next Permutation: [Problem](https://leetcode.com/problems/next-permutation);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_next-permutation.cpp).
