@@ -1,32 +1,37 @@
 /*
-* Algorithm: Brute force
-* Time complexity: O(logn)
-* Memory complexity: O(1)
+*
+* Tag: Math
+* Time : O(logn)
+* Space : O(1)
 */
 class Solution {
 public:
-    double pow(double x, int n) {
-        // Start typing your C/C++ solution below
-        // DO NOT write int main() function
-        if(n == 0) return 1.0;
-        if(n == 1) return x;
-        double ans = 1.0, xpow = x;
-        int i = 0;
-        bool flag = false;
+    double myPow(double x, int _n) {
+        long long n = _n;
+        if(n == 0) {
+            return 1.0;
+        }
+        if(n == 1) {
+            return x;
+        }
+        
+        bool isNegative = false;
         if(n < 0){
             n *= -1;
-            flag = true;
+            isNegative = true;
         }
-        while(1)
+        
+        double ans = 1.0, xpow = x;
+        while(n > 0)
         {
-            if(n<(1 << i) || i > 31) break;
-            if(n & (1 << i)){
+            if((n&1) == 1){
                 ans *= xpow;
             }
-            i ++;
+            
+            n >>= 1;
             xpow *= xpow;
         }
-        if(flag) ans = 1/ans;
-        return ans;
+        
+        return isNegative ? 1/ans : ans;
     }
 };
