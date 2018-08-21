@@ -411,3 +411,8 @@
 * Burst Ballons: [Problem](https://leetcode.com/problems/burst-balloons);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_burst-balloons.cpp).
 * Game of Life: [Problem](https://leetcode.com/problems/game-of-life);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_game-of-life.cpp).
 * Judge Route Circle: [Problem](https://leetcode.com/problems/judge-route-circle);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_judge-route-circle.cpp).
+* Letter Combination of A Phone Number: [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_letter-combinations-of-a-phone-number.cpp).
+* Generate Parentheses: [Problem](https://leetcode.com/problems/generate-parentheses);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_generate-parentheses.cpp).
+* Longest Consecutive Sequence: [Problem](https://leetcode.com/problems/longest-consecutive-sequence);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-consecutive-sequence.cpp).
+* Merge Interval: [Problem](https://leetcode.com/problems/merge-intervals);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_merge-intervals.cpp).
+* Find Peak Element: [Problem](https://leetcode.com/problems/find-peak-element);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-peak-element.cpp).
