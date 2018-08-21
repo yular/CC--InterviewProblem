@@ -12,8 +12,9 @@ public:
      */
     int lengthLongestPath(string& input) {
         int ans = 0;
-        if(input.size() == 0)
+        if(input.size() == 0){
             return ans;
+        }
         
         input +='\n';
         vector<int> dirNameLen(input.size(), 0);
@@ -33,10 +34,11 @@ public:
                 ++ i;
             }
             
-            if(isFile)
+            if(isFile) {
                 ans = max(ans, dirNameLen[numOfLevel] + fileNameLen + numOfLevel);
-            else
+            } else {
                 dirNameLen[numOfLevel + 1] = dirNameLen[numOfLevel] + fileNameLen;
+            }
         }
         
         return ans;
