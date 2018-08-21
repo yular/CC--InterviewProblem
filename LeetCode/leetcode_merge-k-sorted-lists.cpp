@@ -57,3 +57,55 @@ private:
         return dump.next;
     }
 };
+
+/*
+*
+* Tag: Greedy (Priority Queue)
+* Time: O(nlgn)
+* Space: O(m) where m is the length of lists.
+*/
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+class Solution {
+private:
+    struct comparatorOfListNode{
+        bool operator() (const ListNode *a, const ListNode *b){
+            return b->val <= a->val;
+        }
+    };
+public:
+    ListNode *mergeKLists(vector<ListNode *> &lists) {
+        if(lists.size() == 0){
+            return NULL;
+        }
+        
+        ListNode dummy(-1);
+        ListNode *p = &dummy;
+        priority_queue<ListNode *, vector<ListNode *>, comparatorOfListNode> pq;
+        for(ListNode *list : lists){
+            if(list != NULL){
+                pq.push(list);
+            }
+        }
+        
+        while(!pq.empty()){
+            ListNode* node = pq.top();
+            pq.pop();
+            
+            p->next = node;
+            p = p->next;
+            if(node->next != NULL){
+                ListNode *q = node->next;
+                pq.push(q);
+            }
+        }
+        
+        return dummy.next;
+    }
+};
