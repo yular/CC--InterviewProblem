@@ -1,6 +1,6 @@
 /*
 *
-* Tag: Math
+* Tag: Bit Manipulation
 * Time: O(1)
 * Space: O(1)
 */
