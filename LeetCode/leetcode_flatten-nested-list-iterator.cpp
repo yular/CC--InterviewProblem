@@ -1,3 +1,9 @@
+/*
+*
+* Tag: Data Structure (Stack)
+* Time: Next: O(m); HasNext: O(m) where m is the number of elements of most outer nested list.
+* Space: O(m)
+*/
 /**
  * // This is the interface that allows for creating nested lists.
  * // You should not implement it, or speculate about its implementation
@@ -16,44 +22,44 @@
  * };
  */
 class NestedIterator {
+private:
+    stack<vector<NestedInteger>::iterator> beginStack, endStack;
+    
 public:
     NestedIterator(vector<NestedInteger> &nestedList) {
-        ans.clear();
-        idx = 0;
-        if(!nestedList.size())
+        if(nestedList.size() == 0){
             return ;
-        int n = nestedList.size();
-        for(int i = 0; i < n; ++ i){
-            if(nestedList[i].isInteger())
-                ans.push_back(nestedList[i].getInteger());
-            else{
-                dfs(nestedList[i].getList());
-            }
         }
+        
+        beginStack.push(nestedList.begin());
+        endStack.push(nestedList.end());
     }
 
     int next() {
-        return ans[idx ++];
+        hasNext();
+        return (beginStack.top() ++ )->getInteger();
     }
 
     bool hasNext() {
-        return idx < ans.size();
-    }
-    
-private:
-    void dfs(vector<NestedInteger> &nestedList){
-        int n = nestedList.size();
-        for(int i = 0; i < n; ++ i){
-            if(nestedList[i].isInteger())
-                ans.push_back(nestedList[i].getInteger());
-            else{
-                dfs(nestedList[i].getList());
+        while(!beginStack.empty()) {
+            if(beginStack.top() == endStack.top()){
+                beginStack.pop();
+                endStack.pop();
+            } else {
+                auto it = beginStack.top();
+                if(it->isInteger()){
+                    return true;
+                }
+                
+                ++ beginStack.top();
+                beginStack.push(it->getList().begin());
+                endStack.push(it->getList().end());
             }
         }
+        
+        return false;
     }
-
-    vector<int> ans;
-    int idx;
+    
 };
 
 /**
