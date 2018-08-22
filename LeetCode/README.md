@@ -417,3 +417,4 @@
 * Merge Interval: [Problem](https://leetcode.com/problems/merge-intervals);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_merge-intervals.cpp).
 * Find Peak Element: [Problem](https://leetcode.com/problems/find-peak-element);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-peak-element.cpp).
 * Next Permutation: [Problem](https://leetcode.com/problems/next-permutation);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_next-permutation.cpp).
+* Flattern Nested List Iterator: [Problem](https://leetcode.com/problems/flatten-nested-list-iterator);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flatten-nested-list-iterator.cpp). 
