@@ -1,41 +1,54 @@
 /*
 *
 * Tag: Data Structure
-* Time: O(n)
+* Time: Get: O(1); Put: O(1)
 * Space: O(n)
 */
-class LRUCache{
+class LRUCache {
+private:
+    unordered_map<int,list<pair<int,int>>::iterator> dictionary;
+    list<pair<int,int>> cache;
+    int capacity;
 public:
-    LRUCache(int capacity) {
-        dict.clear();
-        cap = capacity;
+    LRUCache(int _capacity) {
+        dictionary.clear();
+        capacity = _capacity;
     }
     
     int get(int key) {
-        if(dict.find(key) == dict.end())
+        if(dictionary.count(key) == 0){
             return -1;
-        list<pair<int,int>>::iterator it = dict[key];
-        cache.push_front(*it);
+        }
+        
+        auto it = dictionary[key];
+        int value = it->second;
+        
         cache.erase(it);
-        dict[key] = cache.begin();
-        return it->second;
+        cache.push_front(make_pair(key, value));
+        dictionary[key] = cache.begin();
+        
+        return value;
     }
     
-    void set(int key, int value) {
-        if(dict.find(key) == dict.end()){
-            while(dict.size() >= cap){
-                dict.erase(cache.crbegin()->first);
+    void put(int key, int value) {
+        if(dictionary.count(key) == 0){
+            while(cache.size() >= capacity){
+                dictionary.erase(cache.back().first);
                 cache.pop_back();
             }
-        }else{
-            cache.erase(dict[key]);
+        } else {
+            cache.erase(dictionary[key]);
         }
         
         cache.push_front(make_pair(key, value));
-        dict[key] = cache.begin();
+        dictionary[key] = cache.begin();
+        return ;
     }
-private:
-    unordered_map<int,list<pair<int,int>>::iterator> dict;
-    list<pair<int,int>> cache;
-    int cap;
 };
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache obj = new LRUCache(capacity);
+ * int param_1 = obj.get(key);
+ * obj.put(key,value);
+ */
