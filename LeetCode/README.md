@@ -417,4 +417,17 @@
 * Merge Interval: [Problem](https://leetcode.com/problems/merge-intervals);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_merge-intervals.cpp).
 * Find Peak Element: [Problem](https://leetcode.com/problems/find-peak-element);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-peak-element.cpp).
 * Next Permutation: [Problem](https://leetcode.com/problems/next-permutation);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_next-permutation.cpp).
-* Flattern Nested List Iterator: [Problem](https://leetcode.com/problems/flatten-nested-list-iterator);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flatten-nested-list-iterator.cpp). 
+* Flatten Nested List Iterator: [Problem](https://leetcode.com/problems/flatten-nested-list-iterator);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flatten-nested-list-iterator.cpp). 
+* Summary Ranges: [Problem](https://leetcode.com/problems/summary-ranges);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_summary-ranges.cpp).
+* Remove Duplicate Letters: [Problem](https://leetcode.com/problems/remove-duplicate-letters);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-duplicate-letters.cpp).
+* Fraction to Recurring Decimal: [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_fraction-to-recurring-decimal.cpp).
+* Word Break II: [Problem](https://leetcode.com/problems/word-break-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_word-break-ii.cpp).
+* Search a 2D Matrix II: [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_search-a-2d-matrix-ii.cpp).
+* Excel Sheet Column Title: [Problem](https://leetcode.com/problems/excel-sheet-column-title);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_excel-sheet-column-title.cpp).
+* Minimum Window Substring: [Problem](https://leetcode.com/problems/minimum-window-substring);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-window-substring.cpp).
+* Search in Rotated Sorted Array: [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_search-in-rotated-sorted-array.cpp).
+* Word Search: [Problem](https://leetcode.com/problems/word-search);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_word-search.cpp).
+* Word Ladder: [Problem](https://leetcode.com/problems/word-ladder);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_word-ladder.cpp).
+* Lowest Common Ancestor of a Binary Tree: [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_lowest-common-ancestor-of-a-binary-tree.cpp).
+* Lowest Common Ancestor of a Binary Search Tree: [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_lowest-common-ancestor-of-a-binary-search-tree.cpp).
+* Median of Two Sorted Arrays: [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_median-of-two-sorted-arrays.cpp).
