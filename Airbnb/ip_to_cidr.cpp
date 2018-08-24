@@ -37,6 +37,11 @@ public:
         
         while(n > 0){
             long step = ipCode & -ipCode;
+            
+            if(step == 0){
+                step = 1L<<32;
+            }
+            
             while(step > n){
                 step >>= 1;
             }
