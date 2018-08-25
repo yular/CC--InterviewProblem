@@ -1,7 +1,8 @@
 /*
-* Alogrithm: Brute force
-* Time complexity: O(n)
-* Memory complexity: O(n)
+*
+* Tag: Brute force
+* Time: O(n)
+* Space: O(1)
 */
 /**
  * Definition for singly-linked list.
@@ -15,8 +16,10 @@ class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
         ListNode *fast = head, *slow = head;
-        if(head == NULL || head->next == NULL)
+        if(head == NULL || head->next == NULL) {
             return NULL;
+        }
+        
         while(fast && fast->next){
             fast = fast->next->next;
             slow = slow->next;
@@ -29,6 +32,7 @@ public:
                 return slow;
             }
         }
+        
         return NULL;
     }
 };
