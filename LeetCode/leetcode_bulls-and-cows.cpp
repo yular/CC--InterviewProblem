@@ -2,15 +2,14 @@
 *
 * Tag: Hash
 * Time: O(n)
-* Space: O(n)
+* Space: O(1)
 */
 class Solution {
 public:
     string getHint(string secret, string guess) {
         int cntb = 0, cntc = 0;
-       // string ans;
-        int vis[10];
-        memset(vis, 0, sizeof(vis));
+
+        vector<int> vis(10, 0);
         for(int i = 0; i < secret.size(); ++ i){
             ++ vis[secret[i] - '0'];
         }
@@ -29,23 +28,8 @@ public:
                 }
             }
         }
-        string ans = "";
-        ans += getVal(cntb);
-        ans += "A";
-        ans += getVal(cntc);
-        ans += "B";
+        
+        string ans = to_string(cntb) + "A" + to_string(cntc) + "B";
         return ans;
-    }
-private:
-    string getVal(int val){
-        string res = "";
-        if(!val)
-            return "0";
-        while(val){
-            res += ((val%10)+'0');
-            val /= 10;
-        }
-        reverse(res.begin(), res.end());
-        return res;
     }
 };
