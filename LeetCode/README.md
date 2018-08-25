@@ -434,3 +434,7 @@
 * Basic Calculator : [Problem](https://leetcode.com/problems/basic-calculator);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_basic-calculator.cpp).
 * Binary Tree Inorder Traversal: [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-tree-inorder-traversal.cpp).
 * Climbing Stairs: [Problem](https://leetcode.com/problems/climbing-stairs);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_climbing-stairs.cpp).
+* Coin Change: [Problem](https://leetcode.com/problems/coin-change);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_coin-change.cpp).
+* Combination Sum: [Problem](https://leetcode.com/problems/combination-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_combination-sum.cpp).
+* Construct Binary Tree from Preorder and Inorder Traversal: [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_construct-binary-tree-from-preorder-and-inorder-traversal.cpp).
+* Jump Game: [Problem](https://leetcode.com/problems/jump-game);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_jump-game.cpp).
