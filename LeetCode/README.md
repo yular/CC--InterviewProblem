@@ -439,3 +439,11 @@
 * Construct Binary Tree from Preorder and Inorder Traversal: [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_construct-binary-tree-from-preorder-and-inorder-traversal.cpp).
 * Jump Game: [Problem](https://leetcode.com/problems/jump-game);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_jump-game.cpp).
 * Majority Element: [Problem](https://leetcode.com/problems/majority-element);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_majority-element.cpp).
+* Longest Palindromic Substring: [Problem](https://leetcode.com/problems/longest-palindromic-substring);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-palindromic-substring.cpp).
+* Longest Increasing Subsequence: [Problem](https://leetcode.com/problems/longest-increasing-subsequence);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-increasing-subsequence.cpp).
+* Maximum Subarray: [Problem](https://leetcode.com/problems/maximum-subarray);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-subarray.cpp).
+* Minimum Path Sum: [Problem](https://leetcode.com/problems/minimum-path-sum);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-path-sum.cpp).
+* Search Insert Position: [Problem](https://leetcode.com/problems/search-insert-position);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_search-insert-position.cpp).
+* Remove Nth Node from End of List: [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-nth-node-from-end-of-list.cpp).
+* Sort Colors: [Problem](https://leetcode.com/problems/sort-colors);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sort-colors.cpp).
+* Validate Binary Search Tree: [Problem](https://leetcode.com/problems/validate-binary-search-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_validate-binary-search-tree.cpp).
