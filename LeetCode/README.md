@@ -438,3 +438,4 @@
 * Combination Sum: [Problem](https://leetcode.com/problems/combination-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_combination-sum.cpp).
 * Construct Binary Tree from Preorder and Inorder Traversal: [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_construct-binary-tree-from-preorder-and-inorder-traversal.cpp).
 * Jump Game: [Problem](https://leetcode.com/problems/jump-game);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_jump-game.cpp).
+* Majority Element: [Problem](https://leetcode.com/problems/majority-element);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_majority-element.cpp).
