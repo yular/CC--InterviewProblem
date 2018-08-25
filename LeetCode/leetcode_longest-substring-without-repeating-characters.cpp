@@ -1,6 +1,6 @@
 /*
 *
-* Tag: Brute Force
+* Tag: Two Pointers
 * Time: O(n)
 * Space: O(1)
 */
@@ -8,8 +8,10 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int ans = 0, len = 0;
-        if(!s.size())
+        if(!s.size()) {
             return ans;
+        }
+        
         vector<bool> vis(300, false);
         for(int i = 0, j = 0; j < s.size(); ){
             if(!vis[(int)s[j]]){
@@ -23,6 +25,7 @@ public:
             }
             ans = max(ans, len);
         }
+        
         return ans;
     }
 };
