@@ -1,8 +1,8 @@
 /*
 *
-* Tag: Data Structure
-* Time: O(klgk)
-* Space: O(k)
+* Tag: Data Structure (Heap)
+* Time: O(nlgn) where n is the number of cells in the matrix.
+* Space: O(n)
 */
 class Solution {
 private:
@@ -20,12 +20,14 @@ public:
         node cur, nxt;
         cur.r = cur.c = 0, cur.val = matrix[0][0];
         pq.push(cur);
+        
         vis[0][0] = true;
-        while(k){
+        while(k > 0){
             cur = pq.top();
             pq.pop();
             ans = cur.val;
             -- k;
+            
             int r = cur.r, c = cur.c;
             if(r + 1 < matrix.size() && !vis[r + 1][c]){
                 nxt.r = r + 1, nxt.c = c, nxt.val = matrix[r + 1][c];
@@ -38,6 +40,7 @@ public:
                 pq.push(nxt);
             }
         }
+        
         return ans;
     }
 };
