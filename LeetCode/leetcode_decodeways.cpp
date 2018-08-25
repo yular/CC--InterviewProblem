@@ -1,7 +1,8 @@
 /*
-* Algorithm: Brute force, Implementation
-* Time complexity: O(len(s))
-* Memory complexity: O(1)
+*
+* Tag: DP
+* Time: O(n)
+* Space: O(1)
 */
 class Solution {
 public:
