@@ -5,8 +5,11 @@
 * Space: O(n^2)
 */
 class NumMatrix {
+private:
+    vector<vector<int>> mtx;
+    vector<vector<int>> sumMtx;
 public:
-    NumMatrix(vector<vector<int>> &matrix) {
+    NumMatrix(vector<vector<int>> matrix) {
         if(matrix.size() == 0)
             return ;
         mtx.resize(matrix.size() + 1);
@@ -46,6 +49,7 @@ public:
         else
             return sum(row2, col2, mtx[0].size()) - sum(row2, col1 - 1, mtx[0].size()) - sum(row1 - 1, col2, mtx[0].size()) + sum(row1 - 1, col1 - 1, mtx[0].size());
     }
+    
 private:
     void add(int startRow, int startCol, int endRow, int endCol, int val){
         for(int i = startRow; i <= endRow; i += lowbit(i)){
@@ -75,7 +79,4 @@ private:
     int lowbit(int x){
         return x&-x;
     }
-private:
-vector<vector<int>> mtx;
-vector<vector<int>> sumMtx;
 };
