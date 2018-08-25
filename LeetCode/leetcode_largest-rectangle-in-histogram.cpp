@@ -1,6 +1,6 @@
 /*
 *
-* Tag: Data Structure
+* Tag: Data Structure (Stack)
 * Time: O(n)
 * Space: O(n)
 */
