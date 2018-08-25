@@ -1,6 +1,6 @@
 /*
 *
-* Tag: Implementation
+* Tag: Implementation + Design
 * Time: O(n)
 * Space: O(n^2)
 */
@@ -55,11 +55,14 @@ int dir[8][2] = {{1,0},{-1,0},{0,1},{0,-1},{1,1},{-1,-1},{1,-1},{-1,1}};
 
 /*
 *
-* Tag: Implementation
+* Tag: Hash + Design
 * Time: O(1)
 * Space: O(n)
 */
 class TicTacToe {
+private:
+    vector<int> rows, cols;
+    int bnd, diag, antidiag;
 public:
     /** Initialize your data structure here. */
     TicTacToe(int n) {
@@ -69,6 +72,14 @@ public:
         bnd = n;
     }
     
+    /** Player {player} makes a move at ({row}, {col}).
+        @param row The row of the board.
+        @param col The column of the board.
+        @param player The player, can be either 1 or 2.
+        @return The current winning condition, can be either:
+                0: No one wins.
+                1: Player 1 wins.
+                2: Player 2 wins. */
     int move(int row, int col, int player) {
         int res = 0;
         int add = player == 1?1:-1;
@@ -80,8 +91,4 @@ public:
             res = player == 1?1:2;
         return res;
     }
-private:
-vector<int> rows, cols;
-int bnd, diag, antidiag;
 };
-
