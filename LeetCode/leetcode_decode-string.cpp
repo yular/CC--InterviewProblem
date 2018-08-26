@@ -59,5 +59,7 @@ private:
         for(int i = 0; i < frequency; ++ i){
             s += addedS;
         }
+        
+        return ;
     }
 };
