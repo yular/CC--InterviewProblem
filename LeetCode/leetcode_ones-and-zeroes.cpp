@@ -8,8 +8,10 @@ class Solution {
 public:
     int findMaxForm(vector<string>& strs, int m, int n) {
         int ans = 0;
-        if(strs.size() == 0 || (m == 0 && n == 0))
+        if(strs.size() == 0 || (m == 0 && n == 0)){
             return ans;
+        }
+        
         vector<vector<int>> dp(m + 1, vector<int>(n + 1, 0));
         pair<int,int> digitnum;
         int nxt_i = 0, nxt_j = 0;
@@ -25,16 +27,18 @@ public:
                 }
             }
         }
+        
         return ans;
     }
 private:
     void getOneZeroNum(string strs, pair<int,int> &digitnum){
         digitnum.first  = digitnum.second = 0;
         for(int i = 0; i < strs.size(); ++ i){
-            if(strs[i] == '0')
+            if(strs[i] == '0') {
                 ++ digitnum.first;
-            else
+            } else {
                 ++ digitnum.second;
+            }
         }
     }
 };
