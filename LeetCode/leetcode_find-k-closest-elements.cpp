@@ -1,8 +1,8 @@
 /*
 *
-* Tag: 
+* Tag: Binary Search + Two Pointers
 * Time: O(nlgn)
-* Space: O(1)
+* Space: O(n)
 */
 class Solution {
 public:
@@ -31,27 +31,26 @@ public:
                 ans[i] = arr[rightForwardPtr];
                 ++ rightForwardPtr;
             }
+            
         }
         
         sort(ans.begin(), ans.end());
+        
         return ans;
     }
+    
 private:
     int findStartIndex(vector<int>& arr, int x){
         int l = 0, r = arr.size() - 1;
         while(l < r){
             int mid = (l + r)>>1;
-            if(arr[mid] == x){
-                return mid;
-            } else if(l == mid){
-                break;
-            } else if(arr[mid] < x){
-                l = mid;
+            if(arr[mid] < x){
+                l = mid + 1;
             } else {
-                r = mid - 1;
+                r = mid;
             }
         }
         
-        return l;
+        return arr[l] == x ? l : l - 1;
     }
 };
