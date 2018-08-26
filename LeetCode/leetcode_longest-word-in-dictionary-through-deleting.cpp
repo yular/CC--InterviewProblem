@@ -8,8 +8,10 @@ class Solution {
 public:
     string findLongestWord(string s, vector<string>& d) {
         string ans = "";
-        if(s.size() == 0 || d.size() == 0)
+        if(s.size() == 0 || d.size() == 0) {
             return ans;
+        }
+        
         sort(d.begin(), d.end(), cmp);
         for(int i = 0; i < d.size(); ++ i){
             if(checkLongestWord(s, d[i])){
@@ -19,6 +21,7 @@ public:
         }
         return ans;
     }
+    
 private:
     bool checkLongestWord(string s, string t){
         int si = 0, ti = 0;
@@ -29,11 +32,10 @@ private:
         }
         return ti >= t.size();
     }
+    
     struct sortcmp {
       bool operator() (string a, string b) { 
-          if(a.size() == b.size())
-            return a < b;
-          return b.size() < a.size();
+          return a.size() == b.size() ? a < b : b.size() < a.size();
       }
     } cmp;
 };
