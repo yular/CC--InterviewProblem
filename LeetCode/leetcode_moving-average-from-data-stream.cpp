@@ -1,4 +1,14 @@
+/*
+*
+* Tag: Data Structure
+* Time: O(1)
+* Space: O(n)
+*/
 class MovingAverage {
+private:
+    vector<int> arr;
+    int id;
+    int sum, n;
 public:
     /** Initialize your data structure here. */
     MovingAverage(int size) {
@@ -10,25 +20,17 @@ public:
     
     double next(int val) {
         if(n < arr.size()){
-            arr[id ++] = val;
+            arr[id] = val;
+            id = (id + 1)%arr.size();
             sum += val;
             ++ n;
         }else{
-            id = (id + 1)%n;
             sum -= arr[id];
             arr[id] = val;
             sum += val;
+            id = (id + 1)%arr.size();
         }
+        
         return (double)sum/(double)n;
     }
-private:
-vector<int> arr;
-int id;
-int sum, n;
 };
-
-/**
- * Your MovingAverage object will be instantiated and called as such:
- * MovingAverage obj = new MovingAverage(size);
- * double param_1 = obj.next(val);
- */
