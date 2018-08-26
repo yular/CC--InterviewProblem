@@ -8,8 +8,10 @@ class Solution {
 public:
     int maxProduct(vector<string>& words) {
         int ans = 0;
-        if(words.size() < 2)
+        if(words.size() < 2) {
             return ans;
+        }
+        
         int n = words.size();
         vector<int> val(n);
         for(int i = 0; i < n; ++ i){
@@ -18,6 +20,7 @@ public:
                 val[i] |= (1<<k);
             }
         }
+        
         for(int i = 0; i < n - 1; ++ i){
             for(int j = i + 1; j < n; ++ j){
                 if((val[i]&val[j]) == 0){
@@ -25,6 +28,7 @@ public:
                 }
             }
         }
+        
         return ans;
     }
 };
