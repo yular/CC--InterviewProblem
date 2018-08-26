@@ -5,50 +5,59 @@
 * Space: O(n)
 */
 class Solution {
+private:
+    stack<string> strStack;
+    stack<int> numStack;
 public:
     string decodeString(string s) {
-        if(!s.size())
+        if(!s.size()) {
             return s;
-        string res = "", t = "[" + s + "]", tmpstr = "", tmpres = "";
-        int cnt = -1, n = s.size() + 2, strcnt = 0;
-        cout<<t<<endl;
-        for(int i = 0; i < n; ++ i){
-            if(t[i] == '['){
-                cnt = cnt < 0?1:cnt;
-                cntstk.push(cnt);
-                cnt = -1;
-            }else if(t[i] >= '0' && t[i] <= '9'){
-                cnt = cnt < 0?0:cnt;
-                cnt = cnt*10 + (t[i] - '0');
-                if(tmpstr.size() > 0){
-                    strstk.push(tmpstr);
-                    tmpstr = "";
-                }
-            }else if(t[i] == ']'){
-                strstk.push(tmpstr);
-                while(i < n && t[i] == ']'){
-                    strcnt = cntstk.top();
-                    cntstk.pop();
-                    tmpstr = strstk.top();
-                    strstk.pop();
-                    tmpres = "";
-                    for(int j = 0; j < strcnt; ++ j)
-                        tmpres += tmpstr;
-                    tmpres = strstk.empty()?tmpres : strstk.top() + tmpres;
-                    if(!strstk.empty())
-                        strstk.pop();
-                    strstk.push(tmpres);
+        }
+        
+        s = "["+ s +"]";
+        strStack.push("");
+        numStack.push(1);
+        for(int i = 0; i < s.size(); ++ i) {
+            if(s[i] == '[') {
+                strStack.push("");
+                continue;
+            }
+            
+            if(s[i] >= '0' && s[i] <= '9'){
+                string num = "";
+                while(i < s.size() && s[i] >= '0' && s[i] <= '9') {
+                    num += s[i];
                     ++ i;
                 }
-                tmpstr = "";
-                -- i;
-            }else{
-                tmpstr += t[i];
+                --i;
+                
+                numStack.push(stoi(num));
+            } else if(s[i] == ']') {
+                string curStr = strStack.top();
+                strStack.pop();
+                int strFrequency = numStack.top();
+                numStack.pop();
+                
+                string lastStr = strStack.top();
+                strStack.pop();
+                appendString(lastStr, curStr, strFrequency);
+                strStack.push(lastStr);
+            } else {
+                string curStr = strStack.top();
+                strStack.pop();
+                
+                curStr += s[i];
+                strStack.push(curStr);
             }
         }
-        return strstk.top();
+        
+        return strStack.top();
     }
+
 private:
-    stack<int> cntstk;
-    stack<string> strstk;
+    void appendString(string &s, string addedS, int frequency) {
+        for(int i = 0; i < frequency; ++ i){
+            s += addedS;
+        }
+    }
 };
