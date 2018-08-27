@@ -475,3 +475,5 @@
 * Max Product Subarray: [Problem](https://leetcode.com/problems/maximum-product-subarray);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-product-subarray.cpp).
 * Maximum Depth of N-ary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-depth-of-n-ary-tree.cpp).
 * Maximum Frequency Stack: [Problem](https://leetcode.com/problems/maximum-frequency-stack);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-frequency-stack.cpp).
+* Palindrome Partitioning: [Problem](https://leetcode.com/problems/palindrome-partitioning);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_palindrome-partitioning.cpp).
+* Gas Station: [Problem](https://leetcode.com/problems/gas-station);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_gas-station.cpp).
