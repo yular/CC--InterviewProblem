@@ -470,3 +470,8 @@
 * Palindrome Permutation: [Problem](https://leetcode.com/problems/palindrome-permutation);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_palindrome-permutation.cpp).
 * Rearrange String K Distance Apart: [Problem](https://leetcode.com/problems/rearrange-string-k-distance-apart);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rearrange-string-k-distance-apart.cpp).
 * Reconstruct Itinerary: [Problem](https://leetcode.com/problems/reconstruct-itinerary);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_reconstruct-itinerary.cpp).
+* Find the Duplicate Number: [Problem](https://leetcode.com/problems/find-the-duplicate-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-the-duplicate-number.cpp).
+* Best Time to Buy and Sell Stock with Cooldown: [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_best-time-to-buy-and-sell-stock-with-cooldown.cpp).
+* Max Product Subarray: [Problem](https://leetcode.com/problems/maximum-product-subarray);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-product-subarray.cpp).
+* Maximum Depth of N-ary Tree: [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-depth-of-n-ary-tree.cpp).
+* Maximum Frequency Stack: [Problem](https://leetcode.com/problems/maximum-frequency-stack);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-frequency-stack.cpp).
