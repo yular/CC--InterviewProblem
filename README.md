@@ -21,4 +21,3 @@ The solution of algorithm problems from various programming oline judges, includ
 * BST: Insert a new node: [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_insert-into-a-binary-search-tree.cpp).
 
 * Binary Search: Use boundary as answer instead of middle: [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_kth-smallest-number-in-multiplication-table.cpp).
-
