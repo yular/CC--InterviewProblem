@@ -491,3 +491,4 @@
 * Monotonic Array: [Problem](https://leetcode.com/problems/monotonic-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_monotonic-array.cpp).
 * Path Sum IV: [Problem](https://leetcode.com/problems/path-sum-iv);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_path-sum-iv.cpp).
 * Smallest Range I: [Problem](https://leetcode.com/problems/smallest-range-i);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_smallest-range-i.cpp).
+* Number of Recent Calls: [Problem](https://leetcode.com/problems/number-of-recent-calls);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-recent-calls.cpp).
