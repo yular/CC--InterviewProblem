@@ -492,3 +492,4 @@
 * Smallest Range I: [Problem](https://leetcode.com/problems/smallest-range-i);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_smallest-range-i.cpp).
 * Number of Recent Calls: [Problem](https://leetcode.com/problems/number-of-recent-calls);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-recent-calls.cpp).
 * Number of Lines to Write String: [Problem](https://leetcode.com/problems/number-of-lines-to-write-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-lines-to-write-string.cpp).
+* Long Pressed Name: [Problem](https://leetcode.com/problems/long-pressed-name);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_long-pressed-name.cpp).
