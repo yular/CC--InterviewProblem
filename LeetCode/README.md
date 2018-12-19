@@ -496,3 +496,4 @@
 * Fair Candy Swap: [Problem](https://leetcode.com/problems/fair-candy-swap);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_fair-candy-swap.cpp).
 * Minimum Falling Path Sum: [Problem](https://leetcode.com/problems/minimum-falling-path-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-falling-path-sum.cpp).
 * Unique Email Addresses: [Problem](https://leetcode.com/problems/unique-email-addresses);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_unique-email-addresses.cpp).
+* Rotate String: [Problem](https://leetcode.com/problems/rotate-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rotate-string.cpp).
