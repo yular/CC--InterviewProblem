@@ -500,3 +500,4 @@
 * Rotate String: [Problem](https://leetcode.com/problems/rotate-string);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rotate-string.cpp).
 * Self Dividing Numbers: [Problem](https://leetcode.com/problems/self-dividing-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_self-dividing-numbers.cpp).
 * Valid Stack Sequences: [Problem](https://leetcode.com/problems/validate-stack-sequences);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_validate-stack-sequences.cpp).
+* Max Increase to Keep City Skyline: [Problem](https://leetcode.com/problems/max-increase-to-keep-city-skyline);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-increase-to-keep-city-skyline.cpp).
