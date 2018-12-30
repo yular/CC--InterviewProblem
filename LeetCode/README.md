@@ -1,6 +1,5 @@
 # LeetCode    
 
-
 ## Algorithm
 * Range Sum Query - Mutable: [Problem](https://leetcode.com/problems/range-sum-query-mutable/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_range-sum-query-mutable.cpp).
 * Range Sum Query 2D - Mutable: [Problem](https://leetcode.com/problems/range-sum-query-2d-mutable/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_range-sum-query-2d-mutable.cpp).
@@ -502,3 +501,4 @@
 * Valid Stack Sequences: [Problem](https://leetcode.com/problems/validate-stack-sequences);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_validate-stack-sequences.cpp).
 * Max Increase to Keep City Skyline: [Problem](https://leetcode.com/problems/max-increase-to-keep-city-skyline);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-increase-to-keep-city-skyline.cpp).
 * To Lower Case: [Problem](https://leetcode.com/problems/to-lower-case);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_to-lower-case.cpp).
+* Boats to Save People: [Problem](https://leetcode.com/problems/boats-to-save-people);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_boats-to-save-people.cpp).
