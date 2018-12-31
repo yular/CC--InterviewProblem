@@ -502,3 +502,4 @@
 * Max Increase to Keep City Skyline: [Problem](https://leetcode.com/problems/max-increase-to-keep-city-skyline);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-increase-to-keep-city-skyline.cpp).
 * To Lower Case: [Problem](https://leetcode.com/problems/to-lower-case);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_to-lower-case.cpp).
 * Boats to Save People: [Problem](https://leetcode.com/problems/boats-to-save-people);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_boats-to-save-people.cpp).
+* Minimum Add to Make Parentheses Valid: [Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-add-to-make-parentheses-valid.cpp).
