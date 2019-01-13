@@ -510,3 +510,4 @@
 * All Nodes Distance K in Binary Tree: [Problem](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_all-nodes-distance-k-in-binary-tree.cpp).
 * Sum of Squre Numbers: [Problem](https://leetcode.com/problems/sum-of-square-numbers);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sum-of-square-numbers.cpp).
 * Lemonade Change: [Problem](https://leetcode.com/problems/lemonade-change);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_lemonade-change.cpp).
+* K Closest Points to Origin: [Problem](https://leetcode.com/problems/k-closest-points-to-origin);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_k-closest-points-to-origin.cpp).
