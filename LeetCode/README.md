@@ -1,6 +1,5 @@
 # LeetCode    
 
-
 ## Algorithm
 * Range Sum Query - Mutable: [Problem](https://leetcode.com/problems/range-sum-query-mutable/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_range-sum-query-mutable.cpp).
 * Range Sum Query 2D - Mutable: [Problem](https://leetcode.com/problems/range-sum-query-2d-mutable/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_range-sum-query-2d-mutable.cpp).
@@ -516,3 +515,4 @@
 * Design Circular Deque: [Problem](https://leetcode.com/problems/design-circular-deque);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-circular-deque.cpp).
 * Split Linked List in Parts: [Problem](https://leetcode.com/problems/split-linked-list-in-parts);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_split-linked-list-in-parts.cpp).
 * Fibonacci Number: [Problem](https://leetcode.com/problems/fibonacci-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_fibonacci-number.cpp).
+* Design Circular Queue: [Problem](https://leetcode.com/problems/design-circular-queue);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-circular-queue.cpp).
