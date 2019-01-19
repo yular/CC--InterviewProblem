@@ -518,3 +518,5 @@
 * Fibonacci Number: [Problem](https://leetcode.com/problems/fibonacci-number);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_fibonacci-number.cpp).
 * Design Circular Queue: [Problem](https://leetcode.com/problems/design-circular-queue);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-circular-queue.cpp).
 * Minimum ASCII Delete Sum for Two Strings: [Problem](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-ascii-delete-sum-for-two-strings.cpp).
+* Complete Binary Tree Inserter: [Problem](https://leetcode.com/problems/complete-binary-tree-inserter);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_complete-binary-tree-inserter.cpp).
+* Projection Area of 3D Shapes: [Problem](https://leetcode.com/problems/projection-area-of-3d-shapes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_projection-area-of-3d-shapes.cpp).
