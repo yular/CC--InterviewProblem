@@ -520,3 +520,5 @@
 * Minimum ASCII Delete Sum for Two Strings: [Problem](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-ascii-delete-sum-for-two-strings.cpp).
 * Complete Binary Tree Inserter: [Problem](https://leetcode.com/problems/complete-binary-tree-inserter);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_complete-binary-tree-inserter.cpp).
 * Projection Area of 3D Shapes: [Problem](https://leetcode.com/problems/projection-area-of-3d-shapes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_projection-area-of-3d-shapes.cpp).
+* Word Sets: [Problem](https://leetcode.com/problems/word-subsets);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_word-subsets.cpp).
+* Squares of A Sorted Array: [Problem](https://leetcode.com/problems/squares-of-a-sorted-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_squares-of-a-sorted-array.cpp).
