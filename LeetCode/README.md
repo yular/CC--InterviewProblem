@@ -526,3 +526,4 @@
 * Surface Area of 3D Shapes: [Problem](https://leetcode.com/problems/surface-area-of-3d-shapes);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_surface-area-of-3d-shapes.cpp).
 * Sort Array by Parity II: [Problem](https://leetcode.com/problems/sort-array-by-parity-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sort-array-by-parity-ii.cpp).
 * Increasing Order Search Tree: [Problem](https://leetcode.com/problems/increasing-order-search-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_increasing-order-search-tree.cpp).
+* Fruit into Baskets: [Problem](https://leetcode.com/problems/fruit-into-baskets);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_fruit-into-baskets.cpp).
