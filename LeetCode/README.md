@@ -528,3 +528,4 @@
 * Sort Array by Parity II: [Problem](https://leetcode.com/problems/sort-array-by-parity-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sort-array-by-parity-ii.cpp).
 * Increasing Order Search Tree: [Problem](https://leetcode.com/problems/increasing-order-search-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_increasing-order-search-tree.cpp).
 * Fruit into Baskets: [Problem](https://leetcode.com/problems/fruit-into-baskets);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_fruit-into-baskets.cpp).
+* Longest Continouss Increasing Subsequence: [Problem](https://leetcode.com/problems/longest-continuous-increasing-subsequence);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-continuous-increasing-subsequence.cpp).
