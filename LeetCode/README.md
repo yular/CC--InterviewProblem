@@ -529,3 +529,4 @@
 * Increasing Order Search Tree: [Problem](https://leetcode.com/problems/increasing-order-search-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_increasing-order-search-tree.cpp).
 * Fruit into Baskets: [Problem](https://leetcode.com/problems/fruit-into-baskets);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_fruit-into-baskets.cpp).
 * Longest Continouss Increasing Subsequence: [Problem](https://leetcode.com/problems/longest-continuous-increasing-subsequence);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-continuous-increasing-subsequence.cpp).
+* Find and Replace Pattern: [Problem](https://leetcode.com/problems/find-and-replace-pattern);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-and-replace-pattern.cpp).
