@@ -530,4 +530,5 @@
 * Longest Continouss Increasing Subsequence: [Problem](https://leetcode.com/problems/longest-continuous-increasing-subsequence);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-continuous-increasing-subsequence.cpp).
 * Find and Replace Pattern: [Problem](https://leetcode.com/problems/find-and-replace-pattern);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-and-replace-pattern.cpp).
 * Inorder Successor in BST II: [Problem](https://leetcode.com/problems/inorder-successor-in-bst-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_inorder-successor-in-bst-ii.cpp).
-* Smallest String Starting from Leaf: [Problem](https://leetcode.com/problemssmallest-string-starting-from-leaf);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_smallest-string-starting-from-leaf.cpp)
+* Smallest String Starting from Leaf: [Problem](https://leetcode.com/problems/smallest-string-starting-from-leaf);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_smallest-string-starting-from-leaf.cpp)
+* Transpose Matrix: [Problem](https://leetcode.com/problems/transpose-matrix);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_transpose-matrix.cpp).
