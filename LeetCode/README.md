@@ -535,3 +535,4 @@
 * Add to Array Form of Integer: [Problem](https://leetcode.com/problems/add-to-array-form-of-integer);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_add-to-array-form-of-integer.cpp).
 * Uncommon Words from Two Sentences: [Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_uncommon-words-from-two-sentences.cpp).
 * Interval List Intersections: [Problem](https://leetcode.com/problems/interval-list-intersections);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_interval-list-intersections.cpp).
+* Check Completeness of a Binary Tree: [Problem](https://leetcode.com/problems/check-completeness-of-a-binary-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_check-completeness-of-a-binary-tree.cpp).
