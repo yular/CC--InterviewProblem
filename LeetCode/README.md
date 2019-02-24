@@ -541,3 +541,4 @@
 * Find Pivot Index: [Problem](https://leetcode.com/problems/find-pivot-index);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-pivot-index.cpp).
 * Design Hashset: [Problem](https://leetcode.com/problems/design-hashset);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-hashset.cpp).
 * Smallest Range: [Problem](https://leetcode.com/problems/smallest-range);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_smallest-range.cpp)
+* Time Based Key Value Store: [Problem](https://leetcode.com/problems/time-based-key-value-store);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_time-based-key-value-store.cpp).
