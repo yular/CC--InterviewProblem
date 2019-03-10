@@ -543,3 +543,5 @@
 * Smallest Range: [Problem](https://leetcode.com/problems/smallest-range);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_smallest-range.cpp)
 * Time Based Key Value Store: [Problem](https://leetcode.com/problems/time-based-key-value-store);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_time-based-key-value-store.cpp).
 * Subarray Product Less Than K: [Problem](https://leetcode.com/problems/subarray-product-less-than-k);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_subarray-product-less-than-k.cpp).
+* Flatten a Multilevel Doubly Linked List: [Problem](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flatten-a-multilevel-doubly-linked-list.cpp).
+* Check if the Word is Valid after Substitutions: [Problem](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_check-if-word-is-valid-after-substitutions.cpp).
