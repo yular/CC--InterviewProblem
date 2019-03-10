@@ -545,3 +545,4 @@
 * Subarray Product Less Than K: [Problem](https://leetcode.com/problems/subarray-product-less-than-k);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_subarray-product-less-than-k.cpp).
 * Flatten a Multilevel Doubly Linked List: [Problem](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flatten-a-multilevel-doubly-linked-list.cpp).
 * Check if the Word is Valid after Substitutions: [Problem](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_check-if-word-is-valid-after-substitutions.cpp).
+* Available Captures for Rooks: [Problem](https://leetcode.com/problems/available-captures-for-rook);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_available-captures-for-rook.cpp).
