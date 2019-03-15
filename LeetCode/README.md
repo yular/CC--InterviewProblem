@@ -547,3 +547,4 @@
 * Check if the Word is Valid after Substitutions: [Problem](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_check-if-word-is-valid-after-substitutions.cpp).
 * Available Captures for Rooks: [Problem](https://leetcode.com/problems/available-captures-for-rook);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_available-captures-for-rook.cpp).
 * Score of Parentheses: [Problem](https://leetcode.com/problems/score-of-parentheses);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_score-of-parentheses.cpp)
+* Bag of Tokens: [Problem](https://leetcode.com/problems/bag-of-tokens);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_bag-of-tokens.cpp).
