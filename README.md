@@ -12,6 +12,7 @@ The solution of algorithm problems from various programming oline judges, includ
 * std:vector:= [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-all-anagrams-in-a-string.cpp).
 * std:istringstream:getline: [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_ip-to-cidr.cpp).
 * std:sort:custom cmp: [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-number.cpp).
+* std:sort:custom <: [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_vertical-order-traversal-of-a-binary-tree.cpp).
 * std:priority_queue cmp: [Code](https://github.com/yular/CC--InterviewProblem/edit/master/LeetCode/leetcode_kth-smallest-element-in-a-sorted-matrix.cpp).
 
 * DP: Optimization through accumulative sum: [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_new-21-game.cpp).
