@@ -551,3 +551,5 @@
 * Complement of Base 10 Integer: [Problem](https://leetcode.com/problems/complement-of-base-10-integer);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_complement-of-base-10-integer.cpp).
 * Largest Plus Sign: [Problem](https://leetcode.com/problems/largest-plus-sign);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-plus-sign.cpp)
 * Clumsy Factorial: [Problem](https://leetcode.com/problems/clumsy-factorial);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_clumsy-factorial.cpp).
+* Find Common Characters: [Problem](https://leetcode.com/problems/find-common-characters);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-common-characters.cpp).
+* Binary String with Substrings Representing 1 to N: [Problem](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-string-with-substrings-representing-1-to-n.cpp).
