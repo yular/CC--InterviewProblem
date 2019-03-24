@@ -550,3 +550,4 @@
 * Vertical Order Traversal of A Binary Tree: [Problem](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_vertical-order-traversal-of-a-binary-tree.cpp).
 * Complement of Base 10 Integer: [Problem](https://leetcode.com/problems/complement-of-base-10-integer);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_complement-of-base-10-integer.cpp).
 * Largest Plus Sign: [Problem](https://leetcode.com/problems/largest-plus-sign);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-plus-sign.cpp)
+* Clumsy Factorial: [Problem](https://leetcode.com/problems/clumsy-factorial);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_clumsy-factorial.cpp).
