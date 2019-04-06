@@ -560,3 +560,4 @@
 * Subarray Sums Divisible by K: [Problem](https://leetcode.com/problems/subarray-sums-divisible-by-k);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_subarray-sums-divisible-by-k.cpp)
 * Partition Array into Three Parts with Equal Sum: [Problem](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_partition-array-into-three-parts-with-equal-sum.cpp).
 * Maximum Binary Tree II: [Problem](https://leetcode.com/problems/maximum-binary-tree-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-binary-tree-ii.cpp).
+* Number of Enclaves: [Problem](https://leetcode.com/problems/number-of-enclaves);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-enclaves.cpp).
