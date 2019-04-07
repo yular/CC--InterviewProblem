@@ -561,3 +561,6 @@
 * Partition Array into Three Parts with Equal Sum: [Problem](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_partition-array-into-three-parts-with-equal-sum.cpp).
 * Maximum Binary Tree II: [Problem](https://leetcode.com/problems/maximum-binary-tree-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-binary-tree-ii.cpp).
 * Number of Enclaves: [Problem](https://leetcode.com/problems/number-of-enclaves);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-enclaves.cpp).
+* Binary Prefix Divisible by 5: [Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-prefix-divisible-by-5.cpp).
+* Masking Personal Information: [Problem](https://leetcode.com/problems/masking-personal-information);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_masking-personal-information.cpp).
+* Maximum Sum Circular Subarray: [Problem](https://leetcode.com/problems/maximum-sum-circular-subarray);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-sum-circular-subarray.cpp).
