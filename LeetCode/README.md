@@ -567,3 +567,4 @@
 * Camelcase Matching: [Problem](https://leetcode.com/problems/camelcase-matching);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_camelcase-matching.cpp).
 * Flip String to Monotone Increasing: [Problem](https://leetcode.com/problems/flip-string-to-monotone-increasing);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flip-string-to-monotone-increasing.cpp).
 * Next Greater Node in Linked List: [Problem](https://leetcode.com/problems/next-greater-node-in-linked-list);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_next-greater-node-in-linked-list.cpp).
+* Remove Outermost Parentheses: [Problem](https://leetcode.com/problems/remove-outermost-parentheses);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-outermost-parentheses.cpp).
