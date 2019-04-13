@@ -570,3 +570,4 @@
 * Remove Outermost Parentheses: [Problem](https://leetcode.com/problems/remove-outermost-parentheses);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-outermost-parentheses.cpp).
 * DI String Match: [Problem](https://leetcode.com/problems/di-string-match);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_di-string-match.cpp).
 * Monotone Increasing Digits: [Problem](https://leetcode.com/problems/monotone-increasing-digits);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_monotone-increasing-digits.cpp).
+* :Minimum Increment to Make Array Unique [Problem](https://leetcode.com/problems/minimum-increment-to-make-array-unique);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-increment-to-make-array-unique.cpp)
