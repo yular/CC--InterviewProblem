@@ -580,3 +580,4 @@
 * Valid Palindrome II: [Problem](https://leetcode.com/problems/valid-palindrome-ii);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_valid-palindrome-ii.cpp).
 * Shifting Letters: [Problem](https://leetcode.com/problems/shifting-letters);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shifting-letters.cpp).
 * Matrix Cells in Distance Order: [Problem](https://leetcode.com/problems/matrix-cells-in-distance-order);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_matrix-cells-in-distance-order.cpp)
+* Valid Boomerang: [Problem](https://leetcode.com/problems/valid-boomerang);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_valid-boomerang.cpp).
