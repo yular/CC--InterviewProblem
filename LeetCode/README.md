@@ -584,3 +584,4 @@
 * Valid Boomerang: [Problem](https://leetcode.com/problems/valid-boomerang);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_valid-boomerang.cpp).
 * Pairs of Songs with Total Durations Divisible by 60: [Problem](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_pairs-of-songs-with-total-durations-divisible-by-60.cpp).
 * Binary Search Tree to Greater Sum Tree: [Problem](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-search-tree-to-greater-sum-tree.cpp).
+* Longest Harmonious Subsequence: [Problem](https://leetcode.com/problems/longest-harmonious-subsequence);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-harmonious-subsequence.cpp)
