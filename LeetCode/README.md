@@ -587,3 +587,4 @@
 * Longest Harmonious Subsequence: [Problem](https://leetcode.com/problems/longest-harmonious-subsequence);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-harmonious-subsequence.cpp)
 * Two City Scheduling: [Problem](https://leetcode.com/problems/two-city-scheduling);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_two-city-scheduling.cpp).
 * Two Sum IV: Input is a BST: [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_two-sum-iv-input-is-a-bst.cpp).
+* Stream of Characters: [Problem](https://leetcode.com/problems/stream-of-characters/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_stream-of-characters.cpp).
