@@ -595,3 +595,4 @@
 * Connecting Cities with Minimum Cost: [Problem](https://leetcode.com/problems/connecting-cities-with-minimum-cost/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_connecting-cities-with-minimum-cost.cpp).
 * Sort An Array: [Problem](https://leetcode.com/problems/sort-an-array);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sort-an-array.cpp).
 * Maximum Average Subtree: [Problem](https://leetcode.com/problems/maximum-average-subtree);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-average-subtree.cpp).
+* Unique Number of Occurrences: [Problem](https://leetcode.com/problems/unique-number-of-occurrences);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_unique-number-of-occurrences.cpp)
