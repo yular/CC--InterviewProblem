@@ -604,3 +604,4 @@
 * Defanging an IP Address: [Problem](https://leetcode.com/problems/defanging-an-ip-address);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_defanging-an-ip-address.cpp).
 * Alphabet Board Path: [Problem](https://leetcode.com/problems/alphabet-board-path);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_alphabet-board-path.cpp).
 * Day of the Week: [Problem](https://leetcode.com/problems/day-of-the-week);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_day-of-the-week.cpp).
+* Count Vowels Permutation: [Problem](https://leetcode.com/problems/count-vowels-permutation/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-vowels-permutation.cpp).
