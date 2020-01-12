@@ -606,3 +606,7 @@
 * Day of the Week: [Problem](https://leetcode.com/problems/day-of-the-week);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_day-of-the-week.cpp).
 * Count Vowels Permutation: [Problem](https://leetcode.com/problems/count-vowels-permutation/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-vowels-permutation.cpp).
 * Number of Islands: [Problem](https://leetcode.com/problems/number-of-closed-islands);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-closed-islands.cpp).
+* Number of Valid Subarrays: [Problem](https://leetcode.com/problems/number-of-valid-subarrays);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-valid-subarrays.cpp).
+* Convert Binary Number in A Linked List to Integer: [Problem](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_convert-binary-number-in-a-linked-list-to-integer.cpp).
+* Sum of Nodes with Even Valued Grandparent: [Problem](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sum-of-nodes-with-even-valued-grandparent.cpp).
+* Two Sum BSTs: [Problem](https://leetcode.com/problems/two-sum-bsts);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_two-sum-bsts.cpp).
