@@ -616,3 +616,4 @@
 * Replace Elements with Greatest Element on Right Side: [Problem](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_replace-elements-with-greatest-element-on-right-side.cpp).
 * Minimum Remove to Make Valid Parentheses: [Problem](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-remove-to-make-valid-parentheses.cpp).
 * Print Words Vertically: [Problem](https://leetcode.com/problems/print-words-vertically/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_print-words-vertically.cpp).
+* Divide Chocolate: [Problem](https://leetcode.com/problems/divide-chocolate/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_divide-chocolate.cpp).
