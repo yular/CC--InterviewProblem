@@ -620,3 +620,4 @@
 * Car Pooling: [Problem](https://leetcode.com/problems/car-pooling/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_car-pooling.cpp).
 * Number of Burgers with No Waste of Ingredients: [Problem](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-burgers-with-no-waste-of-ingredients.cpp).
 * Deepest Leaves Sum : [Problem](https://leetcode.com/problems/deepest-leaves-sum/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_deepest-leaves-sum.cpp). 
+* Minimum Number of Taps to Open to Water a Garden: [Problem](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-number-of-taps-to-open-to-water-a-garden.cpp).
