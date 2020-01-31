@@ -1,7 +1,7 @@
 /*
 *
 * Tag: Divide and Conquer
-* Time: O(lgn)
+* Time: O(nm)
 * Space: O(lgn)
 */
 /**
