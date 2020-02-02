@@ -8,7 +8,7 @@
 class Solution {
 private:
     int wa[100005], wb[100005], wc[100005], wv[100005];
-    int ranks[100005], h[100005], lcp[100005];
+    int ranks[100005], lcp[100005];
     int r[100005], sa[100005];
 public:
     string longestDupSubstring(string S) {
@@ -24,7 +24,7 @@ public:
             r[i] = (int)S[i];
         }
         da(r, sa, n + 1, 256);
-        calheightAndLCP(r, sa, n);
+        calLCP(r, sa, n);
       
         int ans;
         int maxLen = 0;
@@ -34,7 +34,7 @@ public:
                 ans = sa[i];
             }
         }
-       return S.substr(ans, maxLen);
+        return S.substr(ans, maxLen);
     }
     
 private:
@@ -90,12 +90,12 @@ private:
     }
 
 
-    void calheightAndLCP(int *r, int *sa, int n){
+    void calLCP(int *r, int *sa, int n){
         int i, j, k = 0;
         for (i = 1; i <= n; ++ i) {
             ranks[sa[i]] = i;
         }
-        for (i = 0; i < n; h[ranks[i]] = k, lcp[ranks[i ++] - 1] = k) {
+        for (i = 0; i < n; lcp[ranks[i ++] - 1] = k) {
             for (k?k--:0, j = sa[ranks[i] - 1]; r[i + k] == r[j + k]; ++ k) ;            
         }
         return ;
