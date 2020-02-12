@@ -638,3 +638,4 @@
 * Check If It Is a Good Array: [Problem](https://leetcode.com/problems/check-if-it-is-a-good-array/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_check-if-it-is-a-good-array.cpp).
 * All Paths from Source Lead to Destination: [Problem](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_all-paths-from-source-lead-to-destination.cpp).
 * XOR Queries of a Subarray: [Problem](https://leetcode.com/problems/xor-queries-of-a-subarray/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_xor-queries-of-a-subarray.cpp).
+* Armstrong Number: [Problem](https://leetcode.com/problems/armstrong-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_armstrong-number.cpp).
