@@ -639,3 +639,10 @@
 * All Paths from Source Lead to Destination: [Problem](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_all-paths-from-source-lead-to-destination.cpp).
 * XOR Queries of a Subarray: [Problem](https://leetcode.com/problems/xor-queries-of-a-subarray/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_xor-queries-of-a-subarray.cpp).
 * Armstrong Number: [Problem](https://leetcode.com/problems/armstrong-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_armstrong-number.cpp).
+* Find Numbers with Even Number of Digits: [Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-numbers-with-even-number-of-digits.cpp).
+* Jump Game III: [Problem](https://leetcode.com/problems/jump-game-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_jump-game-iii.cpp).
+* Longest Common Subsequence: [Problem](https://leetcode.com/problems/longest-common-subsequence/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-common-subsequence.cpp).
+* Longest Repeating Substring: [Problem](https://leetcode.com/problems/longest-repeating-substring/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-repeating-substring.cpp).
+* Angle Between Hands of a Clock: [Problem](https://leetcode.com/problems/angle-between-hands-of-a-clock/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_angle-between-hands-of-a-clock.cpp).
+* Synonymous Sentences: [Problem](https://leetcode.com/problems/synonymous-sentences/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_synonymous-sentences.cpp).
+* Web Crawler: [Problem](https://leetcode.com/problems/web-crawler/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_web-crawler.cpp).
