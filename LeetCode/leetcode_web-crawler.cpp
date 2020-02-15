@@ -24,7 +24,6 @@ public:
         queue<string> q;
         q.push(startUrl);
         string curHostName = getHostName(startUrl);
-        cout<<curHostName<<endl;
         while(!q.empty()) {
             string cur = q.front();
             q.pop();
