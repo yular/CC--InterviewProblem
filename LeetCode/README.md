@@ -652,3 +652,4 @@
 * Construct Target Array with Multiple Sums: [Problem](https://leetcode.com/problems/construct-target-array-with-multiple-sums/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_construct-target-array-with-multiple-sums.cpp).
 * Hands of Straights: [Problem](https://leetcode.com/problems/hand-of-straights/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_hand-of-straights.cpp).
 * Jump Game II: [Problem](https://leetcode.com/problems/jump-game-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_jump-game-ii.cpp).
+* The Earliest Moment When Everyone Become Friends: [Problem](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_the-earliest-moment-when-everyone-become-friends.cpp).
