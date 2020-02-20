@@ -653,3 +653,4 @@
 * Hands of Straights: [Problem](https://leetcode.com/problems/hand-of-straights/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_hand-of-straights.cpp).
 * Jump Game II: [Problem](https://leetcode.com/problems/jump-game-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_jump-game-ii.cpp).
 * The Earliest Moment When Everyone Become Friends: [Problem](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_the-earliest-moment-when-everyone-become-friends.cpp).
+* Number of Dice Rolls With Target Sum: [Problem](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-dice-rolls-with-target-sum.cpp).
