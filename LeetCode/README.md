@@ -654,3 +654,6 @@
 * Jump Game II: [Problem](https://leetcode.com/problems/jump-game-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_jump-game-ii.cpp).
 * The Earliest Moment When Everyone Become Friends: [Problem](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_the-earliest-moment-when-everyone-become-friends.cpp).
 * Number of Dice Rolls With Target Sum: [Problem](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-dice-rolls-with-target-sum.cpp).
+* Design Linked List: [Problem](https://leetcode.com/problems/design-linked-list/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-linked-list.cpp).
+* Find Words That Ban be Formed by Characters: [Problem](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-words-that-can-be-formed-by-characters.cpp).
+* High Five: [Problem](https://leetcode.com/problems/high-five/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_high-five.cpp).
