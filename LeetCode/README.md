@@ -658,3 +658,6 @@
 * Find Words That Ban be Formed by Characters: [Problem](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-words-that-can-be-formed-by-characters.cpp).
 * High Five: [Problem](https://leetcode.com/problems/high-five/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_high-five.cpp).
 * Last Stone Weight: [Problem](https://leetcode.com/problems/last-stone-weight/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_last-stone-weight.cpp).
+* Delete Tree Nodes: [Problem](https://leetcode.com/problems/delete-tree-nodes/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_delete-tree-nodes.cpp).
+* Occurrences after Bigram: [Problem](https://leetcode.com/problems/occurrences-after-bigram/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_occurrences-after-bigram.cpp).
+* Jump Game V: [Problem](https://leetcode.com/problems/jump-game-v/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_jump-game-v.cpp).
