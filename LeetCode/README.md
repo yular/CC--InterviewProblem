@@ -683,3 +683,4 @@
 * Validate Binary Tree Nodes: [Problem](https://leetcode.com/problems/validate-binary-tree-nodes/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_validate-binary-tree-nodes.cpp).
 * Shift 2D Grid: [Problem](https://leetcode.com/problems/shift-2d-grid/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shift-2d-grid.cpp).
 * Grumpy Bookstore Owner: [Problem](https://leetcode.com/problems/grumpy-bookstore-owner/;   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_grumpy-bookstore-owner.cpp).
+* Sum of Digits in the Minimum Number: [Problem](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sum-of-digits-in-the-minimum-number.cpp).
