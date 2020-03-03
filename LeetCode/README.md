@@ -680,3 +680,6 @@
 * How Many Numbers Are Smaller Than the Current Number: [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_how-many-numbers-are-smaller-than-the-current-number.cpp).
 * Linked List in Binary Tree: [Problem](https://leetcode.com/problems/linked-list-in-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_linked-list-in-binary-tree.cpp).
 * Rank Teams by Votes: [Problem](https://leetcode.com/problems/rank-teams-by-votes/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rank-teams-by-votes.cpp).
+* Validate Binary Tree Nodes: [Problem](https://leetcode.com/problems/validate-binary-tree-nodes/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_validate-binary-tree-nodes.cpp).
+* Shift 2D Grid: [Problem](https://leetcode.com/problems/shift-2d-grid/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shift-2d-grid.cpp).
+* Grumpy Bookstore Owner: [Problem](https://leetcode.com/problems/grumpy-bookstore-owner/;   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_grumpy-bookstore-owner.cpp).
