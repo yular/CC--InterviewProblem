@@ -684,3 +684,8 @@
 * Shift 2D Grid: [Problem](https://leetcode.com/problems/shift-2d-grid/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shift-2d-grid.cpp).
 * Grumpy Bookstore Owner: [Problem](https://leetcode.com/problems/grumpy-bookstore-owner/;   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_grumpy-bookstore-owner.cpp).
 * Sum of Digits in the Minimum Number: [Problem](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sum-of-digits-in-the-minimum-number.cpp).
+* Minimum Cost to Connect Sticks: [Problem](https://leetcode.com/problems/minimum-cost-to-connect-sticks/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-cost-to-connect-sticks.cpp).
+* Letter Tile Possibilities: [Problem](https://leetcode.com/problems/letter-tile-possibilities/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_letter-tile-possibilities.cpp).
+* Longest String Chain: [Problem](https://leetcode.com/problems/longest-string-chain/;   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-string-chain.cpp).
+* Score After Flipping Matrix : [Problem](https://leetcode.com/problems/score-after-flipping-matrix/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_score-after-flipping-matrix.cpp).
+* Minimum Area Rectangle: [Problem](https://leetcode.com/problems/minimum-area-rectangle/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-area-rectangle.cpp).
