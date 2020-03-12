@@ -702,3 +702,6 @@
 * Maximum Length of Repeated Subarray: [Problem](https://leetcode.com/problems/maximum-length-of-repeated-subarray/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-length-of-repeated-subarray.cpp).
 * Maximum Number of Balloons: [Problem](https://leetcode.com/problems/maximum-number-of-balloons/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-number-of-balloons.cpp).
 * Matrix Block Sum: [Problem](https://leetcode.com/problems/matrix-block-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_matrix-block-sum.cpp).
+* Remove Interval: [Problem](https://leetcode.com/problems/remove-interval/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-interval.cpp).
+* Reverse Substrings Between Each Pair of Parentheses: [Problem](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_reverse-substrings-between-each-pair-of-parentheses.cpp).
+* Delete Columns to Make Sorted II: [Problem](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_delete-columns-to-make-sorted-ii.cpp).
