@@ -708,3 +708,4 @@
 * Search Suggestions System: [Problem](https://leetcode.com/problems/search-suggestions-system/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_search-suggestions-system.cpp).
 * Iterator for Combination: [Problem](https://leetcode.com/problems/iterator-for-combination/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_iterator-for-combination.cpp).
 * Intersection of Three Sorted Arrays: [Problem](https://leetcode.com/problems/intersection-of-three-sorted-arrays/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_intersection-of-three-sorted-arrays.cpp).
+* Shortest Bridge: [Problem](https://leetcode.com/problems/shortest-bridge/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shortest-bridge.cpp).
