@@ -709,3 +709,8 @@
 * Iterator for Combination: [Problem](https://leetcode.com/problems/iterator-for-combination/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_iterator-for-combination.cpp).
 * Intersection of Three Sorted Arrays: [Problem](https://leetcode.com/problems/intersection-of-three-sorted-arrays/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_intersection-of-three-sorted-arrays.cpp).
 * Shortest Bridge: [Problem](https://leetcode.com/problems/shortest-bridge/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shortest-bridge.cpp).
+* Sum of Root To Leaf Binary Numbers: [Problem](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_sum-of-root-to-leaf-binary-numbers.cpp).
+* Balance a Binary Search Tree: [Problem](https://leetcode.com/problems/balance-a-binary-search-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_balance-a-binary-search-tree.cpp).
+* Lucky Numbers in a Matrix: [Problem](https://leetcode.com/problems/lucky-numbers-in-a-matrix/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_lucky-numbers-in-a-matrix.cpp).
+* Remove Covered Intervals: [Problem](https://leetcode.com/problems/remove-covered-intervals/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-covered-intervals.cpp).
+* Fixed Points: [Problem](https://leetcode.com/problems/fixed-point/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_fixed-point.cpp).
