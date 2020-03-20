@@ -714,3 +714,4 @@
 * Lucky Numbers in a Matrix: [Problem](https://leetcode.com/problems/lucky-numbers-in-a-matrix/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_lucky-numbers-in-a-matrix.cpp).
 * Remove Covered Intervals: [Problem](https://leetcode.com/problems/remove-covered-intervals/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-covered-intervals.cpp).
 * Fixed Points: [Problem](https://leetcode.com/problems/fixed-point/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_fixed-point.cpp).
+* Smallest Common Region: [Problem](https://leetcode.com/problems/smallest-common-region/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_smallest-common-region.cpp).
