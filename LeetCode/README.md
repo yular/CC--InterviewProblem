@@ -723,3 +723,6 @@
 * Increasing Decreasing String: [Problem](https://leetcode.com/problems/increasing-decreasing-string/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_increasing-decreasing-string.cpp).
 * Max Consecutive Ones III : [Problem](https://leetcode.com/problems/max-consecutive-ones-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-consecutive-ones-iii.cpp).
 * The K Weakest Rows in a Matrix: [Problem](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_the-k-weakest-rows-in-a-matrix.cpp).
+* Statistics from a Large Sample: [Problem](https://leetcode.com/problems/statistics-from-a-large-sample/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_statistics-from-a-large-sample.cpp).
+* Flower Planting With No Adjacent: [Problem](https://leetcode.com/problems/flower-planting-with-no-adjacent/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flower-planting-with-no-adjacent.cpp).
+* Corporate Flight Bookings: [Problem](https://leetcode.com/problems/corporate-flight-bookings/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_corporate-flight-bookings.cpp).
