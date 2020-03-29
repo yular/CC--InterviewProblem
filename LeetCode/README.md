@@ -734,3 +734,4 @@
 * Number of Substrings Containing All Three Characters: [Problem](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-substrings-containing-all-three-characters.cpp).
 * Broken Calculator: [Problem](https://leetcode.com/problems/broken-calculator/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_broken-calculator.cpp).
 * Shortest Path in Binary Matrix: [Problem](https://leetcode.com/problems/shortest-path-in-binary-matrix/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shortest-path-in-binary-matrix.cpp).
+* Verifying Alien Dictionary: [Problem](https://leetcode.com/problems/verifying-an-alien-dictionary/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_verifying-an-alien-dictionary.cpp).
