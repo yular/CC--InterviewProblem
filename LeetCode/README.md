@@ -743,3 +743,4 @@
 * Create Target Array in the Given Order: [Problem](https://leetcode.com/problems/create-target-array-in-the-given-order/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_create-target-array-in-the-given-order.cpp).
 * Distance between Bus Stops: [Problem](https://leetcode.com/problems/distance-between-bus-stops/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_distance-between-bus-stops.cpp).
 * Check If N and Its Double Exist: [Problem](https://leetcode.com/problems/check-if-n-and-its-double-exist/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_check-if-n-and-its-double-exist.cpp).
+* Diet Plan Performance: [Problem](https://leetcode.com/problems/diet-plan-performance/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_diet-plan-performance.cpp).
