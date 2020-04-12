@@ -768,3 +768,7 @@
 * Most Profit Assigning Work: [Problem](https://leetcode.com/problems/most-profit-assigning-work/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_most-profit-assigning-work.cpp).
 * Can Make Palindrome from Substring: [Problem](https://leetcode.com/problems/can-make-palindrome-from-substring/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_can-make-palindrome-from-substring.cpp).
 * Subdomain Visit Count: [Problem](https://leetcode.com/problems/subdomain-visit-count/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_subdomain-visit-count.cpp).
+* Remove Sub-Folders from the Filesystem: [Problem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_remove-sub-folders-from-the-filesystem.cpp).
+* String Matching in an Array: [Problem](https://leetcode.com/problems/string-matching-in-an-array/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_string-matching-in-an-array.cpp).
+* Queries on a Permutation With Key: [Problem](https://leetcode.com/problems/queries-on-a-permutation-with-key/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_queries-on-a-permutation-with-key.cpp).
+* HTML Entity Parser: [Problem](https://leetcode.com/problems/html-entity-parser/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_html-entity-parser.cpp).
