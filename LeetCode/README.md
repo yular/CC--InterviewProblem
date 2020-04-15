@@ -781,3 +781,13 @@
 * Minimum Number of Flips to Convert Binary Matrix to Zero Matrix: [Problem](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.cpp).
 * Asteroid Collision: [Problem](https://leetcode.com/problems/asteroid-collision/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_asteroid-collision.cpp).
 * Snapshot Array: [Problem](https://leetcode.com/problems/snapshot-array/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_snapshot-array.cpp).
+* Count All Valid Pickup and Delivery Options: [Problem](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-all-valid-pickup-and-delivery-options.cpp).
+* Shortest Way to Form String : [Problem](https://leetcode.com/problems/shortest-way-to-form-string/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shortest-way-to-form-string.cpp).
+* N-th Tribonacci Number: [Problem](https://leetcode.com/problems/n-th-tribonacci-number/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_n-th-tribonacci-number.cpp).
+* Uncross Lines: [Problem](https://leetcode.com/problems/uncrossed-lines/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_uncrossed-lines.cpp).
+* Missing Element in Sorted Array: [Problem](https://leetcode.com/problems/missing-element-in-sorted-array/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_missing-element-in-sorted-array.cpp).
+* Stepping Numbers: [Problem](https://leetcode.com/problems/stepping-numbers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_stepping-numbers.cpp).
+* Bulb Switcher III: [Problem](https://leetcode.com/problems/bulb-switcher-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_bulb-switcher-iii.cpp).
+* Card Flipping Game: [Problem](https://leetcode.com/problems/card-flipping-game/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_card-flipping-game.cpp).
+* Rabits in Forest: [Problem](https://leetcode.com/problems/rabbits-in-forest/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rabbits-in-forest.cpp).
+* Loud and Rich: [Problem](https://leetcode.com/problems/loud-and-rich/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_loud-and-rich.cpp).
