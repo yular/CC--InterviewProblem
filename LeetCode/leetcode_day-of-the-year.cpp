@@ -1,0 +1,24 @@
+/*
+*
+* Tag: Math
+* Time: O(1)
+* Space: O(1)
+*/
+
+class Solution {
+private:
+    const int days[12] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+public:
+    int dayOfYear(string date) {
+        if(date.size() == 0) {
+            return 0;
+        }
+        int y = stoi(date.substr(0, 4)), m = stoi(date.substr(5, 2)), d = stoi(date.substr(8));
+        int ans = d;
+        if (m > 2 && y % 4 == 0 && (y % 100 != 0 || y % 400 == 0)){
+            ++ans;
+        } 
+        while (--m > 0) ans += days[m - 1];
+        return ans;
+    }
+};
