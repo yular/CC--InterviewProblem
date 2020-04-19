@@ -1,8 +1,8 @@
 /*
 *
 * Tag: Greedy
-* Time: O()
-* Space: O()
+* Time: O(n^(0.33333))
+* Space: O(n^(0.33333))
 */
 
 class Solution {
