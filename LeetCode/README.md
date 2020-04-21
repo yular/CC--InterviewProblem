@@ -813,3 +813,7 @@
 * Equal Tree Partition: [Problem](https://leetcode.com/problems/equal-tree-partition/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_equal-tree-partition.cpp).
 * Minimum Number of Frogs Croaking: [Problem](https://leetcode.com/problems/minimum-number-of-frogs-croaking/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-number-of-frogs-croaking.cpp).
 * Flip Binary Tree To Match Preorder Traversal: [Problem](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_flip-binary-tree-to-match-preorder-traversal.cpp).
+* Partition Array for Maximum Sum: [Problem](https://leetcode.com/problems/partition-array-for-maximum-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_partition-array-for-maximum-sum.cpp).
+* Meeting Scheduler: [Problem](https://leetcode.com/problems/meeting-scheduler/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_meeting-scheduler.cpp).
+* Knight Dialer : [Problem](https://leetcode.com/problems/knight-dialer/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_knight-dialer.cpp).
+* Powerful Integers: [Problem](https://leetcode.com/problems/powerful-integers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_powerful-integers.cpp).
