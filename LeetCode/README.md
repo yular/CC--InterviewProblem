@@ -838,3 +838,6 @@
 * Maximum Points You Can Obtain from Cards: [Problem](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-points-you-can-obtain-from-cards.cpp).
 * Diagonal Traverse II: [Problem](https://leetcode.com/problems/diagonal-traverse-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_diagonal-traverse-ii.cpp).
 * Constrained Subset Sum: [Problem](https://leetcode.com/problems/constrained-subset-sum/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_constrained-subset-sum.cpp).
+* Shortest Path in a Grid with Obstacles Elimination: [Problem](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_shortest-path-in-a-grid-with-obstacles-elimination.cpp).
+* Three Equal Parts: [Problem](https://leetcode.com/problems/three-equal-parts/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_three-equal-parts.cpp).
+* Unique Paths III: [Problem](https://leetcode.com/problems/unique-paths-iii/);  [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_unique-paths-iii.cpp).
