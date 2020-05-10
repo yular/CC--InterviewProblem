@@ -880,3 +880,4 @@
 * Delete and Earn: [Problem](https://leetcode.com/problems/delete-and-earn/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_delete-and-earn.cpp).
 * Build an Array With Stack Operations: [Problem](https://leetcode.com/problems/build-an-array-with-stack-operations/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_build-an-array-with-stack-operations.cpp).
 * Minimum Time to Collect All Apples in a Tree: [Problem](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-time-to-collect-all-apples-in-a-tree.cpp).
+* Longest Happy Prefix: [Problem](https://leetcode.com/problems/longest-happy-prefix/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-happy-prefix.cpp).
