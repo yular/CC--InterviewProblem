@@ -882,3 +882,5 @@
 * Minimum Time to Collect All Apples in a Tree: [Problem](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-time-to-collect-all-apples-in-a-tree.cpp).
 * Longest Happy Prefix: [Problem](https://leetcode.com/problems/longest-happy-prefix/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-happy-prefix.cpp).
 * Longest Turbulent Subarray: [Problem](https://leetcode.com/problems/longest-turbulent-subarray/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-turbulent-subarray.cpp).
+* Coloring A Border: [Problem](https://leetcode.com/problems/coloring-a-border/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_coloring-a-border.cpp).
+*  Minimum Moves to Reach Target with Rotations: [Problem](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-moves-to-reach-target-with-rotations.cpp).
