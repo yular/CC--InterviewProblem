@@ -1,6 +1,6 @@
 /*
 *
-* Tag: Data Structure (Heap)
+* Tag: Data Structure (min Heap)
 * Time: O(nlgn) where n is the number of cells in the matrix.
 * Space: O(n)
 */
