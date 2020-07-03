@@ -936,3 +936,5 @@
 * Path Crossing: [Problem](https://leetcode.com/problems/path-crossing/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_path-crossing.cpp).
 * Number of Subsequences That Satisfy the Given Sum Condition: [Problem](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-subsequences-that-satisfy-the-given-sum-condition.cpp).
 * Max Value of Equation: [Problem](https://leetcode.com/problems/max-value-of-equation/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-value-of-equation.cpp).
+* Palindrome Partitioning III: [Problem](https://leetcode.com/problems/palindrome-partitioning-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_palindrome-partitioning-iii.cpp).
+* Design a File Sharing System: [Problem](https://leetcode.com/problems/design-a-file-sharing-system/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-a-file-sharing-system.cpp).
