@@ -938,3 +938,4 @@
 * Max Value of Equation: [Problem](https://leetcode.com/problems/max-value-of-equation/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_max-value-of-equation.cpp).
 * Palindrome Partitioning III: [Problem](https://leetcode.com/problems/palindrome-partitioning-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_palindrome-partitioning-iii.cpp).
 * Design a File Sharing System: [Problem](https://leetcode.com/problems/design-a-file-sharing-system/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-a-file-sharing-system.cpp).
+* Analyze User Website Visit Pattern: [Problem](https://leetcode.com/problems/analyze-user-website-visit-pattern/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_analyze-user-website-visit-pattern.cpp).
