@@ -1,7 +1,7 @@
 /*
 *
 * Tag: Graph, Dijkstra
-* Time: O((m + n)gln)
+* Time: O((m + n)lgn)
 * Space: O(n + m)
 */
 
