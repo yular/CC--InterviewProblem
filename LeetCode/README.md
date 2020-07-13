@@ -953,3 +953,5 @@
 * Number of Substrings With Only 1s: [Problem](https://leetcode.com/problems/number-of-substrings-with-only-1s/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-substrings-with-only-1s.cpp).
 * Number of Good Pairs: [Problem](https://leetcode.com/problems/number-of-good-pairs/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-good-pairs.cpp).
 * Best Position for a Service Centre: [Problem](https://leetcode.com/problems/best-position-for-a-service-centre/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_best-position-for-a-service-centre.cpp).
+* Find Root of N-Ary Tree: [Problem](https://leetcode.com/problems/find-root-of-n-ary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-root-of-n-ary-tree.cpp).
+* Delete and Return Forest: [Problem](https://leetcode.com/problems/delete-nodes-and-return-forest/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_delete-nodes-and-return-forest.cpp).
