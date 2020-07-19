@@ -25,7 +25,7 @@ public:
         for(int i = 0; i < uniqArr.size(); i++) {
             int v = uniqArr[i];
             ans = min(ans, abs(v - target));
-            for(int j = i + 1; j < uniqArr.size(); j++){
+            for(int j = i + 1; j < uniqArr.size(); j++) {
                 v &= uniqArr[j];
                 ans = min(ans, abs(v - target));
                 if(v < target || ans == 0) break;
