@@ -966,3 +966,4 @@
 * Bulb Switcher IV: [Problem](https://leetcode.com/problems/bulb-switcher-iv/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_bulb-switcher-iv.cpp).
 * Minimum Number of Increments on Subarrays to Form a Target Array: [Problem](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-number-of-increments-on-subarrays-to-form-a-target-array.cpp).
 * Number of Good Leaf Nodes Pairs: [Problem](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-good-leaf-nodes-pairs.cpp).
+* Diameter of N-Ary Tree: [Problem](https://leetcode.com/problems/diameter-of-n-ary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_diameter-of-n-ary-tree.cpp).
