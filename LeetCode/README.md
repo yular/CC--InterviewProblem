@@ -968,3 +968,4 @@
 * Number of Good Leaf Nodes Pairs: [Problem](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-good-leaf-nodes-pairs.cpp).
 * Diameter of N-Ary Tree: [Problem](https://leetcode.com/problems/diameter-of-n-ary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_diameter-of-n-ary-tree.cpp).
 * Find the Index of the Large Integer: [Problem](https://leetcode.com/problems/find-the-index-of-the-large-integer/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-the-index-of-the-large-integer.cpp).
+* String Compression II: [Problem](https://leetcode.com/problems/string-compression-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_string-compression-ii.cpp).
