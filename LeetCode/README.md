@@ -969,3 +969,7 @@
 * Diameter of N-Ary Tree: [Problem](https://leetcode.com/problems/diameter-of-n-ary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_diameter-of-n-ary-tree.cpp).
 * Find the Index of the Large Integer: [Problem](https://leetcode.com/problems/find-the-index-of-the-large-integer/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-the-index-of-the-large-integer.cpp).
 * String Compression II: [Problem](https://leetcode.com/problems/string-compression-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_string-compression-ii.cpp).
+* Find the Winner of an Array Game: [Problem](https://leetcode.com/problems/find-the-winner-of-an-array-game/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-the-winner-of-an-array-game.cpp).
+* Minimum Swaps to Arrange a Binary Grid: [Problem](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-swaps-to-arrange-a-binary-grid.cpp).
+* Count Good Triplets: [Problem](https://leetcode.com/problems/count-good-triplets/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-good-triplets.cpp).
+* 1537. Get the Maximum Score: [Problem](https://leetcode.com/problems/get-the-maximum-score/), [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_get-the-maximum-score.cpp).
