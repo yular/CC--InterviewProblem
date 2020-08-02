@@ -972,4 +972,4 @@
 * Find the Winner of an Array Game: [Problem](https://leetcode.com/problems/find-the-winner-of-an-array-game/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-the-winner-of-an-array-game.cpp).
 * Minimum Swaps to Arrange a Binary Grid: [Problem](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-swaps-to-arrange-a-binary-grid.cpp).
 * Count Good Triplets: [Problem](https://leetcode.com/problems/count-good-triplets/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-good-triplets.cpp).
-* 1537. Get the Maximum Score: [Problem](https://leetcode.com/problems/get-the-maximum-score/), [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_get-the-maximum-score.cpp).
+* Get the Maximum Score: [Problem](https://leetcode.com/problems/get-the-maximum-score/); [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_get-the-maximum-score.cpp).
