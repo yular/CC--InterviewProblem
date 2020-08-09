@@ -1,6 +1,6 @@
 /*
 *
-* Tag: Implementation
+* Tag: Implementation / Math
 * Time: O(n)
 * Space: O(1)
 */
