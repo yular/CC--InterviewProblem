@@ -1,6 +1,6 @@
 /*
 *
-* Tag: Math
+* Tag: Math, Bit Manipulation
 * Time: O(nlgm) m is average of number in given array
 * Space: O(1)
 */
