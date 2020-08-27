@@ -997,3 +997,4 @@
 * Find Latest Group of Size M: [Problem](https://leetcode.com/problems/find-latest-group-of-size-m/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-latest-group-of-size-m.cpp).
 * Stone Game V: [Problem](https://leetcode.com/problems/stone-game-v/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_stone-game-v.cpp).
 * Stone Game III: [Problem](https://leetcode.com/problems/stone-game-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_stone-game-iii.cpp).
+* Put Boxes Into the Warehouse I: [Problem](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_put-boxes-into-the-warehouse-i.cpp).
