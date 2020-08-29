@@ -999,3 +999,4 @@
 * Stone Game III: [Problem](https://leetcode.com/problems/stone-game-iii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_stone-game-iii.cpp).
 * Put Boxes Into the Warehouse I: [Problem](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_put-boxes-into-the-warehouse-i.cpp).
 * Toss Strange Coins: [Problem](https://leetcode.com/problems/toss-strange-coins/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_toss-strange-coins.cpp).
+* Stone Game II: [Problem](https://leetcode.com/problems/stone-game-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_stone-game-ii.cpp).
