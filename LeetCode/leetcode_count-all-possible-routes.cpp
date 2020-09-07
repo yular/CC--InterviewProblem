@@ -2,7 +2,7 @@
 *
 * Tag: DP
 * Time: O(fuel*n^2)
-* Space: O()
+* Space: O(fuel*n)
 */
 
 class Solution {
