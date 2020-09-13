@@ -1,8 +1,8 @@
 /*
 *
 * Tag: MST
-* Time: O(m^2 + n*lgm) n is the number vertexes, and m is the number of edges.
-* Space: O(m^2)
+* Time: O(n^2 + n*lgn)
+* Space: O(n^2)
 */
 
 class Solution {
