@@ -3,6 +3,7 @@
 * Tag: Brute Force
 * Time: O(n^2)
 * Space: O(n)
+* Credit: https://leetcode.com/problems/count-unhappy-friends/discuss/843963/C%2B%2B-Friend-Distance
 */
 
 class Solution {
