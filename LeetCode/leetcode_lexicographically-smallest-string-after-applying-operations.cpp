@@ -1,8 +1,8 @@
 /*
 *
 * Tag: DFS
-* Time: O(a*n^2)
-* Space: O(a*n^2)
+* Time: O(10*n^2)
+* Space: O(10*n^2)
 */
 
 class Solution {
