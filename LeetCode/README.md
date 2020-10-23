@@ -1057,3 +1057,5 @@
 * Best Team With No Conflicts: [Problem](https://leetcode.com/problems/best-team-with-no-conflicts/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_best-team-with-no-conflicts.cpp).
 * Graph Connectivity With Threshold: [Problem](https://leetcode.com/problems/graph-connectivity-with-threshold/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_graph-connectivity-with-threshold.cpp).
 * Binary Trees With Factors: [Problem](https://leetcode.com/problems/binary-trees-with-factors/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-trees-with-factors.cpp).
+* Last Stone Weight II: [Problem](https://leetcode.com/problems/last-stone-weight-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_last-stone-weight-ii.cpp).
+* Design an Expression Tree With Evaluate Function: [Problem](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-an-expression-tree-with-evaluate-function.cpp).
