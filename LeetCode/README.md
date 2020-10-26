@@ -1059,3 +1059,7 @@
 * Binary Trees With Factors: [Problem](https://leetcode.com/problems/binary-trees-with-factors/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_binary-trees-with-factors.cpp).
 * Last Stone Weight II: [Problem](https://leetcode.com/problems/last-stone-weight-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_last-stone-weight-ii.cpp).
 * Design an Expression Tree With Evaluate Function: [Problem](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_design-an-expression-tree-with-evaluate-function.cpp).
+* Slowest Key: [Problem](https://leetcode.com/problems/slowest-key/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_slowest-key.cpp).
+* Arithmetic Subarrays: [Problem](https://leetcode.com/problems/arithmetic-subarrays/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_arithmetic-subarrays.cpp).
+* Path With Minimum Effort: [Problem](https://leetcode.com/problems/path-with-minimum-effort/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_path-with-minimum-effort.cpp).
+*  Rank Transform of a Matrix: [Problem](https://leetcode.com/problems/rank-transform-of-a-matrix/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_rank-transform-of-a-matrix.cpp).
