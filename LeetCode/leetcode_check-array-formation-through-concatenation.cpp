@@ -2,7 +2,7 @@
 *
 * Tag: Implementation
 * Time: O(nN)
-* Space: O(1)
+* Space: O(m)
 */
 
 class Solution {
