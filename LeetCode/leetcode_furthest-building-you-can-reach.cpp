@@ -1,7 +1,7 @@
 /*
 *
 * Tag: Greedy
-* Time: O(nlgn)
+* Time: O(nlgm)
 * Space: O(n)
 */
 
