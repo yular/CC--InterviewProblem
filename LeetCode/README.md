@@ -1093,3 +1093,4 @@
 *  Smallest String With A Given Numeric Value: [Problem](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_smallest-string-with-a-given-numeric-value.cpp).
 * Ways to Make a Fair Array: [Prolem](https://leetcode.com/problems/ways-to-make-a-fair-array/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_ways-to-make-a-fair-array.cpp).
 * Minimum Initial Energy to Finish Tasks: [Problem](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_minimum-initial-energy-to-finish-tasks.cpp);
+* Change the Root of a Binary Tree: [Problem](https://leetcode.com/problems/change-the-root-of-a-binary-tree/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_change-the-root-of-a-binary-tree.cpp).
