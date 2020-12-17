@@ -1117,3 +1117,4 @@
 * Stone Game VII: [Problem](https://leetcode.com/problems/stone-game-vii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_stone-game-vii.cpp).
 * Maximum Height by Stacking Cuboids: [Problem](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-height-by-stacking-cuboids.cpp).
 * Longest Palindromic Subsequence II: [Problem](https://leetcode.com/problems/longest-palindromic-subsequence-ii/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-palindromic-subsequence-ii.cpp).
+* Count Ways to Distribute Candies: [Problem](https://leetcode.com/problems/count-ways-to-distribute-candies/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-ways-to-distribute-candies.cpp).
