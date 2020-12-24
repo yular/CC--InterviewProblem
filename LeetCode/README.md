@@ -1122,3 +1122,4 @@
 * Maximum Erasure Value: [Problem](https://leetcode.com/problems/maximum-erasure-value/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-erasure-value.cpp).
 * Jump Game VI: [Problem](https://leetcode.com/problems/jump-game-vi/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_jump-game-vi.cpp).
 * Checking Existence of Edge Length Limited Paths: [Problem](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_checking-existence-of-edge-length-limited-paths.cpp).
+* Number of Distinct Substrings in a String: [Problem](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_number-of-distinct-substrings-in-a-string.cpp).
