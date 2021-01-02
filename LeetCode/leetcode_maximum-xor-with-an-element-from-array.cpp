@@ -1,39 +1,60 @@
 /*
 *
-* Tag: Trie (Data Structure)
-* Time: O(n + q)
-* Space: O(1)
+* Tag: Trie
+* Time: O(qn)
+* Space: O(n)
 */
 
-struct Trie{
-    vector<Trie*> arr;
-    bool isNum = false;
+class TrieNode {
+public:
+    bool isEnd;
+    vector<TrieNode*> children;
+    
+    TrieNode(bool end=false) {
+        isEnd=end;
+        children.resize(2);
+    }
+};
+
+class Trie {
+public:
+    TrieNode* root;
+    
     Trie() {
-        arr.resize(2);
+        root = new TrieNode();
     }
-    
-    void build(int n) {
-        auto node = this;
-        for(int i = 30; i >= 0; --i) {
-            int x = (n >> i) & 1;
-            if(node->arr[x] == NULL) node->arr[x] = new Trie();
-            node = node->arr[x];
+
+    // Inserts a number into the trie.
+    void insert(int n) {
+        TrieNode* node = root;
+        int i;
+        for(int i = 30; i >= 0; -- i) {
+            int idx = ((n>>i)&1);
+            if(node->children[idx] == NULL) {
+                node->children[idx] = new TrieNode();
+            }
+            node = node->children[idx];
         }
-        node->isNum = true;
+        node->isEnd = true;
     }
-    
-    int query(int x, int m, int res, int idx) {
-        if(res > m) return -1; //can't be larger than m.
-        if(idx < 0) return res; //at the end of the number
-        auto node = this;
-        int xbit = (x >>idx) & 1;
-        int mbit = (m >> idx) & 1;
-        if(node->arr[xbit ^  1]) {  //try the invert bit of x at first.
-            int ret = node->arr[xbit ^  1]->query(x, m, res | ((xbit ^ 1) << idx), idx - 1);
-            if(ret >= 0) return ret;
+
+    // Returns if the number is in the trie, otherwise -1
+    int search(int x, int m, int val, int idx, TrieNode* node) {
+        if(val > m) {
+            return -1;
         }
-        if(node->arr[xbit]) { // can't get result above, then we try the other path.
-            return node->arr[xbit]->query(x, m, res | (xbit << idx), idx - 1);
+        
+        if(idx < 0) {
+            return val;
+        }
+        
+        int curBit = (x >>idx) & 1, pos = curBit^1;
+        if(node->children[pos] != NULL) {
+            int res = search(x, m, val | (pos << idx), idx - 1, node->children[pos]);
+            if(res >= 0) return res;
+        }
+        if(node->children[curBit] != NULL) {
+            return search(x, m, val | (curBit << idx), idx - 1, node->children[curBit]);
         }
         return -1;
     }
@@ -44,17 +65,18 @@ public:
     vector<int> maximizeXor(vector<int>& nums, vector<vector<int>>& queries) {
         Trie trie;
         for(auto x : nums) {
-            trie.build(x);
+            trie.insert(x);
         }
-        vector<int> ans;
-        for(auto &q : queries) {
+        
+        int n = queries.size(), idx = 0;
+        vector<int> ans(n, -1);
+        for(vector<int> &q : queries) {
             int x = q[0], m = q[1];
-            int res = 0;
-            res = trie.query(x, m, res, 30);
+            int res = trie.search(x, m, 0, 30, trie.root);
             if(res >= 0) {
-                ans.push_back(res ^ x);
-            }else
-                ans.push_back(-1);
+                ans[idx] = (res ^ x);
+            }
+            ++ idx;
         }
         return ans;
     }
