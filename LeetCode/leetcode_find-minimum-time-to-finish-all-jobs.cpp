@@ -3,6 +3,7 @@
 * Tag: DFS
 * Time: O(nlgn + k^(n - k))
 * Space: O(k)
+* Can take a look at this solution: https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/discuss/1009768/C%2B%2B-0ms-Use-Greedy-to-Prune
 */
 
 class Solution {
