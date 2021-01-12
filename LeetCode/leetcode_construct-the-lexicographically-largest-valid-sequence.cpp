@@ -1,7 +1,7 @@
 /*
 *
 * Tag: DFS
-* Time: ?
+* Time: O(n^n)
 * Space: O(n)
 /
 
