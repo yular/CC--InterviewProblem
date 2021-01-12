@@ -12,7 +12,7 @@ public:
             return {};
         }
         
-        int len = 2*(n - 1) + 1, cnt = 0;
+        int len = 2*n - 1, cnt = 0;
         vector<int> ans(len, -1);
         vector<bool> vis(n + 1, false);
         bool isFind = false;
