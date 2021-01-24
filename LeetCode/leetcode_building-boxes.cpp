@@ -3,6 +3,7 @@
 * Tag: Math
 * Time: O(n)
 * Space: O(1)
+* Credit: https://leetcode.com/problems/building-boxes/discuss/1032016/C%2B%2B-Python-3-variables-solution-with-drawing-explanation
 */
 
 class Solution {
