@@ -3,6 +3,7 @@
 * Tag: Divide and Conquer + Binary Search
 * Time: O(2^n)
 * Space: O(2^n)
+* Credit: https://leetcode.com/problems/closest-subsequence-sum/discuss/1053657/C%2B%2B-Clean-code-with-explanation
 */
 
 class Solution {
