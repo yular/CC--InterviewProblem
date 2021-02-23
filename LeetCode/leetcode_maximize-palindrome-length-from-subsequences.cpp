@@ -1,8 +1,8 @@
 /*
 *
 * Tag: DP
-* Time: O(nm)
-* Space: O(nm)
+* Time: O(n^2) 
+* Space: O(n^2) 
 */
 
 class Solution {
