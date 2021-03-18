@@ -1195,3 +1195,4 @@
 * Find Center of Star Graph: [Problem](https://leetcode.com/problems/find-center-of-star-graph/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_find-center-of-star-graph.cpp).
 * Maximum Average Pass Ratio: [Problem](https://leetcode.com/problems/maximum-average-pass-ratio/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-average-pass-ratio.cpp).
 * Maximum Score of a Good Subarray: [Problem](https://leetcode.com/problems/maximum-score-of-a-good-subarray/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-score-of-a-good-subarray.cpp).
+* Count Pairs of Equal Substrings With Minimum Difference: [Problem](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-pairs-of-equal-substrings-with-minimum-difference.cpp).
