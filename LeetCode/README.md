@@ -1233,3 +1233,4 @@
 * Frequency of the Most Frequent Element: [Problem](https://leetcode.com/problems/frequency-of-the-most-frequent-element/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_frequency-of-the-most-frequent-element.cpp).
 * Longest Substring Of All Vowels in Order: [Problem](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_longest-substring-of-all-vowels-in-order.cpp).
 * Maximum Building Height: [Problem](https://leetcode.com/problems/maximum-building-height/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-building-height.cpp).
+* Next Palindrome Using Same Digits: [Problem](https://leetcode.com/problems/next-palindrome-using-same-digits/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_next-palindrome-using-same-digits.cpp).
