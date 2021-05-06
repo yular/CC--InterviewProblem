@@ -1238,3 +1238,4 @@
 * Seat Reservation Manager: [Problem](https://leetcode.com/problems/seat-reservation-manager/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_seat-reservation-manager.cpp).
 * Maximum Element After Decreasing and Rearranging: [Problem](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-element-after-decreasing-and-rearranging.cpp).
 * Closest Room: [Problem](https://leetcode.com/problems/closest-room/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_closest-room.cpp).
+* Distinct Numbers in Each Subarray: [Problem](https://leetcode.com/problems/distinct-numbers-in-each-subarray/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_distinct-numbers-in-each-subarray.cpp).
