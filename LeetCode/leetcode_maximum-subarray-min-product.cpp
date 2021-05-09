@@ -1,7 +1,7 @@
 /*
 *
-* Tag: Sort + Greedy
-* Time: O(nlgn)
+* Tag: Mono Stack
+* Time: O(n)
 * Space: O(n)
 */
 
@@ -20,35 +20,31 @@ public:
             sum[i] = sum[i - 1] + nums[i];
         }
         
-        vector<vector<int>> numVec(n);
-        for(int i = 0; i < n; ++ i) {
-            numVec[i] = {nums[i], i};
-        }
-        sort(numVec.begin(), numVec.end());
-        
-        map<int,int> dict;
-        dict[n - 1] = 0;
-        
-        int ans = 0;
+        vector<int> stk(n, 0);
+        int ans = 0, top = 0;
         long long maxVal = 0;
-        for(int i = 0; i < n; ++ i) {
-            long long v = numVec[i][0];
-            auto it = dict.lower_bound(numVec[i][1]);
-            int rb = it->first, lb = it->second;
-            long long s = sum[rb];
-            if(lb > 0) {
-                s -= sum[lb - 1];
+        for(int i = 0; i <= n; ++ i) {
+            long long v = -1;
+            if(i < n) {
+                v = nums[i];
             }
-            if(v*s > maxVal) {
-                maxVal = v*s;
-                ans = maxVal % MOD;
+            while(top > 0) {
+                if(nums[stk[top - 1]] > v) {
+                    long long rbs = sum[i - 1], lbs = 0;
+                    if(top >= 2) {
+                        lbs = sum[stk[top - 2]];
+                    }
+                    long long cur = nums[stk[top - 1]]*(rbs - lbs);
+                    if(cur > maxVal) {
+                        maxVal = cur;
+                        ans = maxVal%MOD;
+                    }
+                    -- top;
+                } else {
+                    break;
+                }
             }
-            if(numVec[i][1] < rb) {
-                dict[rb] = numVec[i][1] + 1;
-            }
-            if(numVec[i][1] > lb) {
-                dict[numVec[i][1] - 1] = lb;
-            }
+            stk[top ++] = i;
         }
         return ans;
     }
