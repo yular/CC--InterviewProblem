@@ -41,3 +41,33 @@ public:
         return ans;
     }
 };
+
+
+// Credit: https://leetcode.com/problems/sum-of-floored-pairs/discuss/1212352/(C%2B%2B)-1862.-Sum-of-Floored-Pairs
+class Solution {
+private:
+    int MOD = 1e9 + 7;
+public:
+    int sumOfFlooredPairs(vector<int>& nums) {
+        if(nums.size() == 0) {
+            return 0;
+        }
+        
+        int m = *max_element(nums.begin(), nums.end()); 
+        vector<long> vals(m+1); 
+        for (auto x : nums) 
+            ++vals[x]; 
+        
+        for (int x = m; x > 0; --x) 
+            for (int xx = 2*x; xx <= m; xx += x) 
+                vals[xx] += vals[x]; 
+        
+        for (int i = 1; i < vals.size(); ++i) 
+            vals[i] += vals[i-1]; 
+        
+        int ans = 0; 
+        for (auto x : nums) 
+            ans = (ans + vals[x]) % MOD; 
+        return ans; 
+    }
+};
