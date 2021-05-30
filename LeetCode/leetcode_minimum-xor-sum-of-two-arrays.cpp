@@ -22,15 +22,15 @@ private:
             return 0;
         }
         
-        if(memo[idx][mask]!=-1) {
-            return memo[idx][mask];
+        if(dp[idx][mask]!=-1) {
+            return dp[idx][mask];
         }
         int res=INT_MAX;
         for(int i = 0; i < nums1.size(); ++i) {
             if((mask&(1<<i))==0) {
-                res = min(res,(nums1[idx]^nums2[i]) + dfs(idx + 1, mask|1<<i, nums1, nums2));
+                res = min(res,(nums1[idx]^nums2[i]) + dfs(idx + 1, mask|1<<i, nums1, nums2, dp));
             }
         }
-        return memo[idx][mask]=res;
+        return dp[idx][mask]=res;
     }
 };
