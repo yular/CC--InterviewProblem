@@ -2,7 +2,10 @@
 
 
 ## Algorithm
-* Maximum Product Difference Between Two Pairs: [Problem](ttps://leetcode.com/problems/maximum-product-difference-between-two-pairs); [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-product-difference-between-two-pairs.cpp)
+* Maximum Product Difference Between Two Pairs: [Problem](ttps://leetcode.com/problems/maximum-product-difference-between-two-pairs); [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-product-difference-between-two-pairs.cpp).
+* Largest Odd Number in String: [Problem](https://leetcode.com/problems/largest-odd-number-in-string/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-odd-number-in-string.cpp).
+* Game of Nim: [Problem](https://leetcode.com/problems/game-of-nim/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_game-of-nim.cpp).
+* Count Sub Islands: [Problem](https://leetcode.com/problems/count-sub-islands/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-sub-islands.cpp).
 * Range Sum Query - Mutable: [Problem](https://leetcode.com/problems/range-sum-query-mutable/);    [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_range-sum-query-mutable.cpp).
 * Largest Multiple of Three: [Problem](https://leetcode.com/problems/largest-multiple-of-three/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-multiple-of-three.cpp).
 * Range Sum Query 2D - Mutable: [Problem](https://leetcode.com/problems/range-sum-query-2d-mutable/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_range-sum-query-2d-mutable.cpp).
