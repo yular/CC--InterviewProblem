@@ -3,6 +3,9 @@
 
 ## Algorithm
 * Maximum Product Difference Between Two Pairs: [Problem](ttps://leetcode.com/problems/maximum-product-difference-between-two-pairs); [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-product-difference-between-two-pairs.cpp).
+* Build Array from Permutation: [Problem](https://leetcode.com/problems/build-array-from-permutation/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_build-array-from-permutation.cpp).
+* Count Good Numbers: [Problem](https://leetcode.com/problems/count-good-numbers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-good-numbers.cpp).
+* Eliminate Maximum Number of Monsters: [Problem](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_eliminate-maximum-number-of-monsters.cpp).
 * Largest Odd Number in String: [Problem](https://leetcode.com/problems/largest-odd-number-in-string/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_largest-odd-number-in-string.cpp).
 * Game of Nim: [Problem](https://leetcode.com/problems/game-of-nim/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_game-of-nim.cpp).
 * Count Sub Islands: [Problem](https://leetcode.com/problems/count-sub-islands/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-sub-islands.cpp).
