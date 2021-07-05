@@ -3,6 +3,7 @@
 
 ## Algorithm
 * Maximum Product Difference Between Two Pairs: [Problem](ttps://leetcode.com/problems/maximum-product-difference-between-two-pairs); [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_maximum-product-difference-between-two-pairs.cpp).
+* Depth of BST Given Insertion Order: [Problem](https://leetcode.com/problems/depth-of-bst-given-insertion-order/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_depth-of-bst-given-insertion-order.cpp).
 * Build Array from Permutation: [Problem](https://leetcode.com/problems/build-array-from-permutation/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_build-array-from-permutation.cpp).
 * Count Good Numbers: [Problem](https://leetcode.com/problems/count-good-numbers/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_count-good-numbers.cpp).
 * Eliminate Maximum Number of Monsters: [Problem](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/);   [Code](https://github.com/yular/CC--InterviewProblem/blob/master/LeetCode/leetcode_eliminate-maximum-number-of-monsters.cpp).
